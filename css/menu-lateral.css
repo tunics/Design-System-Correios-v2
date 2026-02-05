@@ -120,6 +120,7 @@ button[data-sub][aria-expanded="true"] i.ic-marcador-direita {
 
     & .menu-container {
       padding: var(--espaco-m);
+      padding-bottom: var(--espaco-xg);
       background-color: var(--cor-superficie);
       color: var(--cor-sobre-secundaria);
       position: relative;
@@ -133,6 +134,14 @@ button[data-sub][aria-expanded="true"] i.ic-marcador-direita {
       transform: translateX(-100%);
       transition: transform 0.15s ease;
       will-change: transform;
+
+      & section {
+        padding: 1rem 0;
+      }
+
+      & section#nome-sistema {
+        padding: 1rem;
+      }
     }
   }
 
