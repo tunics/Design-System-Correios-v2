@@ -1,0 +1,4290 @@
+{
+  "ajuste-horizontal": {
+    "tags": [
+      "interface",
+      "ajuste",
+      "configurações"
+    ],
+    "aliases": [
+      "ajuste",
+      "horizontal",
+      "ajuste horizontal",
+      "ajuste-horizontal",
+      "ajustes de interface"
+    ]
+  },
+  "ajuste-vertical": {
+    "tags": [
+      "ajuste",
+      "interface",
+      "configurações"
+    ],
+    "aliases": [
+      "ajuste",
+      "vertical",
+      "ajuste vertical",
+      "ajustes de interface"
+    ]
+  },
+  "ajustes": {
+    "tags": [
+      "interface",
+      "ajuste"
+    ],
+    "aliases": [
+      "config",
+      "ajustes",
+      "settings",
+      "configuracao",
+      "configuração",
+      "preferencias",
+      "configuracoes",
+      "ajustes de interface",
+      "chave"
+    ]
+  },
+  "configuracoes": {
+    "tags": [
+      "interface",
+      "configurações"
+    ],
+    "aliases": [
+      "config",
+      "settings",
+      "configuracao",
+      "configuração",
+      "preferencias",
+      "configuracoes",
+      "ajustes de interface"
+    ]
+  },
+  "filtro": {
+    "tags": [
+      "filtro",
+      "interface"
+    ],
+    "aliases": [
+      "buscar",
+      "filtro",
+      "filtrar",
+      "refinar",
+      "filtragem",
+      "ajustes de interface"
+    ]
+  },
+  "lua": {
+    "tags": [
+      "interface",
+      "tema"
+    ],
+    "aliases": [
+      "lua",
+      "noite",
+      "escuro",
+      "dark mode",
+      "modo escuro",
+      "ajustes de interface"
+    ]
+  },
+  "ordem-alfabetica": {
+    "tags": [
+      "interface",
+      "filtro"
+    ],
+    "aliases": [
+      "az",
+      "a-z",
+      "sort",
+      "ordem",
+      "ordenar",
+      "por nome",
+      "organizar",
+      "alfabetica",
+      "alfabética",
+      "classificar",
+      "ordem alfabetica",
+      "ordem-alfabetica",
+      "ajustes de interface"
+    ]
+  },
+  "ordem-inverter": {
+    "tags": [
+      "interface",
+      "filtro"
+    ],
+    "aliases": [
+      "sort",
+      "ordem",
+      "ordenar",
+      "inverter",
+      "organizar",
+      "classificar",
+      "ordem inverter",
+      "ordem-inverter",
+      "ajustes de interface"
+    ]
+  },
+  "ordenar": {
+    "tags": [
+      "interface",
+      "filtro"
+    ],
+    "aliases": [
+      "sort",
+      "ordem",
+      "ordenar",
+      "organizar",
+      "classificar",
+      "ajustes de interface"
+    ]
+  },
+  "sol": {
+    "tags": [
+      "interface",
+      "tema"
+    ],
+    "aliases": [
+      "dia",
+      "sol",
+      "claro",
+      "light mode",
+      "modo claro",
+      "ajustes de interface"
+    ]
+  },
+  "sol2": {
+    "tags": [
+      "interface",
+      "tema"
+    ],
+    "aliases": [
+      "sol",
+      "ajustes de interface",
+      "tema claro",
+      "light mode",
+      "modo claro"
+    ]
+  },
+  "tema": {
+    "tags": [
+      "tema",
+      "interface"
+    ],
+    "aliases": [
+      "modo",
+      "tema",
+      "theme",
+      "aparencia",
+      "ajustes de interface"
+    ]
+  },
+  "adicionar": {
+    "tags": [
+      "adicionar",
+      "ação"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "acoes",
+      "ações",
+      "criar",
+      "somar",
+      "incluir",
+      "adicionar"
+    ]
+  },
+  "adicionar-circulo": {
+    "tags": [
+      "adicionar",
+      "circulo",
+      "ação"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "acoes",
+      "ações",
+      "criar",
+      "somar",
+      "circulo",
+      "incluir",
+      "adicionar",
+      "adicionar circulo",
+      "adicionar-circulo"
+    ]
+  },
+  "alerta": {
+    "tags": [
+      "alerta",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "aviso",
+      "ações",
+      "alerta",
+      "perigo",
+      "atencao",
+      "atenção",
+      "warning"
+    ]
+  },
+  "alto-contraste": {
+    "tags": [
+      "ação",
+      "alto contraste"
+    ],
+    "aliases": [
+      "alto",
+      "acoes",
+      "ações",
+      "contraste",
+      "alto contraste",
+      "alto-contraste"
+    ]
+  },
+  "backspace": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "backspace",
+      "voltar"
+    ]
+  },
+  "borracha": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "borracha",
+      "apagar",
+      "limpar"
+    ]
+  },
+  "compartilhar": {
+    "tags": [
+      "compartilhar",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "share",
+      "enviar",
+      "dividir",
+      "compartilhar"
+    ]
+  },
+  "compartilhar-2": {
+    "tags": [
+      "compartilhar",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "share",
+      "enviar",
+      "dividir",
+      "compartilhar"
+    ]
+  },
+  "copiar": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "copy",
+      "acoes",
+      "ações",
+      "copiar",
+      "ctrl c",
+      "duplicar",
+      "copiar texto"
+    ]
+  },
+  "diminuir": {
+    "tags": [
+      "diminuir",
+      "ação"
+    ],
+    "aliases": [
+      "-",
+      "acoes",
+      "ações",
+      "menos",
+      "reduzir",
+      "diminuir",
+      "subtrair"
+    ]
+  },
+  "diminuir-circulo": {
+    "tags": [
+      "diminuir",
+      "ação",
+      "circulo"
+    ],
+    "aliases": [
+      "-",
+      "acoes",
+      "ações",
+      "menos",
+      "circulo",
+      "reduzir",
+      "diminuir",
+      "subtrair",
+      "diminuir circulo",
+      "diminuir-circulo"
+    ]
+  },
+  "download": {
+    "tags": [
+      "arquivo",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "baixar",
+      "download",
+      "baixar arquivo",
+      "salvar no dispositivo"
+    ]
+  },
+  "duvida-circulo": {
+    "tags": [
+      "circulo",
+      "ação"
+    ],
+    "aliases": [
+      "?",
+      "faq",
+      "acoes",
+      "ajuda",
+      "ações",
+      "duvida",
+      "circulo",
+      "suporte",
+      "pergunta",
+      "duvida circulo",
+      "duvida-circulo",
+      "ajuda no circulo",
+      "ajuda no círculo"
+    ]
+  },
+  "editar": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "lapis",
+      "editar",
+      "pencil",
+      "alterar",
+      "modificar"
+    ]
+  },
+  "enter": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "enter",
+      "confirmar"
+    ]
+  },
+  "entrar": {
+    "tags": [
+      "ação",
+      "login"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "login",
+      "entrar",
+      "acessar",
+      "sign in"
+    ]
+  },
+  "estrela": {
+    "tags": [
+      "ação",
+      "favorito"
+    ],
+    "aliases": [
+      "star",
+      "acoes",
+      "ações",
+      "marcar",
+      "estrela",
+      "favorito",
+      "favoritar"
+    ]
+  },
+  "excluir": {
+    "tags": [
+      "excluir",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "apagar",
+      "delete",
+      "deletar",
+      "excluir",
+      "remover"
+    ]
+  },
+  "excluir-circulo": {
+    "tags": [
+      "circulo",
+      "excluir",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "apagar",
+      "delete",
+      "circulo",
+      "deletar",
+      "excluir",
+      "remover",
+      "excluir circulo",
+      "excluir-circulo"
+    ]
+  },
+  "expandir": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "expandir"
+    ]
+  },
+  "importar": {
+    "tags": [
+      "arquivo",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "trazer",
+      "carregar",
+      "importar",
+      "upload (importar)"
+    ]
+  },
+  "imprimir": {
+    "tags": [
+      "imprimir",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "print",
+      "imprimir",
+      "impressao"
+    ]
+  },
+  "informacao": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "info",
+      "acoes",
+      "ações",
+      "sobre",
+      "detalhes",
+      "informacao",
+      "informação"
+    ]
+  },
+  "item-visto": {
+    "tags": [
+      "visto",
+      "ação"
+    ],
+    "aliases": [
+      "ok",
+      "item",
+      "acoes",
+      "ações",
+      "check",
+      "visto",
+      "checado",
+      "validado",
+      "confirmado",
+      "item visto",
+      "item-visto"
+    ]
+  },
+  "ligar-desligar": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "on",
+      "off",
+      "acoes",
+      "ações",
+      "chave",
+      "ligar",
+      "ativar",
+      "on off",
+      "toggle",
+      "desligar",
+      "desativar",
+      "interruptor",
+      "ligar desligar",
+      "ligar-desligar",
+      "ativar desativar"
+    ]
+  },
+  "link": {
+    "tags": [
+      "link",
+      "ação"
+    ],
+    "aliases": [
+      "url",
+      "link",
+      "acoes",
+      "ações",
+      "vinculo",
+      "vínculo",
+      "endereco",
+      "endereço"
+    ]
+  },
+  "link-quebrado": {
+    "tags": [
+      "link",
+      "ação"
+    ],
+    "aliases": [
+      "url",
+      "link",
+      "acoes",
+      "ações",
+      "vinculo",
+      "vínculo",
+      "endereco",
+      "endereço",
+      "quebrado",
+      "link quebrado",
+      "desvincular"
+    ]
+  },
+  "lixo": {
+    "tags": [
+      "ação",
+      "excluir"
+    ],
+    "aliases": [
+      "lixo",
+      "acoes",
+      "ações",
+      "trash",
+      "deletar",
+      "excluir",
+      "lixeira"
+    ]
+  },
+  "lupa": {
+    "tags": [
+      "ação",
+      "busca"
+    ],
+    "aliases": [
+      "lupa",
+      "acoes",
+      "ações"
+    ]
+  },
+  "menu-hamburguer": {
+    "tags": [
+      "menu",
+      "ação"
+    ],
+    "aliases": [
+      "mais",
+      "menu",
+      "acoes",
+      "ações",
+      "opcoes",
+      "opções",
+      "hamburguer",
+      "hambúrguer",
+      "mais opcoes",
+      "mais opções",
+      "tres linhas",
+      "três linhas",
+      "menu hamburguer",
+      "menu-hamburguer"
+    ]
+  },
+  "menu-hamburguer-aberto": {
+    "tags": [
+      "menu",
+      "ação"
+    ],
+    "aliases": [
+      "mais",
+      "menu",
+      "acoes",
+      "ações",
+      "aberto",
+      "opcoes",
+      "opções",
+      "hamburguer",
+      "hambúrguer",
+      "fechar menu",
+      "mais opcoes",
+      "mais opções",
+      "menu aberto",
+      "hamburguer aberto",
+      "menu hamburguer aberto",
+      "menu-hamburguer-aberto"
+    ]
+  },
+  "menu-pontos-hor": {
+    "tags": [
+      "menu",
+      "ação"
+    ],
+    "aliases": [
+      "hor",
+      "mais",
+      "menu",
+      "acoes",
+      "ações",
+      "opcoes",
+      "opções",
+      "pontos",
+      "hamburguer",
+      "hambúrguer",
+      "mais opcoes",
+      "mais opções",
+      "tres pontos",
+      "três pontos",
+      "menu pontos hor",
+      "menu-pontos-hor",
+      "menu de contexto"
+    ]
+  },
+  "menu-pontos-ver": {
+    "tags": [
+      "menu",
+      "ação"
+    ],
+    "aliases": [
+      "ver",
+      "mais",
+      "menu",
+      "acoes",
+      "ações",
+      "opcoes",
+      "opções",
+      "pontos",
+      "hamburguer",
+      "hambúrguer",
+      "mais opcoes",
+      "mais opções",
+      "tres pontos",
+      "três pontos",
+      "menu pontos ver",
+      "menu-pontos-ver",
+      "menu de contexto"
+    ]
+  },
+  "proibido": {
+    "tags": [
+      "ação",
+      "excluir"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "negado",
+      "proibido",
+      "bloqueado",
+      "nao permitido",
+      "não permitido"
+    ]
+  },
+  "sair": {
+    "tags": [
+      "ação",
+      "login"
+    ],
+    "aliases": [
+      "sair",
+      "acoes",
+      "ações",
+      "logout",
+      "deslogar",
+      "fechar conta"
+    ]
+  },
+  "salvar": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "salvar",
+      "guardar"
+    ]
+  },
+  "tesoura": {
+    "tags": [
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "tesoura",
+      "recortar",
+      "cortar"
+    ]
+  },
+  "upload": {
+    "tags": [
+      "arquivo",
+      "ação"
+    ],
+    "aliases": [
+      "acoes",
+      "ações",
+      "subir",
+      "enviar",
+      "upload",
+      "carregar arquivo"
+    ]
+  },
+  "vinculo": {
+    "tags": [
+      "ação",
+      "link"
+    ],
+    "aliases": [
+      "link",
+      "acoes",
+      "ações",
+      "linkar",
+      "vinculo",
+      "associar",
+      "conectar",
+      "vincular"
+    ]
+  },
+  "visto": {
+    "tags": [
+      "visto",
+      "ação"
+    ],
+    "aliases": [
+      "ok",
+      "acoes",
+      "ações",
+      "check",
+      "visto",
+      "checado",
+      "validado",
+      "confirmado"
+    ]
+  },
+  "visto-circulo": {
+    "tags": [
+      "circulo",
+      "visto",
+      "ação"
+    ],
+    "aliases": [
+      "ok",
+      "acoes",
+      "ações",
+      "check",
+      "visto",
+      "checado",
+      "circulo",
+      "validado",
+      "confirmado",
+      "ok no circulo",
+      "ok no círculo",
+      "visto circulo",
+      "visto-circulo",
+      "check no circulo",
+      "check no círculo"
+    ]
+  },
+  "visto-duplo": {
+    "tags": [
+      "visto",
+      "ação"
+    ],
+    "aliases": [
+      "ok",
+      "acoes",
+      "ações",
+      "check",
+      "duplo",
+      "visto",
+      "checado",
+      "validado",
+      "confirmado",
+      "dois vistos",
+      "duplo check",
+      "visto duplo",
+      "visto-duplo"
+    ]
+  },
+  "visto-simples": {
+    "tags": [
+      "visto",
+      "ação"
+    ],
+    "aliases": [
+      "ok",
+      "acoes",
+      "ações",
+      "check",
+      "visto",
+      "checado",
+      "simples",
+      "validado",
+      "confirmar",
+      "confirmado",
+      "visto simples",
+      "visto-simples"
+    ]
+  },
+  "agencia": {
+    "tags": [
+      "agência",
+      "construções",
+      "correios"
+    ],
+    "aliases": [
+      "loja",
+      "agencia",
+      "agência",
+      "unidade",
+      "correios",
+      "construcoes",
+      "construções"
+    ]
+  },
+  "agencia-2": {
+    "tags": [
+      "agência",
+      "construções",
+      "correios"
+    ],
+    "aliases": [
+      "2",
+      "loja",
+      "agencia",
+      "agência",
+      "unidade",
+      "correios",
+      "agencia 2",
+      "agencia-2",
+      "construcoes",
+      "construções"
+    ]
+  },
+  "agencia-dinheiro": {
+    "tags": [
+      "agência",
+      "construções",
+      "dinheiro"
+    ],
+    "aliases": [
+      "loja",
+      "agencia",
+      "agência",
+      "unidade",
+      "correios",
+      "dinheiro",
+      "construcoes",
+      "construções",
+      "agencia dinheiro",
+      "agencia-dinheiro"
+    ]
+  },
+  "agencia-favorita": {
+    "tags": [
+      "agência",
+      "construções",
+      "favorito"
+    ],
+    "aliases": [
+      "loja",
+      "agencia",
+      "agência",
+      "unidade",
+      "correios",
+      "favorita",
+      "construcoes",
+      "construções",
+      "agencia favorita",
+      "agencia-favorita"
+    ]
+  },
+  "clique-retire": {
+    "tags": [
+      "agência",
+      "construções"
+    ],
+    "aliases": [
+      "clique",
+      "retire",
+      "construcoes",
+      "construções",
+      "clique retire",
+      "clique-retire"
+    ]
+  },
+  "empresa": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "empresa",
+      "negocio",
+      "negócio",
+      "construcoes",
+      "construções",
+      "corporativo",
+      "organizacao",
+      "organização"
+    ]
+  },
+  "home": {
+    "tags": [
+      "construções",
+      "home"
+    ],
+    "aliases": [
+      "casa",
+      "home",
+      "inicio",
+      "início",
+      "construcoes",
+      "construções",
+      "pagina inicial",
+      "página inicial"
+    ]
+  },
+  "home-2": {
+    "tags": [
+      "home",
+      "construções"
+    ],
+    "aliases": [
+      "casa",
+      "home",
+      "home 2",
+      "inicio",
+      "início",
+      "construcoes",
+      "construções",
+      "pagina inicial",
+      "página inicial"
+    ]
+  },
+  "balao": {
+    "tags": [
+      "balao",
+      "contatos"
+    ],
+    "aliases": [
+      "balao",
+      "contatos"
+    ]
+  },
+  "balao-mais": {
+    "tags": [
+      "balao",
+      "contatos",
+      "adicionar"
+    ],
+    "aliases": [
+      "mais",
+      "balao",
+      "contatos",
+      "balao mais",
+      "balao-mais"
+    ]
+  },
+  "conversa": {
+    "tags": [
+      "contatos",
+      "balao"
+    ],
+    "aliases": [
+      "contatos",
+      "conversa"
+    ]
+  },
+  "cortesia": {
+    "tags": [
+      "contatos",
+      "balao",
+      "favorito"
+    ],
+    "aliases": [
+      "elogio",
+      "contatos",
+      "cortesia",
+      "parabens",
+      "parabéns",
+      "agradecimento"
+    ]
+  },
+  "denuncia-andamento": {
+    "tags": [
+      "contatos",
+      "balao"
+    ],
+    "aliases": [
+      "report",
+      "status",
+      "contatos",
+      "denuncia",
+      "denúncia",
+      "reportar",
+      "andamento",
+      "reclamacao",
+      "reclamação",
+      "processando",
+      "em progresso",
+      "denuncia andamento",
+      "denuncia-andamento"
+    ]
+  },
+  "denuncia-encerrada": {
+    "tags": [
+      "contatos",
+      "visto",
+      "balao"
+    ],
+    "aliases": [
+      "report",
+      "fechada",
+      "contatos",
+      "denuncia",
+      "denúncia",
+      "reportar",
+      "encerrada",
+      "finalizada",
+      "reclamacao",
+      "reclamação",
+      "denuncia encerrada",
+      "denuncia-encerrada"
+    ]
+  },
+  "denuncia-recebida": {
+    "tags": [
+      "contatos"
+    ],
+    "aliases": [
+      "chegou",
+      "report",
+      "contatos",
+      "denuncia",
+      "denúncia",
+      "recebida",
+      "recebido",
+      "reportar",
+      "reclamacao",
+      "reclamação",
+      "denuncia recebida",
+      "denuncia-recebida",
+      "entregue (recebido)"
+    ]
+  },
+  "disputa": {
+    "tags": [
+      "contatos",
+      "alerta"
+    ],
+    "aliases": [
+      "disputa",
+      "recurso",
+      "conflito",
+      "contatos",
+      "contestacao",
+      "contestação"
+    ]
+  },
+  "disputa-aprovar": {
+    "tags": [
+      "contatos",
+      "visto"
+    ],
+    "aliases": [
+      "ok",
+      "aceitar",
+      "aprovar",
+      "disputa",
+      "recurso",
+      "conflito",
+      "contatos",
+      "confirmar",
+      "contestacao",
+      "contestação",
+      "disputa aprovar",
+      "disputa-aprovar"
+    ]
+  },
+  "duvida": {
+    "tags": [
+      "contatos"
+    ],
+    "aliases": [
+      "?",
+      "faq",
+      "ajuda",
+      "duvida",
+      "suporte",
+      "contatos",
+      "pergunta"
+    ]
+  },
+  "headset": {
+    "tags": [
+      "contatos",
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "fone",
+      "headset",
+      "suporte",
+      "contatos",
+      "atendimento",
+      "fone de ouvido"
+    ]
+  },
+  "megafone": {
+    "tags": [
+      "contatos",
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "aviso",
+      "anuncio",
+      "anúncio",
+      "contatos",
+      "megafone",
+      "comunicado"
+    ]
+  },
+  "ouvidoria": {
+    "tags": [
+      "contatos"
+    ],
+    "aliases": [
+      "suporte",
+      "contatos",
+      "ouvidoria",
+      "reclamacao",
+      "reclamação",
+      "atendimento",
+      "fale conosco"
+    ]
+  },
+  "telefone": {
+    "tags": [
+      "telefone",
+      "contatos"
+    ],
+    "aliases": [
+      "call",
+      "fone",
+      "ligacao",
+      "ligação",
+      "contatos",
+      "telefone"
+    ]
+  },
+  "girar-anti": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "anti",
+      "girar",
+      "direcoes",
+      "direções",
+      "girar anti",
+      "girar-anti"
+    ]
+  },
+  "girar-horario": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "girar",
+      "horario",
+      "direcoes",
+      "direções",
+      "girar horario",
+      "girar-horario"
+    ]
+  },
+  "redirecionar": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "direcoes",
+      "direções",
+      "redirecionar"
+    ]
+  },
+  "seta-abaixo": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "seta",
+      "arrow",
+      "abaixo",
+      "flecha",
+      "direcoes",
+      "direções",
+      "seta abaixo",
+      "seta-abaixo"
+    ]
+  },
+  "seta-acima": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "seta",
+      "acima",
+      "arrow",
+      "flecha",
+      "direcoes",
+      "direções",
+      "seta acima",
+      "seta-acima"
+    ]
+  },
+  "seta-circulo-ab": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "ab",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo ab",
+      "seta-circulo-ab",
+      "seta em círculo abaixo",
+      "seta no círculo abaixo",
+      "flecha em círculo abaixo",
+      "flecha no círculo abaixo"
+    ]
+  },
+  "seta-circulo-ac": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "ac",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo ac",
+      "seta-circulo-ac",
+      "seta em círculo acima",
+      "seta no círculo acima",
+      "flecha em círculo acima",
+      "flecha no círculo acima"
+    ]
+  },
+  "seta-circulo-bd": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "bd",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo bd",
+      "seta-circulo-bd",
+      "seta em círculo baixo direita",
+      "seta no círculo baixo direita",
+      "flecha em círculo baixo direita",
+      "flecha no círculo baixo direita"
+    ]
+  },
+  "seta-circulo-cd": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "cd",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo cd",
+      "seta-circulo-cd",
+      "seta em círculo cima direita",
+      "seta no círculo cima direita",
+      "flecha em círculo cima direita",
+      "flecha no círculo cima direita"
+    ]
+  },
+  "seta-circulo-ce": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "ce",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo ce",
+      "seta-circulo-ce",
+      "seta em círculo cima esquerda",
+      "seta no círculo cima esquerda",
+      "flecha em círculo cima esquerda",
+      "flecha no círculo cima esquerda"
+    ]
+  },
+  "seta-circulo-di": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "di",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo di",
+      "seta-circulo-di",
+      "seta em círculo direita",
+      "seta no círculo direita",
+      "flecha em círculo direita",
+      "flecha no círculo direita"
+    ]
+  },
+  "seta-circulo-eb": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "eb",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo eb",
+      "seta-circulo-eb",
+      "seta em círculo esquerda baixo",
+      "seta no círculo esquerda baixo",
+      "flecha em círculo esquerda baixo",
+      "flecha no círculo esquerda baixo"
+    ]
+  },
+  "seta-circulo-es": {
+    "tags": [
+      "circulo",
+      "seta"
+    ],
+    "aliases": [
+      "es",
+      "seta",
+      "arrow",
+      "flecha",
+      "circulo",
+      "direcoes",
+      "direções",
+      "seta circulo es",
+      "seta-circulo-es",
+      "seta em círculo esquerda",
+      "seta no círculo esquerda",
+      "flecha em círculo esquerda",
+      "flecha no círculo esquerda"
+    ]
+  },
+  "seta-direita": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "seta",
+      "arrow",
+      "flecha",
+      "direita",
+      "direcoes",
+      "direções",
+      "seta direita",
+      "seta-direita"
+    ]
+  },
+  "seta-encaminhar": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "seta",
+      "arrow",
+      "flecha",
+      "direcoes",
+      "direções",
+      "encaminhar",
+      "seta encaminhar",
+      "seta-encaminhar"
+    ]
+  },
+  "seta-esquerda": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "seta",
+      "arrow",
+      "flecha",
+      "direcoes",
+      "direções",
+      "esquerda",
+      "seta esquerda",
+      "seta-esquerda"
+    ]
+  },
+  "seta-responder": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "seta",
+      "arrow",
+      "flecha",
+      "direcoes",
+      "direções",
+      "responder",
+      "seta responder",
+      "seta-responder"
+    ]
+  },
+  "tragetoria": {
+    "tags": [
+      "seta"
+    ],
+    "aliases": [
+      "direcoes",
+      "direções",
+      "tragetoria",
+      "rota"
+    ]
+  },
+  "acompanhar": {
+    "tags": [
+      "documentos",
+      "busca"
+    ],
+    "aliases": [
+      "acompanhar",
+      "documentos"
+    ]
+  },
+  "alterar": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "alterar",
+      "documentos"
+    ]
+  },
+  "anexo": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "clip",
+      "anexo",
+      "clipe",
+      "anexar",
+      "attachment",
+      "documentos"
+    ]
+  },
+  "anexo-visto": {
+    "tags": [
+      "visto",
+      "documentos"
+    ],
+    "aliases": [
+      "ok",
+      "clip",
+      "anexo",
+      "check",
+      "clipe",
+      "visto",
+      "anexar",
+      "checado",
+      "validado",
+      "attachment",
+      "confirmado",
+      "documentos",
+      "anexo visto",
+      "anexo-visto"
+    ]
+  },
+  "arquivo-csv": {
+    "tags": [
+      "arquivo",
+      "documentos"
+    ],
+    "aliases": [
+      "csv",
+      "doc",
+      "file",
+      "dados",
+      "tabela",
+      "arquivo",
+      "planilha",
+      "documento",
+      "documentos",
+      "arquivo csv",
+      "arquivo-csv"
+    ]
+  },
+  "arquivo-pdf": {
+    "tags": [
+      "arquivo",
+      "documentos"
+    ],
+    "aliases": [
+      "doc",
+      "pdf",
+      "file",
+      "arquivo",
+      "documento",
+      "documentos",
+      "arquivo pdf",
+      "arquivo-pdf",
+      "documento pdf"
+    ]
+  },
+  "arquivo-x": {
+    "tags": [
+      "arquivo",
+      "documentos",
+      "excluir"
+    ],
+    "aliases": [
+      "x",
+      "doc",
+      "file",
+      "arquivo",
+      "arquivo x",
+      "arquivo-x",
+      "documento",
+      "documentos"
+    ]
+  },
+  "arquivo-xls": {
+    "tags": [
+      "arquivo",
+      "documentos"
+    ],
+    "aliases": [
+      "doc",
+      "xls",
+      "file",
+      "excel",
+      "arquivo",
+      "planilha",
+      "documento",
+      "documentos",
+      "arquivo xls",
+      "arquivo-xls",
+      "spreadsheet"
+    ]
+  },
+  "aviso-recebimento": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "aviso",
+      "documentos",
+      "recebimento",
+      "aviso recebimento",
+      "aviso-recebimento"
+    ]
+  },
+  "clipe": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "anexo",
+      "clipe",
+      "anexar",
+      "paperclip",
+      "attachment",
+      "documentos"
+    ]
+  },
+  "contrato": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "termo",
+      "acordo",
+      "contrato",
+      "documento",
+      "documentos"
+    ]
+  },
+  "contrato-encerrado": {
+    "tags": [
+      "documentos",
+      "excluir"
+    ],
+    "aliases": [
+      "termo",
+      "acordo",
+      "contrato",
+      "documento",
+      "encerrado",
+      "documentos",
+      "contrato encerrado",
+      "contrato-encerrado"
+    ]
+  },
+  "documento": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "documento",
+      "documentos"
+    ]
+  },
+  "documento-adicionar": {
+    "tags": [
+      "adicionar",
+      "documentos"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "criar",
+      "somar",
+      "incluir",
+      "adicionar",
+      "documento",
+      "documentos",
+      "documento adicionar",
+      "documento-adicionar"
+    ]
+  },
+  "documento-alerta": {
+    "tags": [
+      "alerta",
+      "documentos"
+    ],
+    "aliases": [
+      "aviso",
+      "alerta",
+      "perigo",
+      "atencao",
+      "atenção",
+      "warning",
+      "documento",
+      "documentos",
+      "documento alerta",
+      "documento-alerta"
+    ]
+  },
+  "documento-espera": {
+    "tags": [
+      "espera",
+      "documentos"
+    ],
+    "aliases": [
+      "espera",
+      "documento",
+      "documentos",
+      "documento espera",
+      "documento-espera"
+    ]
+  },
+  "documento-setas": {
+    "tags": [
+      "documentos",
+      "seta"
+    ],
+    "aliases": [
+      "setas",
+      "documento",
+      "documentos",
+      "documento setas",
+      "documento-setas"
+    ]
+  },
+  "documento-upgrade": {
+    "tags": [
+      "documentos",
+      "seta"
+    ],
+    "aliases": [
+      "upgrade",
+      "documento",
+      "documentos",
+      "documento upgrade",
+      "documento-upgrade"
+    ]
+  },
+  "documento-vincular": {
+    "tags": [
+      "documentos",
+      "link"
+    ],
+    "aliases": [
+      "vincular",
+      "documento",
+      "documentos",
+      "documento vincular",
+      "documento-vincular"
+    ]
+  },
+  "documento-visto": {
+    "tags": [
+      "visto",
+      "documentos"
+    ],
+    "aliases": [
+      "ok",
+      "check",
+      "visto",
+      "checado",
+      "validado",
+      "documento",
+      "confirmado",
+      "documentos",
+      "documento visto",
+      "documento-visto"
+    ]
+  },
+  "documentos-alerta": {
+    "tags": [
+      "alerta",
+      "documentos"
+    ],
+    "aliases": [
+      "aviso",
+      "alerta",
+      "perigo",
+      "atencao",
+      "atenção",
+      "warning",
+      "documentos",
+      "documentos alerta",
+      "documentos-alerta"
+    ]
+  },
+  "documentos-aprovar": {
+    "tags": [
+      "documentos",
+      "visto",
+      "alerta"
+    ],
+    "aliases": [
+      "ok",
+      "aceitar",
+      "aprovar",
+      "confirmar",
+      "documentos",
+      "documentos aprovar",
+      "documentos-aprovar"
+    ]
+  },
+  "papeis": {
+    "tags": [
+      "documentos"
+    ],
+    "aliases": [
+      "papeis",
+      "papéis",
+      "arquivo",
+      "documentos"
+    ]
+  },
+  "troca": {
+    "tags": [
+      "documentos",
+      "seta"
+    ],
+    "aliases": [
+      "troca",
+      "documentos"
+    ]
+  },
+  "adicionar-pacote": {
+    "tags": [
+      "adicionar",
+      "pacote",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "criar",
+      "somar",
+      "objeto",
+      "pacote",
+      "pedido",
+      "incluir",
+      "produto",
+      "adicionar",
+      "encomenda",
+      "adicionar pacote",
+      "adicionar-pacote",
+      "envios e recebimentos"
+    ]
+  },
+  "aviaozinho-voltar": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "back",
+      "voltar",
+      "anterior",
+      "retornar",
+      "aviaozinho",
+      "aviaozinho voltar",
+      "aviaozinho-voltar",
+      "envios e recebimentos"
+    ]
+  },
+  "aviaozionho-espera": {
+    "tags": [
+      "espera",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "espera",
+      "aviaozionho",
+      "aviaozinho espera",
+      "aviaozinho-espera",
+      "aviaozionho espera",
+      "aviaozionho-espera",
+      "envios e recebimentos"
+    ]
+  },
+  "baixar-pacote": {
+    "tags": [
+      "pacote",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda"
+    ],
+    "aliases": [
+      "baixar",
+      "objeto",
+      "pacote",
+      "pedido",
+      "produto",
+      "encomenda",
+      "baixar pacote",
+      "baixar-pacote",
+      "envios e recebimentos"
+    ]
+  },
+  "caixa": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica",
+      "encomenda",
+      "pacote"
+    ],
+    "aliases": [
+      "box",
+      "caixa",
+      "pacote",
+      "encomenda",
+      "envios e recebimentos"
+    ]
+  },
+  "caixa-aberta": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica",
+      "pacote",
+      "encomenda"
+    ],
+    "aliases": [
+      "box",
+      "caixa",
+      "aberta",
+      "pacote",
+      "encomenda",
+      "caixa aberta",
+      "caixa-aberta",
+      "envios e recebimentos"
+    ]
+  },
+  "caminhao": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica"
+    ],
+    "aliases": [
+      "truck",
+      "entrega",
+      "caminhao",
+      "caminhão",
+      "logistica",
+      "logística",
+      "transporte",
+      "envios e recebimentos"
+    ]
+  },
+  "caminhao-mais": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica",
+      "adicionar"
+    ],
+    "aliases": [
+      "mais",
+      "truck",
+      "entrega",
+      "caminhao",
+      "caminhão",
+      "logistica",
+      "logística",
+      "transporte",
+      "caminhao mais",
+      "caminhao-mais",
+      "envios e recebimentos"
+    ]
+  },
+  "caminhao-rapido": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica"
+    ],
+    "aliases": [
+      "truck",
+      "rapido",
+      "entrega",
+      "caminhao",
+      "caminhão",
+      "logistica",
+      "logística",
+      "transporte",
+      "caminhao rapido",
+      "caminhao-rapido",
+      "envios e recebimentos"
+    ]
+  },
+  "caminhao-seta": {
+    "tags": [
+      "seta",
+      "envios e recebimentos",
+      "logistica"
+    ],
+    "aliases": [
+      "seta",
+      "arrow",
+      "truck",
+      "flecha",
+      "entrega",
+      "caminhao",
+      "caminhão",
+      "logistica",
+      "logística",
+      "transporte",
+      "caminhao seta",
+      "caminhao-seta",
+      "envios e recebimentos"
+    ]
+  },
+  "caminhao-x": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica",
+      "excluir"
+    ],
+    "aliases": [
+      "x",
+      "truck",
+      "entrega",
+      "caminhao",
+      "caminhão",
+      "logistica",
+      "logística",
+      "caminhao x",
+      "caminhao-x",
+      "transporte",
+      "envios e recebimentos"
+    ]
+  },
+  "cancelar-pacote": {
+    "tags": [
+      "pacote",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda",
+      "excluir"
+    ],
+    "aliases": [
+      "objeto",
+      "pacote",
+      "pedido",
+      "produto",
+      "cancelar",
+      "encomenda",
+      "cancelar pacote",
+      "cancelar-pacote",
+      "envios e recebimentos"
+    ]
+  },
+  "carrinho-mao": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "mao",
+      "carrinho",
+      "carrinho mao",
+      "carrinho-mao",
+      "envios e recebimentos"
+    ]
+  },
+  "carta": {
+    "tags": [
+      "carta",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "mail",
+      "carta",
+      "email",
+      "envelope",
+      "mensagem",
+      "correspondencia",
+      "correspondência",
+      "envios e recebimentos"
+    ]
+  },
+  "carta-aberta": {
+    "tags": [
+      "carta",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "mail",
+      "carta",
+      "email",
+      "aberta",
+      "envelope",
+      "mensagem",
+      "carta aberta",
+      "carta-aberta",
+      "correspondencia",
+      "correspondência",
+      "envios e recebimentos"
+    ]
+  },
+  "carta-vazia": {
+    "tags": [
+      "carta",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "mail",
+      "carta",
+      "email",
+      "vazia",
+      "envelope",
+      "mensagem",
+      "carta vazia",
+      "carta-vazia",
+      "correspondencia",
+      "correspondência",
+      "envios e recebimentos"
+    ]
+  },
+  "carta-voando": {
+    "tags": [
+      "carta",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "mail",
+      "carta",
+      "email",
+      "voando",
+      "envelope",
+      "mensagem",
+      "carta voando",
+      "carta-voando",
+      "correspondencia",
+      "correspondência",
+      "envios e recebimentos"
+    ]
+  },
+  "cilindro": {
+    "tags": [
+      "cilindro",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda"
+    ],
+    "aliases": [
+      "cilindro",
+      "envios e recebimentos"
+    ]
+  },
+  "enviar-aviaozinho": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "enviar",
+      "aviaozinho",
+      "enviar aviaozinho",
+      "enviar-aviaozinho",
+      "envios e recebimentos"
+    ]
+  },
+  "enviar-pacote": {
+    "tags": [
+      "pacote",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda",
+      "seta"
+    ],
+    "aliases": [
+      "enviar",
+      "objeto",
+      "pacote",
+      "pedido",
+      "produto",
+      "encomenda",
+      "enviar pacote",
+      "enviar-pacote",
+      "envios e recebimentos"
+    ]
+  },
+  "envio": {
+    "tags": [
+      "envios e recebimentos",
+      "carta"
+    ],
+    "aliases": [
+      "envio",
+      "envios e recebimentos"
+    ]
+  },
+  "filatelia": {
+    "tags": [
+      "filatelia",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "filatelia",
+      "envios e recebimentos",
+      "selo"
+    ]
+  },
+  "gaveta": {
+    "tags": [
+      "envios e recebimentos",
+      "locker"
+    ],
+    "aliases": [
+      "gaveta",
+      "envios e recebimentos",
+      "locker"
+    ]
+  },
+  "locker": {
+    "tags": [
+      "locker",
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "locker",
+      "armario",
+      "armário",
+      "retirada",
+      "ponto de retirada",
+      "envios e recebimentos"
+    ]
+  },
+  "logistica-reversa": {
+    "tags": [
+      "logistica",
+      "envios e recebimentos",
+      "pacote",
+      "encomenda"
+    ],
+    "aliases": [
+      "envio",
+      "entrega",
+      "retorno",
+      "reversa",
+      "devolucao",
+      "devolução",
+      "logistica",
+      "logística",
+      "logistica reversa",
+      "logistica-reversa",
+      "envios e recebimentos"
+    ]
+  },
+  "nova-postagem": {
+    "tags": [
+      "envios e recebimentos",
+      "carta",
+      "adicionar"
+    ],
+    "aliases": [
+      "nova",
+      "postagem",
+      "nova postagem",
+      "nova-postagem",
+      "envios e recebimentos"
+    ]
+  },
+  "objeto-dinheiro": {
+    "tags": [
+      "dinheiro",
+      "envios e recebimentos",
+      "pacote",
+      "encomenda",
+      "logistica"
+    ],
+    "aliases": [
+      "objeto",
+      "dinheiro",
+      "objeto dinheiro",
+      "objeto-dinheiro",
+      "envios e recebimentos"
+    ]
+  },
+  "objeto-favorito": {
+    "tags": [
+      "favorito",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda",
+      "pacote"
+    ],
+    "aliases": [
+      "star",
+      "objeto",
+      "estrela",
+      "favorito",
+      "favoritar",
+      "objeto favorito",
+      "objeto-favorito",
+      "envios e recebimentos"
+    ]
+  },
+  "objeto-vinculado": {
+    "tags": [
+      "envios e recebimentos",
+      "link",
+      "pacote",
+      "encomenda",
+      "logistica"
+    ],
+    "aliases": [
+      "objeto",
+      "vinculado",
+      "objeto vinculado",
+      "objeto-vinculado",
+      "envios e recebimentos"
+    ]
+  },
+  "postagens": {
+    "tags": [
+      "envios e recebimentos",
+      "carta"
+    ],
+    "aliases": [
+      "postagens",
+      "envios e recebimentos"
+    ]
+  },
+  "pre-postagem": {
+    "tags": [
+      "envios e recebimentos",
+      "pacote",
+      "encomenda",
+      "logistica"
+    ],
+    "aliases": [
+      "pre",
+      "postagem",
+      "pre postagem",
+      "pre-postagem",
+      "envios e recebimentos"
+    ]
+  },
+  "pre-postagem-pin": {
+    "tags": [
+      "envios e recebimentos",
+      "pacote",
+      "logistica",
+      "encomenda"
+    ],
+    "aliases": [
+      "pin",
+      "pre",
+      "postagem",
+      "pre postagem pin",
+      "pre-postagem-pin",
+      "envios e recebimentos"
+    ]
+  },
+  "rastreamento": {
+    "tags": [
+      "envios e recebimentos",
+      "logistica",
+      "busca",
+      "pacote",
+      "encomenda"
+    ],
+    "aliases": [
+      "tracking",
+      "acompanhar",
+      "rastreamento",
+      "status do pedido",
+      "status da encomenda",
+      "envios e recebimentos"
+    ]
+  },
+  "receber-pacote": {
+    "tags": [
+      "pacote",
+      "envios e recebimentos",
+      "logistica",
+      "encomenda",
+      "seta"
+    ],
+    "aliases": [
+      "objeto",
+      "pacote",
+      "pedido",
+      "produto",
+      "receber",
+      "encomenda",
+      "receber pacote",
+      "receber-pacote",
+      "envios e recebimentos"
+    ]
+  },
+  "visto-pacote": {
+    "tags": [
+      "pacote",
+      "envios e recebimentos",
+      "logistica",
+      "visto",
+      "encomenda"
+    ],
+    "aliases": [
+      "ok",
+      "check",
+      "visto",
+      "objeto",
+      "pacote",
+      "pedido",
+      "checado",
+      "produto",
+      "validado",
+      "encomenda",
+      "confirmado",
+      "visto pacote",
+      "visto-pacote",
+      "envios e recebimentos"
+    ]
+  },
+  "codigo-barra": {
+    "tags": [
+      "codigo",
+      "etiquetas"
+    ],
+    "aliases": [
+      "id",
+      "barra",
+      "codigo",
+      "código",
+      "numero",
+      "número",
+      "etiquetas",
+      "codigo barra",
+      "codigo-barra"
+    ]
+  },
+  "escanear-codigo": {
+    "tags": [
+      "codigo",
+      "etiquetas"
+    ],
+    "aliases": [
+      "id",
+      "codigo",
+      "código",
+      "numero",
+      "número",
+      "escanear",
+      "etiquetas",
+      "escanear codigo",
+      "escanear-codigo"
+    ]
+  },
+  "etiqueta": {
+    "tags": [
+      "etiquetas"
+    ],
+    "aliases": [
+      "tag",
+      "label",
+      "rotulo",
+      "rótulo",
+      "etiqueta",
+      "etiquetas",
+      "oferta"
+    ]
+  },
+  "etiqueta-codigo": {
+    "tags": [
+      "codigo",
+      "etiquetas"
+    ],
+    "aliases": [
+      "id",
+      "tag",
+      "label",
+      "codigo",
+      "código",
+      "numero",
+      "número",
+      "rotulo",
+      "rótulo",
+      "etiqueta",
+      "etiquetas",
+      "etiqueta codigo",
+      "etiqueta-codigo"
+    ]
+  },
+  "qr-code": {
+    "tags": [
+      "etiquetas",
+      "codigo"
+    ],
+    "aliases": [
+      "qr",
+      "code",
+      "qrcode",
+      "qr code",
+      "qr-code",
+      "etiquetas"
+    ]
+  },
+  "rfid": {
+    "tags": [
+      "etiquetas"
+    ],
+    "aliases": [
+      "rfid",
+      "etiquetas"
+    ]
+  },
+  "scan": {
+    "tags": [
+      "etiquetas",
+      "codigo"
+    ],
+    "aliases": [
+      "scan",
+      "etiquetas",
+      "leitura",
+      "ler",
+      "codigo de barra",
+      "codigo"
+    ]
+  },
+  "senha": {
+    "tags": [
+      "etiquetas"
+    ],
+    "aliases": [
+      "pin",
+      "senha",
+      "password",
+      "etiquetas",
+      "codigo de acesso",
+      "código de acesso"
+    ]
+  },
+  "grafico": {
+    "tags": [
+      "grafico"
+    ],
+    "aliases": [
+      "dados",
+      "grafico",
+      "gráfico",
+      "graficos",
+      "gráficos",
+      "analytics",
+      "estatisticas",
+      "estatísticas"
+    ]
+  },
+  "grafico-2": {
+    "tags": [
+      "grafico"
+    ],
+    "aliases": [
+      "2",
+      "dados",
+      "grafico",
+      "gráfico",
+      "graficos",
+      "gráficos",
+      "analytics",
+      "grafico 2",
+      "grafico-2",
+      "estatisticas",
+      "estatísticas"
+    ]
+  },
+  "grafico-pizza": {
+    "tags": [
+      "grafico"
+    ],
+    "aliases": [
+      "dados",
+      "pizza",
+      "grafico",
+      "gráfico",
+      "graficos",
+      "gráficos",
+      "analytics",
+      "estatisticas",
+      "estatísticas",
+      "grafico pizza",
+      "grafico-pizza"
+    ]
+  },
+  "a-a-z": {
+    "tags": [
+      "categorias"
+    ],
+    "aliases": [
+      "a",
+      "z",
+      "a a z",
+      "a-a-z",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "categorias": {
+    "tags": [
+      "categorias"
+    ],
+    "aliases": [
+      "categorias",
+      "listas",
+      "categorias e marcadores",
+      "formas"
+    ]
+  },
+  "categorias-2": {
+    "tags": [
+      "categorias"
+    ],
+    "aliases": [
+      "categorias",
+      "categorias 2",
+      "categorias-2",
+      "listas",
+      "categorias e marcadores",
+      "formas"
+    ]
+  },
+  "categorias-3": {
+    "tags": [
+      "categorias"
+    ],
+    "aliases": [
+      "3",
+      "categorias",
+      "categorias 3",
+      "categorias-3",
+      "listas",
+      "categorias e marcadores",
+      "formas"
+    ]
+  },
+  "destaque": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "destaque",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "destaque-grande": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "grande",
+      "destaque",
+      "destaque grande",
+      "destaque-grande",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "lista": {
+    "tags": [
+      "lista"
+    ],
+    "aliases": [
+      "lista",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "lista-abrir": {
+    "tags": [
+      "lista",
+      "seta"
+    ],
+    "aliases": [
+      "abrir",
+      "lista",
+      "lista abrir",
+      "lista-abrir",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "lista-adicionar": {
+    "tags": [
+      "adicionar",
+      "lista"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "criar",
+      "lista",
+      "somar",
+      "incluir",
+      "adicionar",
+      "lista adicionar",
+      "lista-adicionar",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "lista-fechar": {
+    "tags": [
+      "lista",
+      "excluir"
+    ],
+    "aliases": [
+      "lista",
+      "fechar",
+      "lista fechar",
+      "lista-fechar",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "marcador-abaixo": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "abaixo",
+      "marcador",
+      "marcador abaixo",
+      "marcador-abaixo",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "marcador-acima": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "acima",
+      "marcador",
+      "marcador acima",
+      "marcador-acima",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "marcador-direita": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "direita",
+      "marcador",
+      "marcador direita",
+      "marcador-direita",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "marcador-esquerda": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "esquerda",
+      "marcador",
+      "marcador esquerda",
+      "marcador-esquerda",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "marcador-grande": {
+    "tags": [
+      "marcador"
+    ],
+    "aliases": [
+      "grande",
+      "marcador",
+      "marcador grande",
+      "marcador-grande",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "organograma": {
+    "tags": [
+      "categorias"
+    ],
+    "aliases": [
+      "organograma",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "organograma-adicionar": {
+    "tags": [
+      "categorias",
+      "adicionar"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "criar",
+      "somar",
+      "incluir",
+      "adicionar",
+      "organograma",
+      "organograma adicionar",
+      "organograma-adicionar",
+      "listas, categorias e marcadores"
+    ]
+  },
+  "busca-cep": {
+    "tags": [
+      "localizacao"
+    ],
+    "aliases": [
+      "cep",
+      "busca",
+      "busca cep",
+      "busca-cep",
+      "localizacao",
+      "localização",
+      "mapa",
+      "pin"
+    ]
+  },
+  "globo": {
+    "tags": [
+      "localizacao"
+    ],
+    "aliases": [
+      "globo",
+      "localizacao",
+      "localização",
+      "mundo"
+    ]
+  },
+  "localizar": {
+    "tags": [
+      "localizacao"
+    ],
+    "aliases": [
+      "localizar",
+      "localizacao",
+      "localização"
+    ]
+  },
+  "mapa": {
+    "tags": [
+      "localizacao"
+    ],
+    "aliases": [
+      "mapa",
+      "localizacao",
+      "localização"
+    ]
+  },
+  "mundo": {
+    "tags": [
+      "localizacao"
+    ],
+    "aliases": [
+      "mundo",
+      "localizacao",
+      "localização"
+    ]
+  },
+  "pin": {
+    "tags": [
+      "localizacao"
+    ],
+    "aliases": [
+      "pin",
+      "localizacao",
+      "localização"
+    ]
+  },
+  "pin-documento": {
+    "tags": [
+      "localizacao",
+      "documentos"
+    ],
+    "aliases": [
+      "pin",
+      "documento",
+      "localizacao",
+      "localização",
+      "pin documento",
+      "pin-documento"
+    ]
+  },
+  "calculadora": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "calculadora",
+      "midias e dispositivos",
+      "mídias e dispositivos",
+      "conta",
+      "numeros"
+    ]
+  },
+  "camera": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "camera",
+      "midias e dispositivos",
+      "mídias e dispositivo",
+      "foto",
+      "imagem"
+    ]
+  },
+  "celular": {
+    "tags": [
+      "midias e dispositivos",
+      "telefone"
+    ],
+    "aliases": [
+      "celular",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "certificado-digital": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "digital",
+      "certificado",
+      "certificado digital",
+      "certificado-digital",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "filmadora": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "filmadora",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "imagem": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "imagem",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "imprensa": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "imprensa",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "iphonex": {
+    "tags": [
+      "midias e dispositivos",
+      "telefone"
+    ],
+    "aliases": [
+      "iphonex",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "janela": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "janela",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "monitor": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "monitor",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "mouse": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "mouse",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "radio": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "radio",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "sidebar": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "sidebar",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "tablet": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "tablet",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "teclado": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "teclado",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "teclado-2": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "2",
+      "teclado",
+      "teclado 2",
+      "teclado-2",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "tv": {
+    "tags": [
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "tv",
+      "midias e dispositivos",
+      "mídias e dispositivos"
+    ]
+  },
+  "atomo": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "atomo",
+      "outros"
+    ]
+  },
+  "balanca": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "outros",
+      "balanca"
+    ]
+  },
+  "educacao": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "outros",
+      "educacao",
+      "estudo",
+      "escola",
+      "aprendizado",
+      "curso",
+      "ead"
+    ]
+  },
+  "erlenmeyer": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "outros",
+      "erlenmeyer"
+    ]
+  },
+  "justica": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "outros",
+      "justica"
+    ]
+  },
+  "livro": {
+    "tags": [
+      "outros",
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "livro",
+      "outros",
+      "estudo"
+    ]
+  },
+  "peso": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "peso",
+      "outros"
+    ]
+  },
+  "planta": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "outros",
+      "planta"
+    ]
+  },
+  "regua": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "regua",
+      "outros"
+    ]
+  },
+  "tubo-45": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "45",
+      "tubo",
+      "outros",
+      "tubo 45",
+      "tubo-45"
+    ]
+  },
+  "tubo-ensaio": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "tubo",
+      "ensaio",
+      "outros",
+      "tubo ensaio",
+      "tubo-ensaio"
+    ]
+  },
+  "wifi": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "wifi",
+      "outros",
+      "conexão",
+      "internet"
+    ]
+  },
+  "wifi-off": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "off",
+      "wifi",
+      "outros",
+      "wifi off",
+      "wifi-off",
+      "conexão",
+      "internet"
+    ]
+  },
+  "carrinho": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "carrinho",
+      "pagamentos e compras"
+    ]
+  },
+  "cartao": {
+    "tags": [
+      "compras",
+      "dinheiro"
+    ],
+    "aliases": [
+      "cartao",
+      "pagamentos e compras",
+      "cartao de credito",
+      "credito",
+      "compras"
+    ]
+  },
+  "cartao-postagem": {
+    "tags": [
+      "dinheiro"
+    ],
+    "aliases": [
+      "cartao",
+      "postagem",
+      "cartao postagem",
+      "cartao-postagem",
+      "pagamentos e compras"
+    ]
+  },
+  "carteira": {
+    "tags": [
+      "dinheiro"
+    ],
+    "aliases": [
+      "carteira",
+      "pagamentos e compras"
+    ]
+  },
+  "consulta-dinheiro": {
+    "tags": [
+      "dinheiro",
+      "busca"
+    ],
+    "aliases": [
+      "consulta",
+      "dinheiro",
+      "consulta dinheiro",
+      "consulta-dinheiro",
+      "pagamentos e compras"
+    ]
+  },
+  "consulta-fatura": {
+    "tags": [
+      "dinheiro",
+      "busca",
+      "documentos"
+    ],
+    "aliases": [
+      "fatura",
+      "consulta",
+      "consulta fatura",
+      "consulta-fatura",
+      "pagamentos e compras"
+    ]
+  },
+  "cupom": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "cupom",
+      "pagamentos e compras",
+      "oferta"
+    ]
+  },
+  "dinheiro": {
+    "tags": [
+      "dinheiro"
+    ],
+    "aliases": [
+      "dinheiro",
+      "pagamentos e compras"
+    ]
+  },
+  "dinheiro-rapido": {
+    "tags": [
+      "dinheiro"
+    ],
+    "aliases": [
+      "rapido",
+      "dinheiro",
+      "dinheiro rapido",
+      "dinheiro-rapido",
+      "pagamentos e compras"
+    ]
+  },
+  "fatura": {
+    "tags": [
+      "dinheiro",
+      "documentos"
+    ],
+    "aliases": [
+      "fatura",
+      "pagamentos e compras"
+    ]
+  },
+  "fatura-rapido": {
+    "tags": [
+      "dinheiro",
+      "documentos"
+    ],
+    "aliases": [
+      "fatura",
+      "rapido",
+      "fatura rapido",
+      "fatura-rapido",
+      "pagamentos e compras"
+    ]
+  },
+  "fatura-tempo": {
+    "tags": [
+      "dinheiro",
+      "espera",
+      "documentos"
+    ],
+    "aliases": [
+      "tempo",
+      "fatura",
+      "fatura tempo",
+      "fatura-tempo",
+      "pagamentos e compras"
+    ]
+  },
+  "ressarcimento": {
+    "tags": [
+      "dinheiro",
+      "seta"
+    ],
+    "aliases": [
+      "ressarcimento",
+      "pagamentos e compras"
+    ]
+  },
+  "sacola": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "sacola",
+      "pagamentos e compras"
+    ]
+  },
+  "sacola-visto": {
+    "tags": [
+      "visto",
+      "compras"
+    ],
+    "aliases": [
+      "ok",
+      "check",
+      "visto",
+      "sacola",
+      "checado",
+      "validado",
+      "confirmado",
+      "sacola visto",
+      "sacola-visto",
+      "pagamentos e compras"
+    ]
+  },
+  "tributos": {
+    "tags": [
+      "dinheiro",
+      "documentos"
+    ],
+    "aliases": [
+      "tributos",
+      "pagamentos e compras"
+    ]
+  },
+  "arquivos": {
+    "tags": [
+      "pastas"
+    ],
+    "aliases": [
+      "pastas",
+      "arquivos"
+    ]
+  },
+  "negocios": {
+    "tags": [
+      "pastas"
+    ],
+    "aliases": [
+      "pastas",
+      "negocios",
+      "empresas",
+      "comercial",
+      "executivo"
+    ]
+  },
+  "pasta": {
+    "tags": [
+      "pastas"
+    ],
+    "aliases": [
+      "pasta",
+      "pastas",
+      "arquivo"
+    ]
+  },
+  "pasta-aberta": {
+    "tags": [
+      "pastas"
+    ],
+    "aliases": [
+      "pasta",
+      "aberta",
+      "pastas",
+      "pasta aberta",
+      "pasta-aberta"
+    ]
+  },
+  "anterior": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "player",
+      "anterior",
+      "musica",
+      "video"
+    ]
+  },
+  "ff": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "ff",
+      "player",
+      "musica",
+      "video"
+    ]
+  },
+  "mudo": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "mudo",
+      "player",
+      "volume",
+      "musica",
+      "video"
+    ]
+  },
+  "pause": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "pause",
+      "player",
+      "musica",
+      "video"
+    ]
+  },
+  "play": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "play",
+      "player",
+      "musica",
+      "video"
+    ]
+  },
+  "play-video": {
+    "tags": [
+      "player",
+      "circulo"
+    ],
+    "aliases": [
+      "play",
+      "video",
+      "player",
+      "play video",
+      "play-video",
+      "musica"
+    ]
+  },
+  "proximo": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "player",
+      "proximo",
+      "musica",
+      "video"
+    ]
+  },
+  "rw": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "rw",
+      "player",
+      "musica",
+      "video"
+    ]
+  },
+  "som": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "som",
+      "player",
+      "musica",
+      "video"
+    ]
+  },
+  "som-baixo": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "som",
+      "baixo",
+      "player",
+      "som baixo",
+      "som-baixo",
+      "musica",
+      "video"
+    ]
+  },
+  "stop": {
+    "tags": [
+      "player"
+    ],
+    "aliases": [
+      "stop",
+      "player",
+      "musica",
+      "video"
+    ]
+  },
+  "tv-video": {
+    "tags": [
+      "player",
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "tv",
+      "video",
+      "player",
+      "tv video",
+      "tv-video",
+      "musica"
+    ]
+  },
+  "cadeado": {
+    "tags": [
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "cadeado",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "cadeado-aberto": {
+    "tags": [
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "aberto",
+      "cadeado",
+      "cadeado aberto",
+      "cadeado-aberto",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "cadeado-senha": {
+    "tags": [
+      "senha",
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "pin",
+      "senha",
+      "cadeado",
+      "password",
+      "cadeado senha",
+      "cadeado-senha",
+      "codigo de acesso",
+      "código de acesso",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "cadeado-senha-reset": {
+    "tags": [
+      "seguranca e privacidade",
+      "seta"
+    ],
+    "aliases": [
+      "pin",
+      "reset",
+      "senha",
+      "cadeado",
+      "password",
+      "codigo de acesso",
+      "código de acesso",
+      "cadeado senha reset",
+      "cadeado-senha-reset",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "camera-seguranca": {
+    "tags": [
+      "seguranca e privacidade",
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "camera",
+      "seguranca",
+      "camera seguranca",
+      "camera-seguranca",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "camera-seguranca-2": {
+    "tags": [
+      "seguranca e privacidade",
+      "midias e dispositivos"
+    ],
+    "aliases": [
+      "2",
+      "camera",
+      "seguranca",
+      "camera seguranca",
+      "camera seguranca 2",
+      "camera-seguranca-2",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "chave": {
+    "tags": [
+      "seguranca e privacidade",
+      "senha"
+    ],
+    "aliases": [
+      "chave",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "escudo": {
+    "tags": [
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "escudo",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "escudo-visto": {
+    "tags": [
+      "seguranca e privacidade",
+      "visto"
+    ],
+    "aliases": [
+      "ok",
+      "check",
+      "visto",
+      "escudo",
+      "checado",
+      "validado",
+      "confirmado",
+      "escudo visto",
+      "escudo-visto",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "nao-visualizar": {
+    "tags": [
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "nao",
+      "visualizar",
+      "nao visualizar",
+      "nao-visualizar",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "senha-reset": {
+    "tags": [
+      "senha",
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "pin",
+      "reset",
+      "senha",
+      "password",
+      "senha reset",
+      "senha-reset",
+      "codigo de acesso",
+      "código de acesso",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "visualizar": {
+    "tags": [
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "visualizar",
+      "seguranca e privacidade",
+      "segurança e privacidade"
+    ]
+  },
+  "adicionar-agenda": {
+    "tags": [
+      "adicionar",
+      "tempo e data",
+      "calendario"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "criar",
+      "somar",
+      "agenda",
+      "incluir",
+      "adicionar",
+      "tempo e data",
+      "adicionar agenda",
+      "adicionar-agenda"
+    ]
+  },
+  "agenda": {
+    "tags": [
+      "tempo e data",
+      "calendario"
+    ],
+    "aliases": [
+      "agenda",
+      "tempo e data"
+    ]
+  },
+  "agendamento": {
+    "tags": [
+      "tempo e data",
+      "calendario"
+    ],
+    "aliases": [
+      "agendamento",
+      "tempo e data"
+    ]
+  },
+  "ampulheta": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "ampulheta",
+      "tempo e data"
+    ]
+  },
+  "ampulheta-base": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "base",
+      "ampulheta",
+      "tempo e data",
+      "ampulheta base",
+      "ampulheta-base"
+    ]
+  },
+  "ampulheta-topo": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "topo",
+      "ampulheta",
+      "tempo e data",
+      "ampulheta topo",
+      "ampulheta-topo"
+    ]
+  },
+  "cronometro": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "cronometro",
+      "tempo e data"
+    ]
+  },
+  "excluir-agenda": {
+    "tags": [
+      "excluir",
+      "tempo e data",
+      "calendario"
+    ],
+    "aliases": [
+      "agenda",
+      "apagar",
+      "delete",
+      "deletar",
+      "excluir",
+      "remover",
+      "tempo e data",
+      "excluir agenda",
+      "excluir-agenda"
+    ]
+  },
+  "precos-prazos": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "prazos",
+      "precos",
+      "tempo e data",
+      "precos prazos",
+      "precos-prazos"
+    ]
+  },
+  "relogio": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "relogio",
+      "tempo e data"
+    ]
+  },
+  "aceitar": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "aceitar",
+      "usuarios",
+      "usuários",
+      "thumb",
+      "up",
+      "joia"
+    ]
+  },
+  "acessibilidade": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "usuarios",
+      "usuários",
+      "acessibilidade"
+    ]
+  },
+  "achados-perdidos": {
+    "tags": [
+      "usuarios",
+      "documentos"
+    ],
+    "aliases": [
+      "achados",
+      "perdidos",
+      "usuarios",
+      "usuários",
+      "achados perdidos",
+      "achados-perdidos"
+    ]
+  },
+  "atendimento": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "usuarios",
+      "usuários",
+      "atendimento"
+    ]
+  },
+  "atendimento-2": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "2",
+      "usuarios",
+      "usuários",
+      "atendimento",
+      "atendimento 2",
+      "atendimento-2"
+    ]
+  },
+  "catalogo": {
+    "tags": [
+      "usuarios",
+      "documentos"
+    ],
+    "aliases": [
+      "catalogo",
+      "usuarios",
+      "usuários"
+    ]
+  },
+  "denuncia": {
+    "tags": [
+      "usuarios",
+      "busca"
+    ],
+    "aliases": [
+      "report",
+      "denuncia",
+      "denúncia",
+      "reportar",
+      "usuarios",
+      "usuários",
+      "reclamacao",
+      "reclamação",
+      "buscar",
+      "procurar"
+    ]
+  },
+  "gerente": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "gerente",
+      "usuarios",
+      "usuários",
+      "empresario",
+      "gravata",
+      "executivo",
+      "empresas"
+    ]
+  },
+  "grupo": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "grupo",
+      "usuarios",
+      "usuários",
+      "pessoas"
+    ]
+  },
+  "identidade": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "usuarios",
+      "usuários",
+      "identidade",
+      "perfil",
+      "dados do usuario"
+    ]
+  },
+  "recusar": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "recusar",
+      "usuarios",
+      "usuários",
+      "thumb",
+      "down",
+      "negativo"
+    ]
+  },
+  "servicos": {
+    "tags": [
+      "usuarios",
+      "configurações"
+    ],
+    "aliases": [
+      "servicos",
+      "usuarios",
+      "usuários",
+      "configuracoes"
+    ]
+  },
+  "smile": {
+    "tags": [
+      "smile",
+      "usuarios"
+    ],
+    "aliases": [
+      "smile",
+      "usuarios",
+      "usuários",
+      "carinha"
+    ]
+  },
+  "smile-alegre": {
+    "tags": [
+      "smile",
+      "usuarios"
+    ],
+    "aliases": [
+      "smile",
+      "alegre",
+      "usuarios",
+      "usuários",
+      "smile alegre",
+      "smile-alegre"
+    ]
+  },
+  "smile-confuso": {
+    "tags": [
+      "smile",
+      "usuarios"
+    ],
+    "aliases": [
+      "smile",
+      "confuso",
+      "usuarios",
+      "usuários",
+      "smile confuso",
+      "smile-confuso"
+    ]
+  },
+  "smile-serio": {
+    "tags": [
+      "smile",
+      "usuarios"
+    ],
+    "aliases": [
+      "serio",
+      "smile",
+      "usuarios",
+      "usuários",
+      "smile serio",
+      "smile-serio"
+    ]
+  },
+  "smile-triste": {
+    "tags": [
+      "usuarios",
+      "smile"
+    ],
+    "aliases": [
+      "smile",
+      "triste",
+      "usuarios",
+      "usuários",
+      "smile triste",
+      "smile-triste"
+    ]
+  },
+  "suspender": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "usuarios",
+      "usuários",
+      "suspender",
+      "parar"
+    ]
+  },
+  "usuario": {
+    "tags": [
+      "usuarios"
+    ],
+    "aliases": [
+      "usuario",
+      "usuarios",
+      "usuários"
+    ]
+  },
+  "usuario-adicionar": {
+    "tags": [
+      "adicionar",
+      "usuarios"
+    ],
+    "aliases": [
+      "+",
+      "mais",
+      "novo",
+      "criar",
+      "somar",
+      "incluir",
+      "usuario",
+      "usuarios",
+      "usuários",
+      "adicionar",
+      "usuario adicionar",
+      "usuario-adicionar"
+    ]
+  },
+  "usuario-cadeado": {
+    "tags": [
+      "usuarios",
+      "seguranca e privacidade"
+    ],
+    "aliases": [
+      "cadeado",
+      "usuario",
+      "usuarios",
+      "usuários",
+      "usuario cadeado",
+      "usuario-cadeado"
+    ]
+  },
+  "usuario-excluir": {
+    "tags": [
+      "excluir",
+      "usuarios"
+    ],
+    "aliases": [
+      "apagar",
+      "delete",
+      "deletar",
+      "excluir",
+      "remover",
+      "usuario",
+      "usuarios",
+      "usuários",
+      "usuario excluir",
+      "usuario-excluir"
+    ]
+  },
+  "usuario-vinculado": {
+    "tags": [
+      "usuarios",
+      "link"
+    ],
+    "aliases": [
+      "usuario",
+      "usuarios",
+      "usuários",
+      "vinculado",
+      "usuario vinculado",
+      "usuario-vinculado"
+    ]
+  },
+  "usuario-visto": {
+    "tags": [
+      "visto",
+      "usuarios"
+    ],
+    "aliases": [
+      "ok",
+      "check",
+      "visto",
+      "checado",
+      "usuario",
+      "usuarios",
+      "usuários",
+      "validado",
+      "confirmado",
+      "usuario visto",
+      "usuario-visto"
+    ]
+  },
+  "notidicacao-sem": {
+    "tags": [
+      "contatos",
+      "notificacao",
+      "alerta"
+    ],
+    "aliases": [
+      "notificação",
+      "sem notificação",
+      "sininho",
+      "contato",
+      "alerta",
+      "sem alerta",
+      "bloquear alerta",
+      "som",
+      "sino"
+    ]
+  },
+  "notificacao": {
+    "tags": [
+      "contatos",
+      "notificacao",
+      "alerta"
+    ],
+    "aliases": [
+      "alerta",
+      "sininho",
+      "notificacao",
+      "contatos",
+      "som",
+      "sino"
+    ]
+  },
+  "pix": {
+    "tags": [
+      "dinheiro"
+    ],
+    "aliases": [
+      "pagamento",
+      "compras",
+      "pix",
+      "dinheiro",
+      "pagar"
+    ]
+  }
+}

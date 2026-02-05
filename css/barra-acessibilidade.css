@@ -1,0 +1,105 @@
+#barra-usuario-acess {
+  background-color: var(--cor-superficie);
+  color: var(--cor-sobre-superficie);
+  grid-area: acess;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 4px 1rem;
+  gap: var(--espaco-p);
+  border-radius: 0 0 var(--raio-borda-g) var(--raio-borda-g);
+
+  & a[data-atalho]:before {
+    content: attr(data-atalho);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--cor-primaria);
+    color: var(--cor-sobre-primaria);
+    border-radius: 50%;
+    height: 1rem;
+    width: 1rem;
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+
+  & #menu-acessibilidade {
+    position: relative;
+    display: none;
+    flex-wrap: wrap;
+    gap: var(--espaco-p);
+    justify-content: center;
+    order: 2;
+    width: 100%;
+    padding: 0.5rem 48px 0.5rem 0;
+    border-top: 1px solid var(--cor-linha);
+  }
+
+  & #menu-acessibilidade.abrir {
+    display: flex;
+  }
+
+  & #btn-fechar-acess {
+    position: absolute;
+    right: 0;
+    top: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 599px) {
+  #menu-acessibilidade {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+#login-usuario {
+  /* position: relative; */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--espaco-p);
+  flex: 1;
+
+  & .btn-usuario > img {
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    margin-top: -0.5rem;
+    margin-bottom: -0.5rem;
+  }
+
+  & #nome-usuario {
+    max-width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+
+#login-usuario[data-aut="deslogado"] #btn-cadastrar,
+#login-usuario[data-aut="deslogado"] #btn-entrar {
+  display: flex;
+}
+
+#login-usuario[data-aut="deslogado"] #btn-logado {
+  display: none;
+}
+
+#login-usuario[data-aut="logado"] #btn-cadastrar,
+#login-usuario[data-aut="logado"] #btn-entrar {
+  display: none;
+}
+
+#login-usuario[data-aut="logado"] #btn-logado {
+  display: flex;
+}
+
+@media screen and (min-width: 1440px) {
+  #login-usuario #nome-usuario {
+    max-width: 250px;
+  }
+}

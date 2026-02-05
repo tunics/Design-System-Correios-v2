@@ -1,0 +1,585 @@
+::-webkit-input-placeholder {
+    /* Edge */
+    color: inherit;
+    opacity: 0.75;
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer */
+    color: inherit;
+    opacity: 0.75;
+}
+
+::placeholder {
+    color: inherit;
+    opacity: 0.75;
+}
+
+/**** Inputs com entradas de texto e textarea ****/
+input[type="text"],
+input[type="search"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="time"],
+textarea {
+    border-radius: var(--raio-borda);
+    border: 1px solid var(--cor-contorno);
+    background-color: transparent;
+    color: inherit;
+    padding: 8px 16px;
+    line-height: 1.5rem;
+    height: 56px;
+    width: 100%;
+}
+
+textarea {
+    height: unset;
+    width: unset;
+}
+
+input[type="text"]:focus,
+input[type="search"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="date"]:focus,
+input[type="datetime-local"]:focus,
+input[type="week"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+textarea:focus {
+    outline: 2px solid var(--cor-primaria);
+    outline-offset: -1px;
+}
+
+input[type="text"]:hover,
+input[type="search"]:hover,
+input[type="password"]:hover,
+input[type="email"]:hover,
+input[type="tel"]:hover,
+input[type="date"]:hover,
+input[type="datetime-local"]:hover,
+input[type="week"]:hover,
+input[type="month"]:hover,
+input[type="time"]:hover,
+textarea:hover {
+    border: 1px solid var(--cor-primaria);
+}
+
+input[type="text"][disabled],
+input[type="search"][disabled],
+input[type="password"][disabled],
+input[type="email"][disabled],
+input[type="tel"][disabled],
+input[type="date"][disabled],
+input[type="datetime-local"][disabled],
+input[type="week"][disabled],
+input[type="month"][disabled],
+input[type="time"][disabled],
+textarea[disabled] {
+    border: 1px solid transparent;
+    background-color: var(--neutro60);
+}
+
+input[type="text"][disabled]:hover,
+input[type="search"][disabled]:hover,
+input[type="password"][disabled]:hover,
+input[type="email"][disabled]:hover,
+input[type="tel"][disabled]:hover,
+input[type="date"][disabled]:hover,
+input[type="datetime-local"][disabled]:hover,
+input[type="week"][disabled]:hover,
+input[type="month"][disabled]:hover,
+input[type="time"][disabled]:hover,
+textarea[disabled]:hover {
+    border: 1px solid transparent;
+}
+
+.campo-txt.erro input:focus:invalid,
+.area-txt.erro textarea:focus:invalid {
+    outline: 3px solid var(--cor-erro);
+    outline-offset: -1px;
+}
+
+.campo-txt.erro input:invalid,
+.area-txt.erro textarea:invalid {
+    outline: 2px solid var(--cor-erro);
+    outline-offset: -1px;
+}
+
+.campo-txt {
+    margin-bottom: var(--espaco-m);
+}
+
+.input-container {
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.input-com-ic input {
+    padding-left: 48px;
+}
+
+.input-com-btn input {
+    padding-right: 56px;
+}
+
+.input-ic {
+    position: absolute;
+    left: 16px;
+    height: 24px;
+}
+
+.input-btn {
+    position: absolute;
+    right: 8px;
+}
+
+.campo-txt.erro .input-ic {
+    color: var(--cor-erro);
+}
+
+.campo-txt.erro .legenda,
+.area-txt.erro .legenda {
+    color: var(--cor-erro);
+}
+
+.campo-txt .legenda {
+    margin-top: var(--espaco-p);
+}
+
+.campo-txt label.subtitulo-p {
+    display: block;
+    margin-bottom: var(--espaco-p);
+}
+
+/**** Inputs com entrada de texto sem width 100% ****/
+input[type="tel"],
+input[type="email"],
+input[type="date"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="time"] {
+    width: auto;
+    position: relative;
+}
+
+input[type="date"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="time"] {
+    display: flex;
+    align-items: center;
+    padding-right: 3rem;
+}
+
+input[type="date"]::after,
+input[type="datetime-local"]::after,
+input[type="week"]::after,
+input[type="month"]::after,
+input[type="time"]::after {
+    font-family: "correios";
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    position: absolute;
+    right: 1rem;
+    content: "\e82b";
+}
+
+input[type="time"]::after {
+    content: "\e8d1";
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator,
+input[type="datetime-local"]::-webkit-calendar-picker-indicator,
+input[type="week"]::-webkit-calendar-picker-indicator,
+input[type="month"]::-webkit-calendar-picker-indicator,
+input[type="time"]::-webkit-calendar-picker-indicator {
+    opacity: 0; 
+    position: absolute;
+    right: 1rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    z-index: 1;
+}
+
+/* ↳ Inputs - Tema Escuro */
+body.tema-escuro input[disabled] {
+    background-color: var(--neutro30);
+    color: var(--neutro70);
+}
+
+/* ↳ Inputs - Alto contraste*/
+body.alto-contraste input[disabled] {
+    background-color: var(--cor-ac-preto);
+    color: var(--cor-ac-branco);
+}
+
+.input-arquivo label.subtitulo-p {
+    display: block;
+    margin-bottom: var(--espaco-p);
+}
+
+/* Toggle Switch */
+.toggle-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: var(--espaco-p);
+}
+.toggle {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: var(--espaco-p);
+}
+
+.toggle-switch {
+    display: inline-block;
+    height: 16px;
+    width: 40px;
+    background-color: var(--neutro60);
+    border-radius: 8px;
+    position: relative;
+    vertical-align: middle;
+    flex-shrink: 0;
+}
+
+.toggle-switch:before,
+.toggle-switch:after {
+    content: "";
+}
+
+.toggle-switch:before {
+    display: block;
+    background: var(--cor-superficie);
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15),
+        0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: -4px;
+    left: -1px;
+    transition: 0.25s;
+}
+
+.toggle-checkbox:focus + .toggle-switch:before,
+.toggle:hover .toggle-switch:before,
+.toggle-checkbox:active + .toggle-switch:before {
+    background: var(--cor-superficie);
+    outline: 2px solid var(--primario20);
+}
+
+.toggle-checkbox:checked + .toggle-switch:before {
+    background: var(--cor-primaria);
+    left: 17px;
+}
+
+.toggle-checkbox:checked:focus + .toggle-switch:before {
+    background: var(--cor-primaria);
+    outline: 2px solid var(--primario20);
+    outline-offset: -2px;
+}
+
+.toggle-checkbox:checked:hover + .toggle-switch:before {
+    background: var(--primario20);
+}
+
+.toggle-checkbox[disabled] + .toggle-switch:before {
+    background-color: var(--neutro60);
+}
+
+/* Toggle Switch - Tema escuro */
+body.tema-escuro .toggle-switch {
+    background-color: rgba(245, 243, 240, 0.12);
+}
+
+body.tema-escuro .toggle-switch:before {
+    background-color: var(--cor-contorno);
+}
+
+body.tema-escuro .toggle-checkbox:checked + .toggle-switch:before {
+    background: var(--cor-primaria);
+}
+
+body.tema-escuro .toggle-checkbox:checked:focus + .toggle-switch:before {
+    background: var(--primario95);
+    outline: 2px solid var(--cor-primaria);
+}
+
+body.tema-escuro .toggle-checkbox[disabled] + .toggle-switch:before {
+    background-color: var(--cor-superficie-var);
+}
+
+/* Toggle Switch - Alto contraste */
+body.alto-contraste .toggle-switch {
+    background-color: var(--cor-ac-preto);
+    outline: 1px solid var(--cor-ac-branco);
+}
+
+body.alto-contraste .toggle-switch:before {
+    background-color: var(--cor-ac-branco);
+}
+
+body.alto-contraste .toggle-checkbox:checked:focus + .toggle-switch:before {
+    background: var(--cor-ac-preto);
+    outline: 2px solid var(--cor-ac-amarelo);
+}
+
+body.alto-contraste .toggle-checkbox[disabled] + .toggle-switch:before {
+    background-color: var(--cor-ac-preto);
+    outline: 2px solid var(--cor-ac-branco);
+    outline-offset: -2px;
+}
+
+/* Selecionar / Select */
+.selecionar {
+    display: flex;
+    flex-direction: column;
+    gap: var(--espaco-p);
+}
+
+.selecionar select::-ms-expand {
+    display: none;
+}
+
+.selecionar .select-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.selecionar .select-container .ic-selecionar {
+    position: absolute;
+    right: var(--espaco-m);
+    height: 1.5rem;
+    /* z-index: -1; */
+}
+
+.selecionar select {
+    /* safari */
+    -webkit-appearance: none;
+    appearance: none;
+    /* other styles for aesthetics */
+    cursor: inherit;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding: 8px 48px 8px 16px;
+    background-color: transparent;
+    border: 1px solid var(--cor-contorno);
+    border-radius: var(--raio-borda);
+    color: inherit;
+    height: 56px;
+    position: relative;
+}
+
+.selecionar select:focus {
+    outline: 2px solid var(--cor-primaria);
+    outline-offset: -1px;
+}
+
+.selecionar select:disabled {
+    border: 1px solid transparent;
+    background-color: var(--neutro60);
+}
+
+.selecionar.erro select {
+    border: 1px solid var(--cor-erro);
+}
+
+.selecionar.erro .legenda {
+    color: var(--cor-erro);
+}
+
+body.tema-escuro .selecionar option,
+body.alto-contraste .selecionar option {
+    background-color: var(--cor-fundo);
+}
+
+body.tema-escuro .selecionar select:disabled {
+    background-color: var(--neutro30);
+}
+
+body.alto-contraste .selecionar select:disabled {
+    background-color: var(--cor-ac-preto);
+}
+
+/* Radio Buttons */
+.radio-container {
+    display: flex;
+    gap: var(--espaco-m);
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.radio {
+    display: flex;
+    gap: var(--espaco-p);
+    align-items: flex-start;
+    flex: 1;
+}
+
+.radio > div {
+    line-height: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: var(--espaco-xp);
+}
+
+.radio input {
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 1rem;
+}
+
+.radio input {
+    flex: 0 0 1rem;
+}
+
+/* Checkbox */
+.checkbox-container {
+    display: flex;
+    gap: var(--espaco-m);
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.input-checkbox {
+    display: flex;
+    gap: var(--espaco-p);
+    align-items: top;
+    flex: 1;
+}
+
+.input-checkbox input,
+input[type="checkbox"] {
+    height: 1rem;
+    width: 1rem;
+    margin-top: 3px;
+    flex: 0 0 1rem;
+}
+
+.checkbox-container .legenda {
+    width: 100%;
+}
+
+/* Input Files */
+.inputfile-label {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 8px 24px;
+    gap: 8px;
+    border: none;
+    border-radius: var(--raio-borda);
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    vertical-align: middle;
+    background-color: var(--cor-primaria);
+    color: var(--cor-sobre-primaria);
+}
+
+.inputfile-container {
+    display: flex;
+    gap: var(--espaco-p);
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.inputfile + .inputfile-label {
+    cursor: pointer;
+}
+
+.inputfile + .inputfile-label * {
+    pointer-events: none;
+}
+
+.inputfile-label > i {
+    height: 24px;
+}
+
+.inputfile-label > i:first-child {
+    margin-left: -0.3em;
+}
+
+.inputfile:hover + .inputfile-label,
+.inputfile:active + .inputfile-label {
+    background-color: var(--primario20);
+}
+
+.inputfile:focus + .inputfile-label {
+    outline: 2px solid var(--primario20);
+    outline-offset: -1px;
+    background-color: var(--cor-primaria);
+}
+
+.inputfile-container .legenda {
+    word-break: break-word;
+}
+
+/* ↳ Input files - Tema Escuro */
+body.tema-escuro .inputfile:hover + .inputfile-label,
+body.tema-escuro .inputfile:active + .inputfile-label {
+    background-color: var(--primario90);
+}
+
+body.tema-escuro .inputfile:focus + .inputfile-label {
+    outline: 2px solid var(--primario100);
+}
+
+/* ↳ Input files - Alto contraste */
+body.alto-contraste .inputfile:hover + .inputfile-label,
+body.alto-contraste .inputfile:active + .inputfile-label {
+    background-color: var(--cor-ac-preto);
+    outline: 1px solid var(--cor-ac-amarelo);
+    color: var(--cor-ac-amarelo);
+}
+
+body.alto-contraste .inputfile:focus + .inputfile-label {
+    background-color: var(--cor-ac-preto);
+    color: var(--cor-ac-amarelo);
+    outline: 2px solid var(--cor-ac-branco);
+}
+
+/* Áreas de texto / textarea */
+.area-txt label {
+    display: block;
+    margin-bottom: var(--espaco-p);
+}
+
+.area-txt textarea {
+    width: 100%;
+}
+
+/* ↳ Áreas de texto - Tema Escuro */
+body.tema-escuro textarea[disabled] {
+    background-color: var(--neutro30);
+    color: var(--neutro70);
+}
+
+/* ↳ Áreas de texto - Alto contraste*/
+body.alto-contraste textarea[disabled] {
+    background-color: var(--cor-ac-preto);
+    color: var(--cor-ac-branco);
+}
+
+
+datalist {
+    width: 100%;
+    padding: 1rem;
+}

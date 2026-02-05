@@ -1,0 +1,62 @@
+/* Menu Temporário (MenuTemp)
+   Regras:
+     botão: .btn-menu-temp  (data-menu-temp="exemplo")
+     menu:  .menu-temp      (data-menu-temp="exemplo")
+*/
+
+.menu-temp {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaco-m);
+  max-width: 328px;
+  min-width: 300px;
+  z-index: 1000;
+  padding: 1.5rem;
+  border-radius: var(--raio-borda-g);
+  left: 0;
+
+  & p {
+    margin-bottom: 0;
+  }
+
+  & section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--espaco-xp);
+    border-top: 1px solid var(--cor-linha);
+    padding-top: var(--espaco-m);
+  }
+
+  & section:first-child {
+    border-top: none;
+    padding-top: 0;
+  }
+
+  & section.info-usuario {
+    border-top: none;
+    padding: var(--espaco-p);
+    border-radius: var(--raio-borda);
+  }
+}
+
+/* JS usa o atributo hidden pra esconder */
+.menu-temp[hidden] {
+  display: none !important;
+}
+
+.overlay-menu-temp {
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+}
+
+button.btn-menu-temp i.ic-marcador-abaixo {
+  transition: transform 0.2s;
+  transform-style: preserve-3d;
+  transition-timing-function: ease-in-out;
+}
+
+button.btn-menu-temp[aria-expanded="true"] i.ic-marcador-abaixo {
+  transform: rotateX(180deg);
+}

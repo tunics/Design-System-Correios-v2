@@ -1,0 +1,43 @@
+.passos-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.passos-container hr {
+  margin: 0;
+  margin-top: 1.25rem;
+  height: 1px;
+  border-bottom: 1px dotted var(--cor-contorno);
+}
+
+.passos-container button {
+  line-height: 1rem;
+  font-size: 0.75em;
+  font-weight: bold;
+  padding: var(--espaco-xp);
+  white-space: nowrap;
+  flex-direction: column;
+  gap: 0;
+}
+
+
+.passos-container button i {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.passos-container button.completo i::before {
+  content: '\e81e';
+} 
+
+.passos-container button.completo + hr {
+  border-bottom: 1px solid var(--cor-primaria);
+}
+
+.passos-container button.atual + hr {
+  border-color: var(--cor-primaria);
+}
+
+.passos-container button:disabled {
+  border: none;
+}

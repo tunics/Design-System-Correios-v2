@@ -1,0 +1,42 @@
+.codebox {
+  width: 100%;
+  overflow: hidden;
+  background-color: var(--cor-superficie-var);
+  color: var(--cor-sobre-superficie-var);
+  border-radius: var(--raio-borda) ;
+  border: 1px solid var(--cor-linha);
+  box-sizing: border-box;
+}
+
+.codebox-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 0 0 var(--espaco-m);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaco-p);
+}
+
+.codebox-title {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  opacity: 0.8;
+}
+
+.codebox-pre {
+  overflow: auto;
+  margin: 0;
+  line-height: 1.5;
+  font-size: 14px;
+  border-radius: 0 0 var(--raio-borda) var(--raio-borda);
+}
+
+.codebox-pre code {
+  background-color: var(--neutra900);
+  color: var(--neutra200);
+}
+
+

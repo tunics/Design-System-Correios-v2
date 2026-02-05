@@ -1,0 +1,61 @@
+.info-mais {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: var(--espaco-xp);
+  box-sizing: content-box;
+  align-items: flex-end;
+  background-color: inherit;
+}
+
+.info-mais span {
+  height: 100%;
+  overflow: hidden;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  
+  -webkit-mask-image: linear-gradient(to left, transparent 0%, black 8%);
+  mask-image: linear-gradient(to left, transparent 0%, black 8%);
+}
+
+.info-mais.expandido span,
+.info-mais.sem-overflow span {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+.info-mais.expandido {
+  flex-direction: column;
+  height: auto;
+  align-items: pre-wrap;
+}
+
+.info-mais a,
+.info-mais button.btn-txt {
+  white-space: nowrap;
+  z-index: 1;
+}
+
+.info-mais a::before,
+.info-mais button.btn-txt::before {
+  content: '...mais';
+}
+
+.info-mais.expandido a::before,
+.info-mais.expandido button.btn-txt::before {
+  content: 'Mostrar menos';
+}
+
+.info-mais .fade {
+  display: block;
+  position: absolute;
+  width: 100px;
+  height: 100%;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+}
+
+.info-mais.expandido .fade {
+  display: none;
+}

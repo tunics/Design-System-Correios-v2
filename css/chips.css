@@ -1,0 +1,93 @@
+.chips-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--espaco-p);
+}
+
+.chip {
+  background-color: var(--cor-superficie-var);
+  border-radius: var(--raio-borda);
+  display: inline-flex;
+  flex-direction: row;
+  gap: var(--espaco-xp);
+  padding: var(--espaco-xp) var(--espaco-m);
+  outline: 1px solid var(--cor-contorno);
+  color: var(--cor-sobre-superficie-var);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 20px;
+  height: 32px;
+}
+
+.chip.chip-checkbox.selected::before,
+.chip.chip-checkbox[selected='true']::before {
+  font-family: 'correios';
+  content: '\e81e';
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.chip:hover {
+  background-color: rgba(0, 99, 153, 0.08);
+  color: var(--cor-primaria);
+  outline: 1px solid var(--cor-primaria);
+}
+
+.chip:focus,
+.chip.selected:focus,
+.chip.chip-checkbox[selected='true']:focus {
+  outline: 2px solid var(--cor-primaria);
+}
+
+.chip.selected,
+.chip[selected='true'] {
+  padding: var(--espaco-xp) var(--espaco-m) var(--espaco-xp) var(--espaco-p);
+  background-color: rgba(0, 99, 153, 0.08);
+  outline: 1px solid var(--cor-primaria);
+  color: var(--cor-primaria);
+}
+
+.chip.chip-filter {
+  padding: var(--espaco-xp) 0 var(--espaco-xp) var(--espaco-m);
+  cursor: default;
+}
+
+.chip.chip-filter .btn-txt.so-icone {
+  padding: var(--espaco-xp);
+  font-size: 14px;
+}
+
+.chip.chip-filter:hover {
+  background-color: var(--cor-superficie-var);
+  color: var(--cor-sobre-superficie-var);
+  outline: 1px solid var(--cor-contorno);
+}
+
+.filter-chip .chips-container {
+  margin-top: var(--espaco-p);
+}
+
+.chip.chip-radio input {
+  position: fixed;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.chip.chip-radio:has(input[type='radio']:checked) {
+  background-color: var(--cor-primaria);
+  color: var(--cor-sobre-primaria);
+  outline: none;
+}
+
+.chip.chip-radio:has(input[type='radio']:hover),
+.chip.chip-radio:has(input[type='radio']:focus) {
+  background-color: rgba(0, 99, 153, 0.08);
+  color: var(--cor-primaria);
+  outline: 2px solid var(--cor-primaria);
+}
+
+.chip.chip-radio:has(input[type='radio']:hover) {
+  outline: 1px solid var(--cor-primaria);
+}

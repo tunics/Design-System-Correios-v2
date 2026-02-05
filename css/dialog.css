@@ -1,0 +1,179 @@
+dialog {
+    width: calc(100% - 2rem);
+    max-width: 480px;
+    padding: 0;
+    border-radius: var(--raio-borda);
+    border: 0;
+    color: inherit;
+    background-color: var(--cor-superficie);
+}
+
+::backdrop {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.dialog-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+@media screen and (min-width: 599px) {
+    .dialog-container {
+        padding: 2rem;
+    }
+}
+
+.dialog-header.com-btn-fechar {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: var(--espaco-p);
+}
+
+.dialog-header.com-btn-fechar {
+    padding-right: 2.25rem;
+}
+
+.dialog-header h2 {
+    flex: 1;
+}
+
+.dialog-header .btn-fecha-dialog {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+}
+
+.dialog-main {
+    display: flex;
+    flex-direction: column;
+    gap: var(--espaco-m);
+}
+
+.dialog-main form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--espaco-m);
+}
+
+.dialog-main form .campo-txt {
+    margin-bottom: 0;
+}
+
+.dialog-footer {
+    display: flex;
+    gap: var(--espaco-p);
+    justify-content: flex-end;
+}
+
+.dialog-centralizado {
+    text-align: center;
+    justify-content: center;
+}
+
+.dialog-centralizado .dialog-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dialog-centralizado .dialog-header img {
+    width: 4rem;
+}
+
+.dialog-centralizado .dialog-footer {
+    justify-content: center;
+}
+
+.dialog-centralizado .dialog-header.com-btn-fechar {
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+}
+
+/* Alerta Dialog */
+dialog.alerta-dialog {
+    max-width: 600px;
+    margin: 0 auto;
+    transition: display 0.5s allow-discrete, overlay 0.5s allow-discrete;
+    animation: close 0.35s ease-in forwards;
+}
+
+dialog.alerta-dialog::backdrop {
+    transition: display 0.5s allow-discrete, overlay 0.5s allow-discrete;
+    animation: hideBackdrop 0.5s ease-in forwards;
+}
+
+dialog.alerta-dialog[open] {
+    animation: open 0.35s ease-out forwards;
+}
+
+dialog.alerta-dialog[open]::backdrop {
+    animation: showBackdrop 0.5s ease-out forwards;
+}
+
+dialog.alerta-dialog .dialog-container {
+    align-items: center;
+    text-align: center;
+}
+
+dialog.alerta-dialog .dialog-main {
+    gap: var(--espaco-xp);
+    flex: 1;
+    word-break: break-word;
+}
+
+dialog.alerta-dialog .dialog-header {
+    flex: 0 0 auto;
+    word-break: break-word;
+}
+
+@media screen and (min-width: 599px) {
+    dialog.alerta-dialog .dialog-container {
+        text-align: start;
+        flex-direction: row;
+        gap: var(--espaco-p);
+        align-items: center;
+    }
+}
+
+
+@keyframes open {
+    from {
+        opacity: 0;
+        top: -100vh;
+    }
+    to {
+        opacity: 1;
+        top: var(--espaco-m);
+    }
+}
+
+@keyframes close {
+    from {
+        opacity: 1;
+        top: var(--espaco-m);
+    }
+    to {
+        opacity: 0;
+        top: -100vh;
+    }
+}
+
+@keyframes showBackdrop {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes hideBackdrop {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}

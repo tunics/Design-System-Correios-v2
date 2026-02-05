@@ -1,0 +1,358 @@
+@font-face {
+  font-family: 'icones-correios-outline';
+  src: url('../font/icones-correios-outline.eot?99245183');
+  src: url('../font/icones-correios-outline.eot?99245183#iefix') format('embedded-opentype'),
+       url('../font/icones-correios-outline.woff2?99245183') format('woff2'),
+       url('../font/icones-correios-outline.woff?99245183') format('woff'),
+       url('../font/icones-correios-outline.ttf?99245183') format('truetype'),
+       url('../font/icones-correios-outline.svg?99245183#icones-correios-outline') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'icones-correios-outline';
+    src: url('../font/icones-correios-outline.svg?99245183#icones-correios-outline') format('svg');
+  }
+}
+*/
+[class^="ic-"]:before, [class*=" ic-"]:before {
+  font-family: "icones-correios-outline";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.ic-seta-circulo-es:before { content: '\e800'; } /* '' */
+.ic-seta-direita:before { content: '\e801'; } /* '' */
+.ic-seta-esquerda:before { content: '\e802'; } /* '' */
+.ic-smile:before { content: '\e803'; } /* '' */
+.ic-smile-alegre:before { content: '\e804'; } /* '' */
+.ic-smile-confuso:before { content: '\e805'; } /* '' */
+.ic-smile-serio:before { content: '\e806'; } /* '' */
+.ic-smile-triste:before { content: '\e807'; } /* '' */
+.ic-som:before { content: '\e808'; } /* '' */
+.ic-som-baixo:before { content: '\e809'; } /* '' */
+.ic-stop:before { content: '\e80a'; } /* '' */
+.ic-suspender:before { content: '\e80b'; } /* '' */
+.ic-teclado-2:before { content: '\e80c'; } /* '' */
+.ic-tablet:before { content: '\e80d'; } /* '' */
+.ic-teclado:before { content: '\e80e'; } /* '' */
+.ic-telefone:before { content: '\e80f'; } /* '' */
+.ic-tema:before { content: '\e810'; } /* '' */
+.ic-tesoura:before { content: '\e811'; } /* '' */
+.ic-tributos:before { content: '\e812'; } /* '' */
+.ic-tubo-45:before { content: '\e813'; } /* '' */
+.ic-tubo-ensaio:before { content: '\e814'; } /* '' */
+.ic-tv:before { content: '\e815'; } /* '' */
+.ic-tv-video:before { content: '\e816'; } /* '' */
+.ic-upload:before { content: '\e817'; } /* '' */
+.ic-usuario:before { content: '\e818'; } /* '' */
+.ic-usuario-adicionar:before { content: '\e819'; } /* '' */
+.ic-usuario-excluir:before { content: '\e81a'; } /* '' */
+.ic-usuario-vinculado:before { content: '\e81b'; } /* '' */
+.ic-vinculo:before { content: '\e81c'; } /* '' */
+.ic-visto:before { content: '\e81d'; } /* '' */
+.ic-visto-circulo:before { content: '\e81e'; } /* '' */
+.ic-visto-simples:before { content: '\e81f'; } /* '' */
+.ic-visualizar:before { content: '\e820'; } /* '' */
+.ic-a-a-z:before { content: '\e821'; } /* '' */
+.ic-aceitar:before { content: '\e822'; } /* '' */
+.ic-acompanhar:before { content: '\e823'; } /* '' */
+.ic-adicionar-agenda:before { content: '\e824'; } /* '' */
+.ic-acessibilidade:before { content: '\e825'; } /* '' */
+.ic-adicionar:before { content: '\e826'; } /* '' */
+.ic-adicionar-circulo:before { content: '\e827'; } /* '' */
+.ic-agencia-2:before { content: '\e828'; } /* '' */
+.ic-agencia:before { content: '\e829'; } /* '' */
+.ic-agencia-favorita:before { content: '\e82a'; } /* '' */
+.ic-agenda:before { content: '\e82b'; } /* '' */
+.ic-ajuste-horizontal:before { content: '\e82c'; } /* '' */
+.ic-agendamento:before { content: '\e82d'; } /* '' */
+.ic-ajustes:before { content: '\e82e'; } /* '' */
+.ic-ajuste-vertical:before { content: '\e82f'; } /* '' */
+.ic-alerta:before { content: '\e830'; } /* '' */
+.ic-alto-contraste:before { content: '\e831'; } /* '' */
+.ic-ampulheta:before { content: '\e832'; } /* '' */
+.ic-ampulheta-base:before { content: '\e833'; } /* '' */
+.ic-ampulheta-topo:before { content: '\e834'; } /* '' */
+.ic-anexo:before { content: '\e835'; } /* '' */
+.ic-anterior:before { content: '\e836'; } /* '' */
+.ic-arquivos:before { content: '\e837'; } /* '' */
+.ic-atendimento:before { content: '\e838'; } /* '' */
+.ic-atendimento-2:before { content: '\e839'; } /* '' */
+.ic-atomo:before { content: '\e83a'; } /* '' */
+.ic-aviaozinho-voltar:before { content: '\e83b'; } /* '' */
+.ic-aviaozionho-espera:before { content: '\e83c'; } /* '' */
+.ic-aviso-recebimento:before { content: '\e83d'; } /* '' */
+.ic-backspace:before { content: '\e83e'; } /* '' */
+.ic-balao:before { content: '\e83f'; } /* '' */
+.ic-busca-cep:before { content: '\e840'; } /* '' */
+.ic-cadeado-aberto:before { content: '\e841'; } /* '' */
+.ic-cadeado:before { content: '\e842'; } /* '' */
+.ic-caixa:before { content: '\e843'; } /* '' */
+.ic-caixa-aberta:before { content: '\e844'; } /* '' */
+.ic-calculadora:before { content: '\e845'; } /* '' */
+.ic-caminhao:before { content: '\e846'; } /* '' */
+.ic-camera:before { content: '\e847'; } /* '' */
+.ic-carrinho:before { content: '\e848'; } /* '' */
+.ic-cancelar-pacote:before { content: '\e849'; } /* '' */
+.ic-carta:before { content: '\e84a'; } /* '' */
+.ic-carta-aberta:before { content: '\e84b'; } /* '' */
+.ic-cartao:before { content: '\e84c'; } /* '' */
+.ic-carta-vazia:before { content: '\e84d'; } /* '' */
+.ic-carteira:before { content: '\e84e'; } /* '' */
+.ic-catalogo:before { content: '\e84f'; } /* '' */
+.ic-categorias:before { content: '\e850'; } /* '' */
+.ic-categorias-2:before { content: '\e851'; } /* '' */
+.ic-categorias-3:before { content: '\e852'; } /* '' */
+.ic-caminhao-seta:before { content: '\e853'; } /* '' */
+.ic-celular:before { content: '\e854'; } /* '' */
+.ic-cilindro:before { content: '\e855'; } /* '' */
+.ic-certificado-digital:before { content: '\e856'; } /* '' */
+.ic-clipe:before { content: '\e857'; } /* '' */
+.ic-clique-retire:before { content: '\e858'; } /* '' */
+.ic-codigo-barra:before { content: '\e859'; } /* '' */
+.ic-compartilhar:before { content: '\e85a'; } /* '' */
+.ic-compartilhar-2:before { content: '\e85b'; } /* '' */
+.ic-contrato:before { content: '\e85c'; } /* '' */
+.ic-contrato-encerrado:before { content: '\e85d'; } /* '' */
+.ic-conversa:before { content: '\e85e'; } /* '' */
+.ic-copiar:before { content: '\e85f'; } /* '' */
+.ic-configuracoes:before { content: '\e860'; } /* '' */
+.ic-cortesia:before { content: '\e861'; } /* '' */
+.ic-cronometro:before { content: '\e862'; } /* '' */
+.ic-denuncia:before { content: '\e863'; } /* '' */
+.ic-destaque:before { content: '\e864'; } /* '' */
+.ic-destaque-grande:before { content: '\e865'; } /* '' */
+.ic-diminuir:before { content: '\e866'; } /* '' */
+.ic-diminuir-circulo:before { content: '\e867'; } /* '' */
+.ic-dinheiro:before { content: '\e868'; } /* '' */
+.ic-disputa:before { content: '\e869'; } /* '' */
+.ic-disputa-aprovar:before { content: '\e86a'; } /* '' */
+.ic-documento:before { content: '\e86b'; } /* '' */
+.ic-documento-adicionar:before { content: '\e86c'; } /* '' */
+.ic-documento-alerta:before { content: '\e86d'; } /* '' */
+.ic-documentos-alerta:before { content: '\e86e'; } /* '' */
+.ic-documentos-aprovar:before { content: '\e86f'; } /* '' */
+.ic-documento-vincular:before { content: '\e870'; } /* '' */
+.ic-documento-visto:before { content: '\e871'; } /* '' */
+.ic-download:before { content: '\e872'; } /* '' */
+.ic-duvida:before { content: '\e873'; } /* '' */
+.ic-duvida-circulo:before { content: '\e874'; } /* '' */
+.ic-editar:before { content: '\e875'; } /* '' */
+.ic-empresa:before { content: '\e876'; } /* '' */
+.ic-enter:before { content: '\e877'; } /* '' */
+.ic-entrar:before { content: '\e878'; } /* '' */
+.ic-enviar-aviaozinho:before { content: '\e879'; } /* '' */
+.ic-envio:before { content: '\e87a'; } /* '' */
+.ic-erlenmeyer:before { content: '\e87b'; } /* '' */
+.ic-estrela:before { content: '\e87c'; } /* '' */
+.ic-etiqueta:before { content: '\e87d'; } /* '' */
+.ic-etiqueta-codigo:before { content: '\e87e'; } /* '' */
+.ic-excluir:before { content: '\e87f'; } /* '' */
+.ic-excluir-agenda:before { content: '\e880'; } /* '' */
+.ic-excluir-circulo:before { content: '\e881'; } /* '' */
+.ic-expandir:before { content: '\e882'; } /* '' */
+.ic-fatura:before { content: '\e883'; } /* '' */
+.ic-ff:before { content: '\e884'; } /* '' */
+.ic-filatelia:before { content: '\e885'; } /* '' */
+.ic-filmadora:before { content: '\e886'; } /* '' */
+.ic-filtro:before { content: '\e887'; } /* '' */
+.ic-gaveta:before { content: '\e888'; } /* '' */
+.ic-gerente:before { content: '\e889'; } /* '' */
+.ic-girar-anti:before { content: '\e88a'; } /* '' */
+.ic-girar-horario:before { content: '\e88b'; } /* '' */
+.ic-globo:before { content: '\e88c'; } /* '' */
+.ic-grafico:before { content: '\e88d'; } /* '' */
+.ic-grafico-2:before { content: '\e88e'; } /* '' */
+.ic-grafico-pizza:before { content: '\e88f'; } /* '' */
+.ic-grupo:before { content: '\e890'; } /* '' */
+.ic-headset:before { content: '\e891'; } /* '' */
+.ic-home:before { content: '\e892'; } /* '' */
+.ic-home-2:before { content: '\e893'; } /* '' */
+.ic-identidade:before { content: '\e894'; } /* '' */
+.ic-imagem:before { content: '\e895'; } /* '' */
+.ic-importar:before { content: '\e896'; } /* '' */
+.ic-imprensa:before { content: '\e897'; } /* '' */
+.ic-imprimir:before { content: '\e898'; } /* '' */
+.ic-informacao:before { content: '\e899'; } /* '' */
+.ic-iphonex:before { content: '\e89a'; } /* '' */
+.ic-justica:before { content: '\e89b'; } /* '' */
+.ic-ligar-desligar:before { content: '\e89c'; } /* '' */
+.ic-link:before { content: '\e89d'; } /* '' */
+.ic-lista:before { content: '\e89e'; } /* '' */
+.ic-lista-abrir:before { content: '\e89f'; } /* '' */
+.ic-lista-adicionar:before { content: '\e8a0'; } /* '' */
+.ic-lista-fechar:before { content: '\e8a1'; } /* '' */
+.ic-lixo:before { content: '\e8a2'; } /* '' */
+.ic-localizar:before { content: '\e8a3'; } /* '' */
+.ic-locker:before { content: '\e8a4'; } /* '' */
+.ic-lupa:before { content: '\e8a5'; } /* '' */
+.ic-mapa:before { content: '\e8a6'; } /* '' */
+.ic-marcador-abaixo:before { content: '\e8a7'; } /* '' */
+.ic-marcador-acima:before { content: '\e8a8'; } /* '' */
+.ic-marcador-direita:before { content: '\e8a9'; } /* '' */
+.ic-marcador-esquerda:before { content: '\e8aa'; } /* '' */
+.ic-marcador-grande:before { content: '\e8ab'; } /* '' */
+.ic-megafone:before { content: '\e8ac'; } /* '' */
+.ic-menu-hamburguer:before { content: '\e8ad'; } /* '' */
+.ic-menu-pontos-hor:before { content: '\e8ae'; } /* '' */
+.ic-menu-pontos-ver:before { content: '\e8af'; } /* '' */
+.ic-monitor:before { content: '\e8b0'; } /* '' */
+.ic-mouse:before { content: '\e8b1'; } /* '' */
+.ic-mudo:before { content: '\e8b2'; } /* '' */
+.ic-mundo:before { content: '\e8b3'; } /* '' */
+.ic-nao-visualizar:before { content: '\e8b4'; } /* '' */
+.ic-negocios:before { content: '\e8b5'; } /* '' */
+.ic-nova-postagem:before { content: '\e8b6'; } /* '' */
+.ic-objeto-favorito:before { content: '\e8b7'; } /* '' */
+.ic-objeto-vinculado:before { content: '\e8b8'; } /* '' */
+.ic-ordem-alfabetica:before { content: '\e8b9'; } /* '' */
+.ic-ordem-inverter:before { content: '\e8ba'; } /* '' */
+.ic-ordenar:before { content: '\e8bb'; } /* '' */
+.ic-organograma:before { content: '\e8bc'; } /* '' */
+.ic-organograma-adicionar:before { content: '\e8bd'; } /* '' */
+.ic-ouvidoria:before { content: '\e8be'; } /* '' */
+.ic-papeis:before { content: '\e8bf'; } /* '' */
+.ic-pasta:before { content: '\e8c0'; } /* '' */
+.ic-pasta-aberta:before { content: '\e8c1'; } /* '' */
+.ic-pause:before { content: '\e8c2'; } /* '' */
+.ic-pin:before { content: '\e8c3'; } /* '' */
+.ic-pin-documento:before { content: '\e8c4'; } /* '' */
+.ic-play:before { content: '\e8c5'; } /* '' */
+.ic-play-video:before { content: '\e8c6'; } /* '' */
+.ic-postagens:before { content: '\e8c7'; } /* '' */
+.ic-precos-prazos:before { content: '\e8c8'; } /* '' */
+.ic-pre-postagem:before { content: '\e8c9'; } /* '' */
+.ic-proibido:before { content: '\e8ca'; } /* '' */
+.ic-proximo:before { content: '\e8cb'; } /* '' */
+.ic-qr-code:before { content: '\e8cc'; } /* '' */
+.ic-radio:before { content: '\e8cd'; } /* '' */
+.ic-rastreamento:before { content: '\e8ce'; } /* '' */
+.ic-recusar:before { content: '\e8cf'; } /* '' */
+.ic-redirecionar:before { content: '\e8d0'; } /* '' */
+.ic-relogio:before { content: '\e8d1'; } /* '' */
+.ic-ressarcimento:before { content: '\e8d2'; } /* '' */
+.ic-rfid:before { content: '\e8d3'; } /* '' */
+.ic-rw:before { content: '\e8d4'; } /* '' */
+.ic-sair:before { content: '\e8d5'; } /* '' */
+.ic-senha:before { content: '\e8d6'; } /* '' */
+.ic-servicos:before { content: '\e8d7'; } /* '' */
+.ic-seta-abaixo:before { content: '\e8d8'; } /* '' */
+.ic-seta-acima:before { content: '\e8d9'; } /* '' */
+.ic-seta-circulo-ab:before { content: '\e8da'; } /* '' */
+.ic-seta-circulo-ac:before { content: '\e8db'; } /* '' */
+.ic-seta-circulo-bd:before { content: '\e8dc'; } /* '' */
+.ic-seta-circulo-cd:before { content: '\e8dd'; } /* '' */
+.ic-seta-circulo-ce:before { content: '\e8de'; } /* '' */
+.ic-seta-circulo-di:before { content: '\e8df'; } /* '' */
+.ic-seta-circulo-eb:before { content: '\e8e0'; } /* '' */
+.ic-fatura-tempo:before { content: '\e8e1'; } /* '' */
+.ic-caminhao-x:before { content: '\e8e2'; } /* '' */
+.ic-consulta-dinheiro:before { content: '\e8e3'; } /* '' */
+.ic-consulta-fatura:before { content: '\e8e4'; } /* '' */
+.ic-dinheiro-rapido:before { content: '\e8e5'; } /* '' */
+.ic-documento-espera:before { content: '\e8e6'; } /* '' */
+.ic-fatura-rapido:before { content: '\e8e7'; } /* '' */
+.ic-denuncia-andamento:before { content: '\e8e8'; } /* '' */
+.ic-borracha:before { content: '\e8e9'; } /* '' */
+.ic-denuncia-recebida:before { content: '\e8ea'; } /* '' */
+.ic-denuncia-encerrada:before { content: '\e8eb'; } /* '' */
+.ic-usuario-visto:before { content: '\e8ec'; } /* '' */
+.ic-balao-mais:before { content: '\e8ed'; } /* '' */
+.ic-camera-seguranca-2:before { content: '\e8ee'; } /* '' */
+.ic-camera-seguranca:before { content: '\e8ef'; } /* '' */
+.ic-logistica-reversa:before { content: '\e8f0'; } /* '' */
+.ic-wifi:before { content: '\e8f1'; } /* '' */
+.ic-wifi-off:before { content: '\e8f2'; } /* '' */
+.ic-achados-perdidos:before { content: '\e8f3'; } /* '' */
+.ic-caminhao-rapido:before { content: '\e8f4'; } /* '' */
+.ic-caminhao-mais:before { content: '\e8f5'; } /* '' */
+.ic-anexo-visto:before { content: '\e8f6'; } /* '' */
+.ic-baixar-pacote:before { content: '\e8f7'; } /* '' */
+.ic-carrinho-mao:before { content: '\e8f8'; } /* '' */
+.ic-enviar-pacote:before { content: '\e8f9'; } /* '' */
+.ic-escanear-codigo:before { content: '\e8fa'; } /* '' */
+.ic-item-visto:before { content: '\e8fb'; } /* '' */
+.ic-scan:before { content: '\e8fc'; } /* '' */
+.ic-receber-pacote:before { content: '\e8fd'; } /* '' */
+.ic-adicionar-pacote:before { content: '\e8fe'; } /* '' */
+.ic-visto-pacote:before { content: '\e8ff'; } /* '' */
+.ic-sol:before { content: '\e900'; } /* '' */
+.ic-lua:before { content: '\e901'; } /* '' */
+.ic-sol2:before { content: '\e902'; } /* '' */
+.ic-sacola:before { content: '\e903'; } /* '' */
+.ic-documento-setas:before { content: '\e904'; } /* '' */
+.ic-agencia-dinheiro:before { content: '\e905'; } /* '' */
+.ic-alterar:before { content: '\e906'; } /* '' */
+.ic-cartao-postagem:before { content: '\e907'; } /* '' */
+.ic-documento-upgrade:before { content: '\e908'; } /* '' */
+.ic-cupom:before { content: '\e909'; } /* '' */
+.ic-arquivo-x:before { content: '\e90d'; } /* '' */
+.ic-arquivo-xls:before { content: '\e90e'; } /* '' */
+.ic-chave:before { content: '\e90f'; } /* '' */
+.ic-sacola-visto:before { content: '\e91d'; } /* '' */
+.ic-pix:before { content: '\e91e'; } /* '' */
+.ic-link-quebrado:before { content: '\e91f'; } /* '' */
+.ic-menu-hamburguer-aberto:before { content: '\e921'; } /* '' */
+.ic-objeto-dinheiro:before { content: '\e922'; } /* '' */
+.ic-visto-duplo:before { content: '\e924'; } /* '' */
+.ic-documento-digital:before { content: '\e925'; } /* '' */
+.ic-etiqueta-codigo-espera:before { content: '\e926'; } /* '' */
+.ic-notificacao-sem:before { content: '\e927'; } /* '' */
+.ic-notificacao:before { content: '\e928'; } /* '' */
+.ic-seta-encaminhar:before { content: '\e92c'; } /* '' */
+.ic-seta-responder:before { content: '\e92d'; } /* '' */
+.ic-troca:before { content: '\ea14'; } /* '' */
+.ic-educacao:before { content: '\ea24'; } /* '' */
+.ic-livro:before { content: '\ea25'; } /* '' */
+.ic-planta:before { content: '\ea26'; } /* '' */
+.ic-pre-postagem-pin:before { content: '\ea27'; } /* '' */
+.ic-salvar:before { content: '\ea28'; } /* '' */
+.ic-cadeado-senha-reset:before { content: '\ea2c'; } /* '' */
+.ic-cadeado-senha:before { content: '\ea2d'; } /* '' */
+.ic-senha-reset:before { content: '\ea2e'; } /* '' */
+.ic-carta-voando:before { content: '\ea32'; } /* '' */
+.ic-escudo:before { content: '\ea33'; } /* '' */
+.ic-escudo-visto:before { content: '\ea34'; } /* '' */
+.ic-usuario-cadeado:before { content: '\ea35'; } /* '' */
+.ic-tragetoria:before { content: '\ea46'; } /* '' */
+.ic-janela:before { content: '\ea52'; } /* '' */
+.ic-sidebar:before { content: '\ea53'; } /* '' */
+.ic-regua:before { content: '\ea54'; } /* '' */
+.ic-arquivo-csv:before { content: '\eb23'; } /* '' */
+.ic-arquivo-pdf:before { content: '\eb24'; } /* '' */
+.ic-balanca:before { content: '\ec43'; } /* '' */
+.ic-peso:before { content: '\ec44'; } /* '' */

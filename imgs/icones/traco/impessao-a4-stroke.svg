@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="13.5" y="15.5" width="9" height="9" rx="1.5" stroke="black"/>
+<rect x="13.5" y="26.5" width="9" height="9" rx="1.5" stroke="black"/>
+<rect x="25.5" y="15.5" width="9" height="9" rx="1.5" stroke="black"/>
+<rect x="25.5" y="26.5" width="9" height="9" rx="1.5" stroke="black"/>
+<circle cx="16" cy="18" r="0.5" stroke="black"/>
+<circle cx="16" cy="29" r="0.5" stroke="black"/>
+<circle cx="28" cy="29" r="0.5" stroke="black"/>
+<circle cx="28" cy="18" r="0.5" stroke="black"/>
+<path d="M16 21L20 21" stroke="black" stroke-linecap="round"/>
+<path d="M28 21L32 21" stroke="black" stroke-linecap="round"/>
+<path d="M28 32L32 32" stroke="black" stroke-linecap="round"/>
+<path d="M16 32L20 32" stroke="black" stroke-linecap="round"/>
+<path d="M10.9396 4.93934C11.2209 4.65804 11.6024 4.5 12.0002 4.5H29.7931L37.5002 12.2071V42C37.5002 42.3978 37.3422 42.7794 37.0609 43.0607C36.7796 43.342 36.3981 43.5 36.0002 43.5H12.0002C11.6024 43.5 11.2209 43.342 10.9396 43.0607C10.6583 42.7794 10.5002 42.3978 10.5002 42V6C10.5002 5.60218 10.6583 5.22064 10.9396 4.93934Z" stroke="black"/>
+<path d="M30 5V10C30 11.1046 30.8954 12 32 12H37" stroke="black" stroke-linecap="round"/>
+</svg>

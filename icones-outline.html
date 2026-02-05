@@ -1,0 +1,116 @@
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/inicio-reset.css" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="icones.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css" />
+
+    <title>Design System Correios - Marca Correios</title>
+  </head>
+  <body>
+    <main>
+      <section class="icones-outline">
+        <h1 class="fonte-azul-correios">Ícones tipo outline</h1>
+
+        <div class="busca">
+          <div class="campo-txt">
+            <label class="subtitulo-p" for="txt-input">Buscar ícones:</label>
+            <div class="input-container input-com-ic">
+              <i class="ic-lupa input-ic"></i>
+              <input
+                type="text"
+                id="txt-input-ic"
+                name="txt-input"
+                placeholder="Buscar ícone..." />
+            </div>
+            <div class="legenda"></div>
+          </div>
+
+          <hr />
+
+          <div id="busca-tags" class="chips-container">
+            <p>Tags:</p>
+            <label class="chip chip-radio">
+              <input id="busca-icones" type="radio" name="chip-radio" value="Todos" />
+              <span>Todos</span><span class="mini">(999)</span>
+            </label>
+          </div>
+        </div>
+
+        <section class="categoria">
+          <h5 class="titulo">
+            <span>Nome da categoria</span>
+            <span class="mini">99</span>
+          </h5>
+
+          <div class="icones">
+            <div class="icone">
+              <svg class="ic-outline" role="img">
+                <use
+                  xlink:href="icones/cds-ic-outline.sprite.svg#ic-carrinho-stroke"></use>
+              </svg>
+              <p class="mini">ic-carrinho-stroke</p>
+              <button title="abrir icone"></button>
+            </div>
+          </div>
+        </section>
+      </section>
+
+      <aside>
+        <div class="aside-topo">
+          <svg class="ic-outline" role="img">
+            <use
+              xlink:href="icones/cds-ic-outline.sprite.svg#ic-carrinho-stroke"></use>
+          </svg>
+
+          <button class="btn-txt so-icone" title="fechar aside">
+            <i class="ic-excluir"></i>
+          </button>
+        </div>
+
+        <h5>Nome do ícone</h5>
+        <small class="mini">nome do arquivo</small>
+        <br />
+        <br />
+
+        <h6>Sprite SVG &lt;use&gt;:</h6>
+        <div id="codebox-codigo-use" class="codebox">
+          <div class="codebox-top">
+            <span class="codebox-title">html</span>
+            <button
+              class="btn-txt codebox-copy"
+              type="button"
+              aria-label="Copiar código"
+              data-copy>
+              <i class="ic-copiar"></i>
+              Copiar
+            </button>
+          </div>
+
+          <pre
+            class="codebox-pre"><code class="html">&lt;svg class="ic-outline" role="img"&gt;&lt;use xlink:href="caminho/cds-ic-outline.sprite.svg#ic-carrinho-stroke"&gt;&lt;/use&gt;&lt;/svg&gt;</code></pre>
+        </div>
+        <br />
+
+        <button class="btn-pre"><i class="ic-download"></i>Download SVG</button>
+      </aside>
+    </main>
+
+    <script type="text/javascript" src="fixos.js"></script>
+    <script type="text/javascript" src="js/trocaTema.js"></script>
+    <script type="text/javascript" src="js/acessibilidade.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+    <script type="text/javascript" src="js/menu-temp.js"></script>
+    <script type="text/javascript" src="js/rodape.js"></script>
+    <script type="text/javascript" src="js/code-box.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+    <script type="text/javascript" src="icones-outline.js"></script>
+  </body>
+</html>

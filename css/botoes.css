@@ -1,0 +1,725 @@
+button,
+a.link-btn {
+	position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    padding: 8px 24px;
+    gap: 8px;
+    border: none;
+    border-radius: var(--raio-borda);
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.5rem;
+    min-height: 40px;
+    vertical-align: middle;
+    transition: 0.2s;
+    text-decoration: none;
+
+    & span {
+        text-align: left;
+    }
+}
+
+button:focus-visible,
+a.link-btn:focus-visible {
+    transition: 0s;
+    outline-offset: 3px;
+}
+
+a.link-btn:focus {
+    box-shadow: none;
+}
+
+button > i,
+a.link-btn > i {
+    height: 24px;
+}
+
+button > img {
+    height: 1.5rem;
+}
+
+button i:first-child,
+a.link-btn i:first-child,
+a.link-btn img:first-child {
+    margin-left: -0.3em;
+}
+
+button i:last-child,
+a.link-btn i:last-child,
+a.link-btn img:last-child {
+    margin-right: -0.3em;
+}
+
+button i:first-child:only-child,
+a.link-btn i:first-child:only-child,
+a.link-btn img:first-child:only-child {
+    margin-left: -0.3em;
+    margin-right: 0;
+}
+
+button.ic-direita i:only-child,
+a.link-btn.ic-direita i:only-child,
+a.link-btn.ic-direita img:only-child {
+    margin-left: 0;
+    margin-right: -0.3em;
+}
+
+button.so-icone,
+a.link-btn.so-icone {
+    padding: 8px;
+}
+
+button.so-icone > i:first-child,
+button.so-icone > i:last-child,
+a.link-btn.so-icone > i:first-child,
+a.link-btn.so-icone > i:last-child,
+a.link-btn.so-icone > img:first-child,
+a.link-btn.so-icone > img:last-child  {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+button > span,
+a.link-btn > span {
+    flex: 1;
+}
+
+
+/**** BOTÃO PREENCHIDO ****/
+button.btn-pre,
+a.link-btn.btn-pre {
+    background-color: var(--cor-primaria);
+    color: var(--cor-sobre-primaria);
+}
+
+button.btn-pre:hover,
+button.btn-pre:active,
+button.btn-pre.ativo,
+a.link-btn.btn-pre:hover,
+a.link-btn.btn-pre:active,
+a.link-btn.btn-pre.ativo {
+    background-color: var(--cor-primaria-hover);
+    box-shadow: none;
+}
+
+button.btn-pre:focus-visible,
+a.link-btn.btn-pre:focus-visible {
+    outline: 2px solid var(--cor-focus);
+    background-color: var(--cor-primaria);
+}
+
+button.btn-pre:focus-visible:active,
+a.link-btn.btn-pre:focus-visible:active {
+    outline: none;
+}
+
+a.link-btn.btn-pre:focus-visible:visited {
+    color: var(--cor-sobre-primaria);
+}
+
+button.btn-pre:disabled {
+    background-color: var(--cor-desabilitado);
+    color: var(--cor-sobre-fundo);
+}
+
+/* ↳ Botão preenchido Alternativo */
+button.btn-pre.alt,
+a.link-btn.btn-pre.btn-pre.alt {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-sobre-secundaria);
+}
+
+a.link-btn.btn-pre.alt:visited {
+    color: var(--cor-sobre-secundaria);
+}
+
+button.btn-pre.alt:hover,
+button.btn-pre.alt:active,
+button.btn-pre.alt.ativo,
+a.link-btn.btn-pre.alt:hover,
+a.link-btn.btn-pre.alt.ativo,
+a.link-btn.btn-pre.alt:active {
+    background-color: var(--secundario40);
+    color: var(--cor-sobre-secundaria);
+}
+
+button.btn-pre.alt:focus-visible,
+a.link-btn.btn-pre.alt:focus-visible {
+    outline: 2px solid var(--secundario95);
+    background-color: var(--cor-secundaria);
+}
+
+button.btn-pre.alt:disabled,
+a.link-btn.btn-pre.alt:disabled {
+    background-color: var(--neutro60);
+    color: var(--cor-sobre-fundo);
+}
+
+/* ↳ Botão Preenchido - Tema Escuro */
+body.tema-escuro button.btn-pre:hover,
+body.tema-escuro button.btn-pre:active,
+body.tema-escuro button.btn-pre.ativo,
+body.tema-escuro a.link-btn.btn-pre:hover,
+body.tema-escuro a.link-btn.btn-pre.ativo
+body.tema-escuro a.link-btn.btn-pre:active {
+    background-color: var(--primario90);
+}
+
+body.tema-escuro button.btn-pre:focus-visible,
+body.tema-escuro a.link-btn.btn-pre:focus-visible {
+    outline: 2px solid var(--primario100);
+}
+
+body.tema-escuro button.btn-pre:disabled,
+body.tema-escuro a.link-btn.btn-pre:disabled {
+    background-color: var(--neutro30);
+    color: var(--neutro70);
+}
+
+body.tema-escuro a.link-btn.btn-pre:visited {
+    color: var(--cor-sobre-primaria);
+}
+
+/* ↳ Botão Preenchido Alternativo - Tema Escuro */
+body.tema-escuro button.btn-pre.alt:hover,
+body.tema-escuro button.btn-pre.alt:active,
+body.tema-escuro button.btn-pre.alt.ativo
+body.tema-escuro a.link-btn.btn-pre.alt:hover,
+body.tema-escuro a.link-btn.btn-pre.alt.ativo,
+body.tema-escuro a.link-btn.btn-pre.alt:active {
+    background-color: var(--secundario40);
+}
+
+body.tema-escuro button.btn-pre.alt:focus-visible,
+body.tema-escuro a.link-btn.btn-pre.alt:focus-visible {
+    outline: 2px solid var(--primario100);
+}
+
+body.tema-escuro button.btn-pre.alt:disabled,
+body.tema-escuro a.link-btn.btn-pre.alt:disabled {
+    background-color: var(--neutro30);
+    color: var(--neutro70);
+}
+
+/* ↳ Botão Preenchido - Alto Contraste */
+body.alto-contraste a.link-btn.btn-pre:visited {
+    color: var(--cor-ac-preto);
+}
+
+body.alto-contraste button.btn-pre:hover,
+body.alto-contraste button.btn-pre:active,
+body.alto-contraste button.btn-pre.ativo,
+body.alto-contraste button.btn-pre.alt:hover,
+body.alto-contraste button.btn-pre.alt:active,
+body.alto-contraste button.btn-pre.alt.ativo,
+body.alto-contraste a.link-btn.btn-pre:hover,
+body.alto-contraste a.link-btn.btn-pre:active,
+body.alto-contraste a.link-btn.btn-pre.ativo,
+body.alto-contraste a.link-btn.btn-pre.alt:hover,
+body.alto-contraste a.link-btn.btn-pre.alt.ativo,
+body.alto-contraste a.link-btn.btn-pre.alt:active {
+    background-color: var(--cor-ac-preto);
+    outline: 1px solid var(--cor-ac-amarelo);
+    color: var(--cor-ac-amarelo);
+}
+
+body.alto-contraste button.btn-pre:focus-visible,
+body.alto-contraste button.btn-pre.alt:focus-visible,
+body.alto-contraste a.link-btn.btn-pre:focus-visible,
+body.alto-contraste a.link-btn.btn-pre.alt:focus-visible {
+    background-color: var(--cor-ac-preto);
+    color: var(--cor-ac-amarelo);
+    outline: 2px solid var(--cor-ac-branco);
+}
+
+body.alto-contraste button.btn-pre:disabled,
+body.alto-contraste button.btn-pre.alt:disabled,
+body.alto-contraste a.link-btn.btn-pre:disabled,
+body.alto-contraste a.link-btn.btn-pre.alt:disabled {
+    outline: 1px solid var(--cor-ac-branco);
+    background-color: var(--cor-ac-preto);
+    color: var(--cor-ac-branco);
+}
+
+/**** BOTÃO CONTORNO ****/
+button.btn-cont,
+a.link-btn.btn-cont {
+    background-color: transparent;
+    color: var(--cor-primaria);
+    outline: 1px solid var(--cor-primaria);
+}
+
+button.btn-cont:hover,
+button.btn-cont:active,
+button.btn-cont.ativo,
+a.link-btn.btn-cont:hover,
+a.link-btn.btn-cont:ativo,
+a.link-btn.btn-cont:active {
+    background-color: rgba(0, 99, 153, 0.08);
+    box-shadow: none;
+}
+
+button.btn-cont:focus-visible,
+a.link-btn.btn-cont:focus-visible {
+    background-color: rgba(0, 99, 153, 0.08);
+    outline: 2px solid var(--primario20);
+}
+
+button.btn-cont:focus-visible:active,
+a.link-btn.btn-cont:focus-visible:active {
+    outline: none;
+}
+
+
+button.btn-cont:disabled {
+    outline: 1px solid var(--cor-contorno);
+    color: var(--neutro40);
+    background-color: transparent;
+}
+
+/* ↳ Botão Contorno Alternativo */
+button.btn-cont.alt,
+a.link-btn.btn-cont.alt {
+    color: var(--cor-secundaria);
+    outline: 1px solid var(--cor-secundaria);
+}
+
+button.btn-cont.alt:hover,
+button.btn-cont.alt:active,
+button.btn-cont.alt.ativo,
+a.link-btn.btn-cont.alt:hover,
+a.link-btn.btn-cont.alt.ativo,
+a.link-btn.btn-cont.alt:active {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-sobre-secundaria);
+}
+
+button.btn-cont.alt:focus-visible,
+a.link-btn.btn-cont.alt:focus-visible {
+    background-color: transparent;
+    outline: 2px solid var(--secundario95);
+    color: var(--cor-secundaria);
+}
+
+button.btn-cont:focus-visible:active,
+a.link-btn.btn-cont:focus-visible:active {
+    outline: none;
+}
+
+button.btn-cont.alt:disabled {
+    outline: 1px solid var(--neutro70);
+    color: var(--neutro70);
+    background-color: transparent;
+}
+
+/* ↳ Botão Contorno - Tema Escuro */
+body.tema-escuro button.btn-cont:focus-visible,
+body.tema-escuro a.link-btn.btn-cont:focus-visible {
+    outline: 2px solid var(--primario95);
+}
+
+body.tema-escuro a.link-btn.btn-cont:visited {
+    color: var(--cor-primaria);
+}
+
+body.tema-escuro button.btn-cont:disabled {
+    outline: 1px solid var(--cor-contorno);
+    color: var(--neutro60);
+    background-color: transparent;
+}
+
+body.tema-escuro a.link-btn.btn-cont.alt:visited {
+    color: var(--cor-secundaria);
+}
+
+body.tema-escuro a.link-btn.btn-cont.alt:hover:visited,
+body.tema-escuro a.link-btn.btn-cont.alt.ativo:visited,
+body.tema-escuro a.link-btn.btn-cont.alt:active:visited {
+    color: var(--primario20);
+}
+
+/* ↳ Botão Contorno - Alto Contraste */
+body.alto-contraste button.btn-cont,
+body.alto-contraste button.btn-cont.alt,
+body.alto-contraste a.link-btn.btn-cont,
+body.alto-contraste a.link-btn.btn-cont.alt {
+    color: var(--cor-ac-amarelo);
+    outline: 1px solid var(--cor-ac-amarelo);
+}
+
+body.alto-contraste button.btn-cont:hover,
+body.alto-contraste button.btn-cont:active,
+body.alto-contraste button.btn-cont.ativo,
+body.alto-contraste button.btn-cont.alt:hover,
+body.alto-contraste button.btn-cont.alt:active,
+body.alto-contraste button.btn-cont.alt.ativo,
+body.alto-contraste a.link-btn.btn-cont:hover,
+body.alto-contraste a.link-btn.btn-cont:active,
+body.alto-contraste a.link-btn.btn-cont.ativo,
+body.alto-contraste a.link-btn.btn-cont.alt:hover,
+body.alto-contraste a.link-btn.btn-cont.alt:active,
+body.alto-contraste a.link-btn.btn-cont.alt.ativo,
+body.tema-escuro a.link-btn.btn-cont.alt:hover:visited,
+body.tema-escuro a.link-btn.btn-cont.alt.ativo:visited,
+body.tema-escuro a.link-btn.btn-cont.alt:active:visited {
+    background-color: var(--cor-ac-amarelo);
+    color: var(--cor-ac-preto);
+}
+
+body.alto-contraste button.btn-cont:focus-visible,
+body.alto-contraste button.btn-cont.alt:focus-visible,
+body.alto-contraste a.link-btn.btn-cont:focus-visible,
+body.alto-contraste a.link-btn.btn-cont.alt:focus-visible {
+    background-color: var(--cor-ac-preto);
+    outline: 2px solid var(--cor-ac-branco);
+    color: var(--cor-ac-amarelo);
+}
+
+body.alto-contraste button.btn-cont:disabled,
+body.alto-contraste button.btn-cont.alt:disabled,
+body.alto-contraste a.link-btn.btn-cont:disabled,
+body.alto-contraste a.link-btn.btn-cont.alt:disabled {
+    outline: 1px solid var(--cor-ac-branco);
+    color: var(--cor-ac-branco);
+    background-color: transparent;
+}
+
+/**** BOTÃO TEXTO ****/
+button.btn-txt,
+a.link-btn.btn-txt {
+    background-color: transparent;
+    color: var(--cor-primaria);
+    padding: 8px 16px;
+}
+
+button.btn-txt.so-icone,
+a.link-btn.btn-txt.so-icone {
+    padding: 8px 8px;
+}
+
+button.btn-txt:hover,
+button.btn-txt:active,
+button.btn-txt.ativo,
+a.link-btn.btn-txt:hover,
+a.link-btn.btn-txt.ativo,
+a.link-btn.btn-txt:active {
+    background-color: rgba(0, 99, 153, 0.08);
+    box-shadow: none;
+}
+
+button.btn-txt:focus-visible,
+a.link-btn.btn-txt:focus-visible {
+    background-color: rgba(0, 99, 153, 0.08);
+    outline: 2px solid var(--primario20);
+}
+
+button.btn-txt:focus-visible:active,
+a.link-btn.btn-txt:focus-visible:active {
+    outline: none;
+}
+
+button.btn-txt:disabled {
+    color: var(--neutro40);
+    background-color: transparent;
+}
+
+/* ↳ Botão Texto como um link */
+button.btn-txt.como-link {
+    padding: 0;
+    outline-offset: 0;
+    border-radius: 4px;
+    line-height: inherit;
+    font-size: inherit;
+    text-decoration: underline;
+    font-style: inherit;
+}
+
+/* ↳ Botão Texto Alternativo */
+button.btn-txt.alt,
+.bg-azul-correios button.btn-txt.como-link,
+a.link-btn.btn-txt.alt,
+.bg-azul-correios a.link-btn.btn-txt.como-link {
+    background-color: transparent;
+    color: var(--cor-secundaria);
+}
+
+button.btn-txt.alt:hover,
+button.btn-txt.alt:active,
+button.btn-txt.alt.ativo,
+.bg-azul-correios button.btn-txt.como-link:hover,
+.bg-azul-correios button.btn-txt.como-link:active,
+.bg-azul-correios button.btn-txt.como-link.ativo,
+a.link-btn.btn-txt.alt:hover,
+a.link-btn.btn-txt.alt:active,
+a.link-btn.btn-txt.alt.ativo,
+.bg-azul-correios a.link-btn.btn-txt.como-link:hover,
+.bg-azul-correios a.link-btn.btn-txt.como-link.ativo,
+.bg-azul-correios a.link-btn.btn-txt.como-link:active {
+    outline: 1px solid var(--cor-secundaria);
+}
+
+button.btn-txt.alt:focus-visible,
+.bg-azul-correios button.btn-txt.como-link:focus-visible,
+a.link-btn.btn-txt.alt:focus-visible,
+.bg-azul-correios a.link-btn.btn-txt.como-link:focus-visible {
+    outline: 2px solid var(--secundario95);
+}
+
+button.btn-txt.alt:disabled,
+.bg-azul-correios button.btn-txt:disabled,
+a.link-btn.btn-txt.alt:disabled,
+.bg-azul-correios a.link-btn.btn-txt:disabled {
+    color: var(--neutro70);
+}
+
+button.btn-txt.alt:disabled:hover,
+.bg-azul-correios button.btn-txt.como-link:disabled:hover,
+a.link-btn.btn-txt.alt:disabled:hover,
+.bg-azul-correios a.link-btn.btn-txt.como-link:disabled:hover {
+    outline: 0px;
+}
+
+/* ↳ Botão Texto - Tema Escuro */
+body.tema-escuro button.btn-txt:hover,
+body.tema-escuro button.btn-txt:active,
+body.tema-escuro button.btn-txt.ativo,
+body.tema-escuro a.link-btn.btn-txt:hover,
+body.tema-escuro a.link-btn.btn-txt.ativo,
+body.tema-escuro a.link-btn.btn-txt:active {
+    background-color: rgba(102, 201, 255, 0.08);
+}
+
+body.tema-escuro a.link-btn.btn-txt:visited {
+    color: var(--cor-primaria);
+}
+
+body.tema-escuro button.btn-txt:focus-visible,
+body.tema-escuro a.link-btn.btn-txt:focus-visible {
+    background-color: rgba(102, 201, 255, 0.08);
+    outline: 2px solid var(--primario95);
+}
+
+body.tema-escuro button.btn-txt:disabled {
+    color: var(--neutro60);
+    background-color: transparent;
+}
+
+body.tema-escuro a.link-btn.btn-txt.alt:visited,
+body.tema-escuro a.link-btn.btn-txt.alt:hover:visited,
+body.tema-escuro a.link-btn.btn-txt.alt.ativo:visited,
+body.tema-escuro a.link-btn.btn-txt.alt:active:visited {
+    color: var(--cor-secundaria);
+}
+
+body.tema-escuro button.btn-txt.alt:hover,
+body.tema-escuro button.btn-txt.alt:active,
+body.tema-escuro button.btn-txt.alt.ativo,
+body.tema-escuro button.btn-txt.alt:focus-visible,
+body.tema-escuro .bg-azul-correios button.btn-txt.como-link:hover,
+body.tema-escuro .bg-azul-correios button.btn-txt.como-link:active,
+body.tema-escuro .bg-azul-correios button.btn-txt.como-link.ativo,
+body.tema-escuro .bg-azul-correios button.btn-txt.como-link:focus-visible,
+body.tema-escuro a.link-btn.btn-txt.alt:hover,
+body.tema-escuro a.link-btn.btn-txt.alt:active,
+body.tema-escuro a.link-btn.btn-txt.alt.ativo,
+body.tema-escuro a.link-btn.btn-txt.alt:focus-visible,
+body.tema-escuro .bg-azul-correios a.link-btn.btn-txt.como-link:hover,
+body.tema-escuro .bg-azul-correios a.link-btn.btn-txt.como-link:active,
+body.tema-escuro .bg-azul-correios a.link-btn.btn-txt.como-link.ativo,
+body.tema-escuro .bg-azul-correios a.link-btn.btn-txt.como-link:focus-visible {
+    background-color: transparent;
+}
+
+/* ↳ Botão Texto - Alto Contraste */
+body.alto-contraste button.btn-txt,
+body.alto-contraste button.btn-txt.alt,
+body.alto-contraste .bg-azul-correios button.btn-txt.como-link,
+body.alto-contraste a.link-btn.btn-txt,
+body.alto-contraste a.link-btn.btn-txt.alt,
+body.alto-contraste .bg-azul-correios a.link-btn.btn-txt.como-link {
+    background-color: transparent;
+    color: var(--cor-ac-amarelo);
+}
+
+body.alto-contraste button.btn-txt:hover,
+body.alto-contraste button.btn-txt:active,
+body.alto-contraste button.btn-txt.ativo,
+body.alto-contraste button.btn-txt.alt:hover,
+body.alto-contraste button.btn-txt.alt:active,
+body.alto-contraste button.btn-txt.alt.ativo,
+body.alto-contraste a.link-btn.btn-txt:hover,
+body.alto-contraste a.link-btn.btn-txt:active,
+body.alto-contraste a.link-btn.btn-txt.ativo,
+body.alto-contraste a.link-btn.btn-txt.alt:hover,
+body.alto-contraste a.link-btn.btn-txt.alt.ativo,
+body.alto-contraste a.link-btn.btn-txt.alt:active {
+    outline: 1px solid var(--cor-ac-amarelo);
+}
+
+body.alto-contraste button.btn-txt:focus-visible,
+body.alto-contraste button.btn-txt.alt:focus-visible,
+body.alto-contraste a.link-btn.btn-txt:focus-visible,
+body.alto-contraste a.link-btn.btn-txt.alt:focus-visible {
+    outline: 2px solid var(--cor-ac-branco);
+}
+
+body.alto-contraste button.btn-txt:disabled,
+body.alto-contraste button.btn-txt.alt:disabled,
+body.alto-contraste a.link-btn.btn-txt:disabled,
+body.alto-contraste a.link-btn.btn-txt.alt:disabled {
+    color: var(--cor-ac-branco);
+    background-color: transparent;
+    outline: none;
+}
+
+/**** BOTÃO FLUTUANTE ****/
+button.btn-flu,
+button.btn-flu-g {
+    position: fixed;
+    bottom: var(--espaco-g);
+    right: var(--espaco-m);
+    background-color: var(--cor-secundaria);
+    color: var(--cor-sobre-secundaria);
+    z-index: 10;
+}
+
+button.btn-flu-g {
+    padding: 16px 24px;
+}
+
+button.btn-flu:hover,
+button.btn-flu:active,
+button.btn-flu.ativo,
+button.btn-flu-g:hover,
+button.btn-flu-g.ativo,
+button.btn-flu-g:active {
+    background-color: var(--secundario40);
+}
+
+button.btn-flu:focus-visible,
+button.btn-flu-g:focus-visible {
+    outline: 2px solid var(--primario20);
+    background-color: var(--cor-secundaria);
+}
+
+button.btn-flu:disabled,
+button.btn-flu-g:disabled {
+    background-color: var(--neutro60);
+    color: var(--cor-sobre-fundo);
+}
+
+/* ↳ Botão Flutuante em telas muito pequenas */
+@media screen and (max-width: 599px) {
+    button.btn-flu {
+        padding: 8px;
+    }
+
+    button.btn-flu-g {
+        padding: 16px;
+    }
+
+    button.btn-flu > i:first-child,
+    button.btn-flu-g > i:first-child {
+        margin-left: 0;
+    }
+
+    button.btn-flu span,
+    button.btn-flu-g span {
+        display: none;
+        visibility: none;
+    }
+}
+
+/* ↳ Botão Flutuante - Tema Escuro */
+body.tema-escuro button.btn-flu:focus-visible,
+body.tema-escuro button.btn-flu-g:focus-visible {
+    outline: 2px solid var(--primario100);
+}
+
+body.tema-escuro button.btn-flu:disabled,
+body.tema-escuro button.btn-flu-g:disabled {
+    background-color: var(--neutro30);
+    color: var(--neutro70);
+}
+
+/* ↳ Botão Flutuante - Alto Contraste */
+body.alto-contraste button.btn-flu,
+body.alto-contraste button.btn-flu-g {
+    border: 0px;
+    background-color: var(--cor-ac-amarelo);
+    color: var(--cor-ac-preto);
+}
+
+body.alto-contraste button.btn-flu:hover,
+body.alto-contraste button.btn-flu:active,
+body.alto-contraste button.btn-flu.ativo,
+body.alto-contraste button.btn-flu-g:hover,
+body.alto-contraste button.btn-flu-g.ativo,
+body.alto-contraste button.btn-flu-g:active {
+    background-color: var(--cor-ac-amarelo);
+}
+
+body.alto-contraste button.btn-flu:focus-visible,
+body.alto-contraste button.btn-flu-g:focus-visible {
+    outline: 2px solid var(--cor-ac-branco);
+}
+
+body.alto-contraste button.btn-flu:disabled,
+body.alto-contraste button.btn-flu-g:disabled {
+    outline: 1px solid var(--cor-ac-branco);
+    background-color: var(--cor-ac-preto);
+    color: var(--cor-ac-branco);
+}
+
+/* ↳ Botão Flutuante - Alto Contraste - retira borda da elevação */
+body.alto-contraste button.elev1,
+body.alto-contraste button.elev2,
+body.alto-contraste button.elev3,
+body.alto-contraste button.elev4,
+body.alto-contraste button.elev5 {
+    border: none;
+}
+
+/* BOTÃO RESPONSIVO - Precisa de ícone e o texto dentro de um span*/
+
+@media screen and (max-width: 899px) {
+    button.btn-responsivo,
+    a.link-btn.btn-responsivo {
+        padding: 8px;
+    }	
+
+	button.btn-responsivo span,
+	a.link-btn.btn-responsivo span {
+	    display: none;
+	}
+	
+	button.btn-responsivo > i:first-child,
+	a.link-btn.btn-responsivo > i:first-child {
+	    margin-left: 0;
+	}
+}
+
+/* Notificações no botão - o texto do botão deve estar dentro de um span */
+button span.notificacao,
+a.link-btn span.notificacao {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 4px;
+	border-radius: 0.5rem;
+	font-size: 12px;
+	line-height: 1rem;
+	height: 1rem;
+	min-width: 1rem;
+	font-weight: bold;
+	color: var(--cor-sobre-erro);
+	background-color: var(--cor-erro);
+}

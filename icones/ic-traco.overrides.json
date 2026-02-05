@@ -1,0 +1,2500 @@
+{
+  "alerta-stroke": {
+    "tags": [
+      "ação",
+      "ações",
+      "alerta"
+    ],
+    "aliases": [
+      "alerta",
+      "atenção",
+      "aviso",
+      "perigo"
+    ]
+  },
+  "customizacao-stroke": {
+    "tags": [
+      "ação",
+      "ações",
+      "configurações"
+    ],
+    "aliases": [
+      "personalizar",
+      "customizar",
+      "configurar",
+      "ajustes",
+      "customizacao"
+    ]
+  },
+  "info-stroke": {
+    "tags": [
+      "ação",
+      "ações",
+      "informação"
+    ],
+    "aliases": [
+      "informação",
+      "ajuda",
+      "detalhes",
+      "sobre",
+      "info"
+    ]
+  },
+  "lixo-stroke": {
+    "tags": [
+      "ação",
+      "ações",
+      "excluir"
+    ],
+    "aliases": [
+      "lixeira",
+      "excluir",
+      "deletar",
+      "remover",
+      "apagar",
+      "lixo"
+    ]
+  },
+  "lixo-visto-stroke": {
+    "tags": [
+      "ação",
+      "ações",
+      "excluir",
+      "confirmar"
+    ],
+    "aliases": [
+      "lixeira",
+      "excluir",
+      "deletar",
+      "remover",
+      "apagar",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado"
+    ]
+  },
+  "visto-stroke": {
+    "tags": [
+      "ação",
+      "ações",
+      "confirmar"
+    ],
+    "aliases": [
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "visto"
+    ]
+  },
+  "carrinho-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "carrinho",
+      "comprar",
+      "finalizar compra",
+      "pedido"
+    ]
+  },
+  "celular-carrinho-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "celular",
+      "telefone",
+      "mobile",
+      "carrinho",
+      "comprar",
+      "finalizar compra",
+      "pedido",
+      "celular carrinho",
+      "celular-carrinho"
+    ]
+  },
+  "celular-cesta-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "celular",
+      "telefone",
+      "mobile",
+      "cesta",
+      "comprar",
+      "finalizar compra",
+      "pedido",
+      "celular cesta",
+      "celular-cesta"
+    ]
+  },
+  "cesta-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "cesta",
+      "comprar",
+      "finalizar compra",
+      "pedido"
+    ]
+  },
+  "gift-card-stroke": {
+    "tags": [
+      "compras",
+      "pagamentos"
+    ],
+    "aliases": [
+      "presente",
+      "vale-presente",
+      "cartão-presente",
+      "cartão",
+      "cartão de crédito",
+      "cartão de débito",
+      "gift card",
+      "gift-card"
+    ]
+  },
+  "loja-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "loja",
+      "shopping",
+      "compras",
+      "vitrine"
+    ]
+  },
+  "moda-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "moda",
+      "roupas",
+      "vestuário",
+      "compras"
+    ]
+  },
+  "monitor-carrinho-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "monitor",
+      "tela",
+      "display",
+      "carrinho",
+      "comprar",
+      "finalizar compra",
+      "pedido",
+      "monitor carrinho",
+      "monitor-carrinho",
+      "computador"
+    ]
+  },
+  "monitor-cesta-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "monitor",
+      "tela",
+      "display",
+      "cesta",
+      "comprar",
+      "finalizar compra",
+      "pedido",
+      "monitor cesta",
+      "monitor-cesta",
+      "computador"
+    ]
+  },
+  "sacola-stroke": {
+    "tags": [
+      "compras"
+    ],
+    "aliases": [
+      "sacola",
+      "compras",
+      "loja",
+      "pedidos"
+    ]
+  },
+  "agencia-clique-retire-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "agencia clique retire",
+      "agencia-clique-retire",
+      "correios"
+    ]
+  },
+  "agencia-exclamacao-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "atenção",
+      "alerta",
+      "aviso",
+      "agencia exclamacao",
+      "agencia-exclamacao",
+      "correios"
+    ]
+  },
+  "agencia-fechada-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "agencia fechada",
+      "agencia-fechada",
+      "correios"
+    ]
+  },
+  "agencia-relogio-stroke": {
+    "tags": [
+      "construções",
+      "tempo"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "agencia relogio",
+      "correios"
+    ]
+  },
+  "agencia-roubo-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "agencia roubo",
+      "agencia-roubo",
+      "correios"
+    ]
+  },
+  "agencia-seta-stroke": {
+    "tags": [
+      "construções",
+      "navegação"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "seta",
+      "navegar",
+      "voltar",
+      "avançar",
+      "direção",
+      "agencia seta",
+      "correios"
+    ]
+  },
+  "agencia-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "correios"
+    ]
+  },
+  "agencia-visto-stroke": {
+    "tags": [
+      "construções",
+      "confirmar"
+    ],
+    "aliases": [
+      "agência",
+      "unidade",
+      "posto",
+      "atendimento",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "agencia visto",
+      "correios"
+    ]
+  },
+  "cdd-caixas-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "centro de distribuição",
+      "distribuição",
+      "caixas",
+      "pacotes",
+      "encomendas",
+      "cdd caixas",
+      "cdd-caixas",
+      "correios"
+    ]
+  },
+  "cdd-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "centro de distribuição",
+      "distribuição",
+      "cdd",
+      "correios"
+    ]
+  },
+  "predios-stroke": {
+    "tags": [
+      "construções"
+    ],
+    "aliases": [
+      "prédios",
+      "edifícios",
+      "unidade"
+    ]
+  },
+  "balao-exclamacao-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "atenção",
+      "alerta",
+      "aviso",
+      "balao exclamacao",
+      "balao-exclamacao"
+    ]
+  },
+  "balao-mais-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "adicionar",
+      "novo",
+      "incluir",
+      "mais",
+      "balao mais",
+      "balao-mais"
+    ]
+  },
+  "balao-pergunta-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "pergunta",
+      "ajuda",
+      "dúvida",
+      "suporte",
+      "balao pergunta",
+      "balao-pergunta"
+    ]
+  },
+  "balao-pontos-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "opções",
+      "menu",
+      "ações",
+      "balao pontos",
+      "balao-pontos"
+    ]
+  },
+  "balao-relogio-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem",
+      "tempo"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "balao relogio"
+    ]
+  },
+  "balao-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "balao"
+    ]
+  },
+  "balao-visto-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem",
+      "confirmar"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "balao visto"
+    ]
+  },
+  "balao-x-stroke": {
+    "tags": [
+      "contatos",
+      "mensagem"
+    ],
+    "aliases": [
+      "mensagem",
+      "chat",
+      "comentário",
+      "conversa",
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "balao x",
+      "balao-x"
+    ]
+  },
+  "conversa-stroke": {
+    "tags": [
+      "contatos"
+    ],
+    "aliases": [
+      "conversa",
+      "chat",
+      "mensagem",
+      "atendimento"
+    ]
+  },
+  "megafone-stroke": {
+    "tags": [
+      "contatos",
+      "comunicado"
+    ],
+    "aliases": [
+      "anúncio",
+      "aviso",
+      "comunicado",
+      "divulgação",
+      "megafone"
+    ]
+  },
+  "declaracao-dividido-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "declaração",
+      "documento",
+      "comprovante",
+      "declaracao dividido",
+      "declaracao-dividido"
+    ]
+  },
+  "declaracao-inteiro-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "declaração",
+      "documento",
+      "comprovante",
+      "declaracao inteiro",
+      "declaracao-inteiro"
+    ]
+  },
+  "documento-acompanhar-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "acompanhar",
+      "rastrear",
+      "monitorar",
+      "documento acompanhar",
+      "documento-acompanhar"
+    ]
+  },
+  "documento-encaminhar-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "encaminhar",
+      "enviar",
+      "compartilhar",
+      "documento encaminhar",
+      "documento-encaminhar"
+    ]
+  },
+  "documento-hor-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "documento hor",
+      "documento-hor"
+    ]
+  },
+  "documento-mais-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "adicionar",
+      "novo",
+      "incluir",
+      "mais",
+      "documento mais",
+      "documento-mais"
+    ]
+  },
+  "documento-quadrado-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "documento quadrado",
+      "documento-quadrado"
+    ]
+  },
+  "documento-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário"
+    ]
+  },
+  "documento-verificar-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "verificar",
+      "validar",
+      "checar",
+      "conferir",
+      "documento verificar",
+      "documento-verificar"
+    ]
+  },
+  "documento-visto-stroke": {
+    "tags": [
+      "documento",
+      "confirmar"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "documento visto"
+    ]
+  },
+  "documento-voltar-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "voltar",
+      "retornar",
+      "anterior",
+      "documento voltar",
+      "documento-voltar"
+    ]
+  },
+  "documento-x-stroke": {
+    "tags": [
+      "documento"
+    ],
+    "aliases": [
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "documento x",
+      "documento-x"
+    ]
+  },
+  "folha-tabela-stroke": {
+    "tags": [
+      "tabela",
+      "documento"
+    ],
+    "aliases": [
+      "folha",
+      "documento",
+      "arquivo",
+      "tabela",
+      "planilha",
+      "dados",
+      "folha tabela",
+      "folha-tabela"
+    ]
+  },
+  "impessao-a4-stroke": {
+    "tags": [
+      "impressão",
+      "documento"
+    ],
+    "aliases": [
+      "imprimir",
+      "impressão",
+      "print",
+      "a4",
+      "folha",
+      "impessao a4",
+      "impessao-a4"
+    ]
+  },
+  "lista-relogio-stroke": {
+    "tags": [
+      "lista",
+      "tempo",
+      "documento"
+    ],
+    "aliases": [
+      "lista",
+      "itens",
+      "tarefas",
+      "checklist",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "lista relogio",
+      "planilha"
+    ]
+  },
+  "lista-stroke": {
+    "tags": [
+      "lista",
+      "documento"
+    ],
+    "aliases": [
+      "lista",
+      "itens",
+      "tarefas",
+      "checklist",
+      "planilha"
+    ]
+  },
+  "prancheta-visto-stroke": {
+    "tags": [
+      "confirmar",
+      "documento"
+    ],
+    "aliases": [
+      "prancheta",
+      "formulário",
+      "checklist",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "prancheta visto",
+      "prancheta-visto",
+      "planilha"
+    ]
+  },
+  "aviao-relogio-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "envio",
+      "tempo"
+    ],
+    "aliases": [
+      "avião",
+      "aéreo",
+      "voo",
+      "enviar",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "aviao relogio",
+      "exportar"
+    ]
+  },
+  "aviao-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "envio"
+    ],
+    "aliases": [
+      "avião",
+      "aéreo",
+      "voo",
+      "enviar",
+      "exportar"
+    ]
+  },
+  "aviao-x-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "envio"
+    ],
+    "aliases": [
+      "avião",
+      "aéreo",
+      "voo",
+      "enviar",
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "aviao x",
+      "aviao-x",
+      "exportar"
+    ]
+  },
+  "aviaozinho-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "aviaozinho"
+    ]
+  },
+  "caixa-aberta-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa aberta",
+      "caixa-aberta"
+    ]
+  },
+  "caixa-cadeado-aberto-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "segurança"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "cadeado",
+      "segurança",
+      "bloquear",
+      "trancar",
+      "caixa cadeado aberto",
+      "caixa-cadeado-aberto"
+    ]
+  },
+  "caixa-cadeado-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "segurança"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "cadeado",
+      "segurança",
+      "bloquear",
+      "trancar",
+      "caixa cadeado",
+      "caixa-cadeado"
+    ]
+  },
+  "caixa-documento-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "documento"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "documento",
+      "arquivo",
+      "papel",
+      "formulário",
+      "caixa documento",
+      "caixa-documento"
+    ]
+  },
+  "caixa-enviar-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa enviar",
+      "caixa-enviar"
+    ]
+  },
+  "caixa-exclamacao-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "atenção",
+      "alerta",
+      "aviso",
+      "caixa exclamacao",
+      "caixa-exclamacao"
+    ]
+  },
+  "caixa-lixo-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "excluir"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "lixeira",
+      "excluir",
+      "deletar",
+      "remover",
+      "apagar",
+      "caixa lixo"
+    ]
+  },
+  "caixa-nao-permitido": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa nao permitido",
+      "caixa-nao-permitido"
+    ]
+  },
+  "caixa-pin-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "localização"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "pin",
+      "marcador",
+      "local",
+      "mapa",
+      "caixa pin",
+      "caixa-pin"
+    ]
+  },
+  "caixa-proibido": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa proibido",
+      "caixa-proibido"
+    ]
+  },
+  "caixa-recebida-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa recebida",
+      "caixa-recebida"
+    ]
+  },
+  "caixa-relogio-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "tempo"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "caixa relogio"
+    ]
+  },
+  "caixa-roubo-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa roubo",
+      "caixa-roubo"
+    ]
+  },
+  "caixa-sinistro-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa sinistro",
+      "caixa-sinistro"
+    ]
+  },
+  "caixa-smile-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "caixa smile",
+      "caixa-smile"
+    ]
+  },
+  "caixa-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem"
+    ]
+  },
+  "caixa-visto-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda",
+      "confirmar"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "caixa visto"
+    ]
+  },
+  "caixa-voltar-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "voltar",
+      "retornar",
+      "anterior",
+      "caixa voltar",
+      "caixa-voltar"
+    ]
+  },
+  "caixa-x-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "encomenda"
+    ],
+    "aliases": [
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "caixa x",
+      "caixa-x"
+    ]
+  },
+  "caixas-incompleto": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "caixas",
+      "pacotes",
+      "encomendas",
+      "caixas incompleto",
+      "caixas-incompleto",
+      "pilha"
+    ]
+  },
+  "caixas-recebidas-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "caixas",
+      "pacotes",
+      "encomendas",
+      "caixas recebidas",
+      "caixas-recebidas",
+      "pilha"
+    ]
+  },
+  "caixas-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "caixas",
+      "pacotes",
+      "encomendas",
+      "pilha"
+    ]
+  },
+  "caminhao-atencao-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "caminhao atencao",
+      "caminhao-atencao"
+    ]
+  },
+  "caminhao-cancelado-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "caminhao cancelado",
+      "caminhao-cancelado"
+    ]
+  },
+  "caminhao-correndo-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "caminhao correndo",
+      "caminhao-correndo"
+    ]
+  },
+  "caminhao-lupa-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega",
+      "busca"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "buscar",
+      "pesquisar",
+      "procurar",
+      "consulta",
+      "filtro",
+      "caminhao lupa"
+    ]
+  },
+  "caminhao-lupa-visto-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega",
+      "busca",
+      "confirmar"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "buscar",
+      "pesquisar",
+      "procurar",
+      "consulta",
+      "filtro",
+      "confirmar"
+    ]
+  },
+  "caminhao-relogio-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega",
+      "tempo"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "caminhao relogio"
+    ]
+  },
+  "caminhao-roubo-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "caminhao roubo",
+      "caminhao-roubo"
+    ]
+  },
+  "caminhao-seta-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega",
+      "navegação"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "seta",
+      "navegar",
+      "voltar",
+      "avançar",
+      "direção",
+      "caminhao seta"
+    ]
+  },
+  "caminhao-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete"
+    ]
+  },
+  "caminhao-visto-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "entrega",
+      "confirmar"
+    ],
+    "aliases": [
+      "caminhão",
+      "transporte",
+      "entrega",
+      "frete",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "caminhao visto"
+    ]
+  },
+  "carta-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "mensagem"
+    ],
+    "aliases": [
+      "carta",
+      "correspondência",
+      "envelope",
+      "mensagem"
+    ]
+  },
+  "carta-voando-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "mensagem"
+    ],
+    "aliases": [
+      "carta",
+      "correspondência",
+      "envelope",
+      "mensagem",
+      "carta voando",
+      "carta-voando"
+    ]
+  },
+  "celular-carta-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "mensagem"
+    ],
+    "aliases": [
+      "celular",
+      "telefone",
+      "mobile",
+      "carta",
+      "correspondência",
+      "envelope",
+      "mensagem",
+      "celular carta",
+      "celular-carta"
+    ]
+  },
+  "envelope-mala-direta-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "mensagem"
+    ],
+    "aliases": [
+      "envelope",
+      "carta",
+      "correspondência",
+      "envelope mala direta",
+      "envelope-mala-direta"
+    ]
+  },
+  "locker-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "armário",
+      "retirada",
+      "ponto de coleta",
+      "locker",
+      "atm",
+      "auto atendimento"
+    ]
+  },
+  "logistica-reversa-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "logística",
+      "envio",
+      "transporte",
+      "devolução",
+      "logística reversa",
+      "retorno",
+      "logistica-reversa",
+      "caixa",
+      "pacote"
+    ]
+  },
+  "malote-pre-postado-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "malote",
+      "sacola",
+      "bolsa",
+      "documentos",
+      "malote pre postado",
+      "malote-pre-postado"
+    ]
+  },
+  "malote-seta-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "navegação"
+    ],
+    "aliases": [
+      "malote",
+      "sacola",
+      "bolsa",
+      "documentos",
+      "seta",
+      "navegar",
+      "voltar",
+      "avançar",
+      "direção",
+      "malote seta"
+    ]
+  },
+  "malote-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "malote",
+      "sacola",
+      "bolsa",
+      "documentos"
+    ]
+  },
+  "malote-visto-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "confirmar"
+    ],
+    "aliases": [
+      "malote",
+      "sacola",
+      "bolsa",
+      "documentos",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "malote visto"
+    ]
+  },
+  "postagem-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "postagem",
+      "postar",
+      "enviar",
+      "correios",
+      "caixa",
+      "pacote"
+    ]
+  },
+  "postagem-x-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "postagem",
+      "postar",
+      "enviar",
+      "correios",
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "postagem x",
+      "postagem-x",
+      "caixa",
+      "pacote"
+    ]
+  },
+  "rastreamento-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "rastreamento",
+      "encomenda"
+    ],
+    "aliases": [
+      "rastreamento",
+      "rastrear",
+      "acompanhar",
+      "consulta",
+      "monitorar",
+      "caixa",
+      "pacote"
+    ]
+  },
+  "receber-encomenda-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "receber encomenda",
+      "receber-encomenda"
+    ]
+  },
+  "rolo-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "rolo",
+      "cilindro",
+      "encomenda",
+      "envio"
+    ]
+  },
+  "selo-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "selo",
+      "filatelia"
+    ]
+  },
+  "telegrama-relogio-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "tempo"
+    ],
+    "aliases": [
+      "telegrama",
+      "mensagem",
+      "comunicado",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "telegrama relogio",
+      "telegrama-relogio"
+    ]
+  },
+  "telegrama-stroke": {
+    "tags": [
+      "envios e recebimentos"
+    ],
+    "aliases": [
+      "telegrama",
+      "mensagem",
+      "comunicado",
+      "correios"
+    ]
+  },
+  "telegrama-visto-stroke": {
+    "tags": [
+      "envios e recebimentos",
+      "confirmar"
+    ],
+    "aliases": [
+      "telegrama",
+      "mensagem",
+      "comunicado",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "telegrama visto",
+      "telegrama-visto"
+    ]
+  },
+  "codigo-barra-stroke": {
+    "tags": [
+      "etiquetas",
+      "código"
+    ],
+    "aliases": [
+      "código",
+      "código de barras",
+      "barras",
+      "codificação",
+      "codigo barra",
+      "codigo-barra"
+    ]
+  },
+  "etiqueta-atencao-stroke": {
+    "tags": [
+      "etiquetas",
+      "etiqueta"
+    ],
+    "aliases": [
+      "etiqueta",
+      "tag",
+      "rótulo",
+      "etiqueta atencao",
+      "etiqueta-atencao",
+      "correios"
+    ]
+  },
+  "etiqueta-cancelada-stroke": {
+    "tags": [
+      "etiquetas",
+      "etiqueta"
+    ],
+    "aliases": [
+      "etiqueta",
+      "tag",
+      "rótulo",
+      "etiqueta cancelada",
+      "etiqueta-cancelada",
+      "correios"
+    ]
+  },
+  "etiqueta-relogio-stroke": {
+    "tags": [
+      "etiquetas",
+      "etiqueta",
+      "tempo"
+    ],
+    "aliases": [
+      "etiqueta",
+      "tag",
+      "rótulo",
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "etiqueta relogio",
+      "etiqueta-relogio",
+      "correios"
+    ]
+  },
+  "etiqueta-visto-stroke": {
+    "tags": [
+      "etiquetas",
+      "etiqueta",
+      "confirmar"
+    ],
+    "aliases": [
+      "etiqueta",
+      "tag",
+      "rótulo",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "etiqueta visto",
+      "etiqueta-visto",
+      "correios"
+    ]
+  },
+  "impressao-etiqueta-stroke": {
+    "tags": [
+      "etiquetas",
+      "impressão",
+      "etiqueta"
+    ],
+    "aliases": [
+      "imprimir",
+      "impressão",
+      "print",
+      "etiqueta",
+      "tag",
+      "rótulo",
+      "impressao etiqueta",
+      "impressao-etiqueta",
+      "correios"
+    ]
+  },
+  "leitor-codigo-stroke": {
+    "tags": [
+      "etiquetas",
+      "código"
+    ],
+    "aliases": [
+      "leitor",
+      "scanner",
+      "ler código",
+      "código",
+      "código de barras",
+      "barras",
+      "codificação",
+      "leitor codigo",
+      "leitor-codigo"
+    ]
+  },
+  "qr-code-stroke": {
+    "tags": [
+      "etiquetas",
+      "código"
+    ],
+    "aliases": [
+      "qr code",
+      "qrcode",
+      "código qr",
+      "qr-code",
+      "codigo"
+    ]
+  },
+  "ticket-stroke": {
+    "tags": [
+      "etiquetas"
+    ],
+    "aliases": [
+      "ticket",
+      "senha",
+      "bilhete",
+      "cupom"
+    ]
+  },
+  "grafico-stroke": {
+    "tags": [
+      "gráficos"
+    ],
+    "aliases": [
+      "gráfico",
+      "estatísticas",
+      "dados",
+      "relatório"
+    ]
+  },
+  "categorias-stroke": {
+    "tags": [
+      "listas, categorias e marcadores"
+    ],
+    "aliases": [
+      "categorias",
+      "formas",
+      "agrupamento"
+    ]
+  },
+  "bandeira-brasil-stroke": {
+    "tags": [
+      "localização"
+    ],
+    "aliases": [
+      "bandeira",
+      "país",
+      "idioma",
+      "região",
+      "brasil",
+      "br",
+      "pt-br",
+      "bandeira brasil",
+      "bandeira-brasil"
+    ]
+  },
+  "mapa-interrogacao-stroke": {
+    "tags": [
+      "localização"
+    ],
+    "aliases": [
+      "mapa",
+      "localização",
+      "rota",
+      "geografia",
+      "mapa interrogacao",
+      "mapa-interrogacao"
+    ]
+  },
+  "mapa-pin-stroke": {
+    "tags": [
+      "localização"
+    ],
+    "aliases": [
+      "mapa",
+      "localização",
+      "rota",
+      "geografia",
+      "pin",
+      "marcador",
+      "local",
+      "mapa pin",
+      "mapa-pin"
+    ]
+  },
+  "mundo-stroke": {
+    "tags": [
+      "localização"
+    ],
+    "aliases": [
+      "mundo",
+      "global",
+      "internacional",
+      "web",
+      "mundo 2",
+      "mundo-2"
+    ]
+  },
+  "mundo-seta-stroke": {
+    "tags": [
+      "localização",
+      "navegação"
+    ],
+    "aliases": [
+      "mundo",
+      "global",
+      "internacional",
+      "web",
+      "seta",
+      "navegar",
+      "voltar",
+      "avançar",
+      "direção",
+      "mundo seta"
+    ]
+  },
+  "pin-caixa-stroke": {
+    "tags": [
+      "localização",
+      "encomenda"
+    ],
+    "aliases": [
+      "pin",
+      "marcador",
+      "local",
+      "mapa",
+      "caixa",
+      "pacote",
+      "encomenda",
+      "embalagem",
+      "pin caixa",
+      "pin-caixa"
+    ]
+  },
+  "pin-casa-stroke": {
+    "tags": [
+      "localização"
+    ],
+    "aliases": [
+      "pin",
+      "marcador",
+      "local",
+      "mapa",
+      "pin casa",
+      "pin-casa"
+    ]
+  },
+  "pin-correios-stroke": {
+    "tags": [
+      "localização"
+    ],
+    "aliases": [
+      "pin",
+      "marcador",
+      "local",
+      "mapa",
+      "pin correios",
+      "pin-correios",
+      "correios"
+    ]
+  },
+  "pin-lupa-stroke": {
+    "tags": [
+      "localização",
+      "busca"
+    ],
+    "aliases": [
+      "pin",
+      "marcador",
+      "local",
+      "mapa",
+      "buscar",
+      "pesquisar",
+      "procurar",
+      "consulta",
+      "filtro",
+      "pin lupa"
+    ]
+  },
+  "computador-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "computador",
+      "pc",
+      "desktop"
+    ]
+  },
+  "games-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "games",
+      "jogos",
+      "controle",
+      "videogame"
+    ]
+  },
+  "impressora-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "impressora",
+      "imprimir",
+      "impressão"
+    ]
+  },
+  "monitor-carta-stroke": {
+    "tags": [
+      "mídias e dispositivos",
+      "mensagem"
+    ],
+    "aliases": [
+      "monitor",
+      "tela",
+      "display",
+      "carta",
+      "correspondência",
+      "envelope",
+      "mensagem",
+      "monitor carta",
+      "monitor-carta",
+      "computador"
+    ]
+  },
+  "smartphone-chip-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "smartphone",
+      "celular",
+      "telefone",
+      "chip",
+      "sim",
+      "linha",
+      "smartphone chip",
+      "smartphone-chip",
+      "mobile"
+    ]
+  },
+  "smartphone-logo-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "smartphone",
+      "celular",
+      "telefone",
+      "smartphone logo",
+      "smartphone-logo",
+      "correios",
+      "mobile"
+    ]
+  },
+  "smartphone-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "smartphone",
+      "celular",
+      "telefone"
+    ]
+  },
+  "tv-stroke": {
+    "tags": [
+      "mídias e dispositivos"
+    ],
+    "aliases": [
+      "tv",
+      "televisão",
+      "tela"
+    ]
+  },
+  "bateria-lion-stroke": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "bateria lion",
+      "bateria-lion"
+    ]
+  },
+  "licitacao-stroke": {
+    "tags": [
+      "outros"
+    ],
+    "aliases": [
+      "licitacao",
+      "justica"
+    ]
+  },
+  "cartao-credito-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "cartão",
+      "crédito",
+      "débito",
+      "pagamento",
+      "cartao credito",
+      "cartao-credito"
+    ]
+  },
+  "cartao-postagem-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "cartão",
+      "crédito",
+      "débito",
+      "pagamento",
+      "postagem",
+      "postar",
+      "enviar",
+      "correios",
+      "cartao postagem",
+      "cartao-postagem"
+    ]
+  },
+  "desconto-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "desconto",
+      "oferta",
+      "tag"
+    ]
+  },
+  "dinheiro-reduzir-stroke": {
+    "tags": [
+      "pagamentos",
+      "preços"
+    ],
+    "aliases": [
+      "dinheiro",
+      "espécie",
+      "pagamento",
+      "dinheiro reduzir",
+      "dinheiro-reduzir"
+    ]
+  },
+  "dinheiro-stroke": {
+    "tags": [
+      "pagamentos",
+      "preços"
+    ],
+    "aliases": [
+      "dinheiro",
+      "espécie",
+      "pagamento"
+    ]
+  },
+  "fatura-calculadora-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "fatura calculadora",
+      "fatura-calculadora",
+      "boleto"
+    ]
+  },
+  "fatura-relogio-stroke": {
+    "tags": [
+      "pagamentos",
+      "tempo"
+    ],
+    "aliases": [
+      "relógio",
+      "tempo",
+      "prazo",
+      "horário",
+      "agendar",
+      "fatura relogio",
+      "fatura-relogio",
+      "boleto"
+    ]
+  },
+  "fatura-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "fatura",
+      "boleto"
+    ]
+  },
+  "fatura-visto-stroke": {
+    "tags": [
+      "pagamentos",
+      "confirmar"
+    ],
+    "aliases": [
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "fatura visto",
+      "fatura-visto",
+      "boleto"
+    ]
+  },
+  "fatura-voltar-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "voltar",
+      "retornar",
+      "anterior",
+      "fatura voltar",
+      "fatura-voltar",
+      "boleto"
+    ]
+  },
+  "fatura-x-stroke": {
+    "tags": [
+      "pagamentos"
+    ],
+    "aliases": [
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "fatura x",
+      "fatura-x",
+      "boleto"
+    ]
+  },
+  "cadeado-aberto-stroke": {
+    "tags": [
+      "segurança"
+    ],
+    "aliases": [
+      "cadeado",
+      "segurança",
+      "bloquear",
+      "trancar",
+      "cadeado aberto",
+      "cadeado-aberto"
+    ]
+  },
+  "cadeado-stroke": {
+    "tags": [
+      "segurança"
+    ],
+    "aliases": [
+      "cadeado",
+      "segurança",
+      "bloquear",
+      "trancar"
+    ]
+  },
+  "proteger-stroke": {
+    "tags": [
+      "segurança"
+    ],
+    "aliases": [
+      "proteger",
+      "escuto",
+      "cadeado"
+    ]
+  },
+  "protegido-stroke": {
+    "tags": [
+      "segurança"
+    ],
+    "aliases": [
+      "protegido",
+      "escudo",
+      "visto",
+      "verificado"
+    ]
+  },
+  "agenda-stroke": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "agenda",
+      "calendario",
+      "mês",
+      "ano",
+      "semana"
+    ]
+  },
+  "agendamento-stroke": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "agendamento",
+      "calendario",
+      "relogio"
+    ]
+  },
+  "excluir-agenda-stroke": {
+    "tags": [
+      "tempo e data"
+    ],
+    "aliases": [
+      "excluir agenda",
+      "excluir-agenda",
+      "calendario"
+    ]
+  },
+  "precos-prazos-stroke": {
+    "tags": [
+      "tempo e data",
+      "pagamentos",
+      "prazos",
+      "preços"
+    ],
+    "aliases": [
+      "precos prazos",
+      "precos-prazos",
+      "cronometro"
+    ]
+  },
+  "sprite": {
+    "tags": [
+      "teste"
+    ],
+    "aliases": [
+      "sprite"
+    ]
+  },
+  "achados-perdidos-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "achados perdidos",
+      "achados-perdidos",
+      "identidade",
+      "lupa"
+    ]
+  },
+  "atendente-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "atendente",
+      "atendimento",
+      "cliente"
+    ]
+  },
+  "carteiro-roubo-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "carteiro roubo",
+      "carteiro-roubo"
+    ]
+  },
+  "carteiro-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "carteiro",
+      "bone",
+      "correios"
+    ]
+  },
+  "comercial-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "comercial",
+      "executivo",
+      "atendente comercial"
+    ]
+  },
+  "smile-alegre-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "smile alegre",
+      "smile-alegre"
+    ]
+  },
+  "smile-confuso-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "smile confuso",
+      "smile-confuso"
+    ]
+  },
+  "smile-serio-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "smile serio",
+      "smile-serio"
+    ]
+  },
+  "smile-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "smile"
+    ]
+  },
+  "smile-triste-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "smile triste",
+      "smile-triste"
+    ]
+  },
+  "suspender-stroke": {
+    "tags": [
+      "usuários"
+    ],
+    "aliases": [
+      "suspender",
+      "mao",
+      "parar"
+    ]
+  },
+  "usuario-mais-stroke": {
+    "tags": [
+      "usuários",
+      "usuário"
+    ],
+    "aliases": [
+      "usuário",
+      "pessoa",
+      "conta",
+      "perfil",
+      "adicionar",
+      "novo",
+      "incluir",
+      "mais",
+      "usuario mais",
+      "usuario-mais"
+    ]
+  },
+  "usuario-perfil-stroke": {
+    "tags": [
+      "usuários",
+      "usuário"
+    ],
+    "aliases": [
+      "usuário",
+      "pessoa",
+      "conta",
+      "perfil",
+      "usuario perfil",
+      "usuario-perfil"
+    ]
+  },
+  "usuario-stroke": {
+    "tags": [
+      "usuários",
+      "usuário"
+    ],
+    "aliases": [
+      "usuário",
+      "pessoa",
+      "conta",
+      "perfil"
+    ]
+  },
+  "usuario-visto-stroke": {
+    "tags": [
+      "usuários",
+      "usuário",
+      "confirmar"
+    ],
+    "aliases": [
+      "usuário",
+      "pessoa",
+      "conta",
+      "perfil",
+      "confirmar",
+      "confirmado",
+      "aprovado",
+      "concluído",
+      "verificado",
+      "usuario visto"
+    ]
+  },
+  "usuario-x-stroke": {
+    "tags": [
+      "usuários",
+      "usuário"
+    ],
+    "aliases": [
+      "usuário",
+      "pessoa",
+      "conta",
+      "perfil",
+      "fechar",
+      "cancelar",
+      "remover",
+      "excluir",
+      "usuario x",
+      "usuario-x"
+    ]
+  }
+}
