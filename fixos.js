@@ -225,19 +225,19 @@ const nav = `
         <section class="bg-superficie">
           <p class="mini titulo-secao">Base e estilos</p>
 
-          <a href="exemplo.html#tipografia" class="link-btn btn-txt"
+          <a href="index.html#tipografia" class="link-btn btn-txt"
             ><i class="ic-a-a-z"></i>Tipografia</a
           >
-          <a href="exemplo.html#cores" class="link-btn btn-txt"
+          <a href="index.html#cores" class="link-btn btn-txt"
             ><i class="ic-tema"></i>Cores</a
           >
-          <a href="exemplo.html#formas" class="link-btn btn-txt"
+          <a href="index.html#formas" class="link-btn btn-txt"
             ><i class="ic-categorias"></i>Formas</a
           >
-          <a href="exemplo.html#espacamentos" class="link-btn btn-txt"
+          <a href="index.html#espacamentos" class="link-btn btn-txt"
             ><i class="ic-regua"></i>Espaçamentos</a
           >
-          <a href="exemplo.html#elevacoes" class="link-btn btn-txt"
+          <a href="index.html#elevacoes" class="link-btn btn-txt"
             ><i class="ic-copiar"></i>Elevações</a
           >
         </section>
