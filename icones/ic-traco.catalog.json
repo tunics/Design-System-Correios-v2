@@ -1,1 +1,2856 @@
-{"schema_version": "1.1.0", "generated_at": "2026-02-03T16:39:07.498811+00:00", "root": "D:\\Users\\81358067\\Desktop\\teste", "stats": {"total_icons": 175, "total_categories": 16}, "categories": [{"key": "acoes", "name": "ações", "count": 6, "icons": [{"id": "alerta-stroke", "name": "alerta-stroke", "file": "alerta-stroke.svg", "relpath": "traco/ações/alerta-stroke.svg", "ext": "svg", "category_key": "acoes", "category_name": "ações", "keywords": ["alerta", "stroke"], "tags": [], "aliases": []}, {"id": "customizacao-stroke", "name": "customizacao-stroke", "file": "customizacao-stroke.svg", "relpath": "traco/ações/customizacao-stroke.svg", "ext": "svg", "category_key": "acoes", "category_name": "ações", "keywords": ["customizacao", "stroke"], "tags": [], "aliases": []}, {"id": "info-stroke", "name": "info-stroke", "file": "info-stroke.svg", "relpath": "traco/ações/info-stroke.svg", "ext": "svg", "category_key": "acoes", "category_name": "ações", "keywords": ["info", "stroke"], "tags": [], "aliases": []}, {"id": "lixo-stroke", "name": "lixo-stroke", "file": "lixo-stroke.svg", "relpath": "traco/ações/lixo-stroke.svg", "ext": "svg", "category_key": "acoes", "category_name": "ações", "keywords": ["lixo", "stroke"], "tags": [], "aliases": []}, {"id": "lixo-visto-stroke", "name": "lixo-visto-stroke", "file": "lixo-visto-stroke.svg", "relpath": "traco/ações/lixo-visto-stroke.svg", "ext": "svg", "category_key": "acoes", "category_name": "ações", "keywords": ["lixo", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "visto-stroke", "name": "visto-stroke", "file": "visto-stroke.svg", "relpath": "traco/ações/visto-stroke.svg", "ext": "svg", "category_key": "acoes", "category_name": "ações", "keywords": ["stroke", "visto"], "tags": [], "aliases": []}]}, {"key": "compras", "name": "compras", "count": 10, "icons": [{"id": "carrinho-stroke", "name": "carrinho-stroke", "file": "carrinho-stroke.svg", "relpath": "traco/compras/carrinho-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["carrinho", "stroke"], "tags": [], "aliases": []}, {"id": "celular-carrinho-stroke", "name": "celular-carrinho-stroke", "file": "celular-carrinho-stroke.svg", "relpath": "traco/compras/celular-carrinho-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["carrinho", "celular", "stroke"], "tags": [], "aliases": []}, {"id": "celular-cesta-stroke", "name": "celular-cesta-stroke", "file": "celular-cesta-stroke.svg", "relpath": "traco/compras/celular-cesta-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["celular", "cesta", "stroke"], "tags": [], "aliases": []}, {"id": "cesta-stroke", "name": "cesta-stroke", "file": "cesta-stroke.svg", "relpath": "traco/compras/cesta-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["cesta", "stroke"], "tags": [], "aliases": []}, {"id": "gift-card-stroke", "name": "gift-card-stroke", "file": "gift-card-stroke.svg", "relpath": "traco/compras/gift-card-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["card", "gift", "stroke"], "tags": [], "aliases": []}, {"id": "loja-stroke", "name": "loja-stroke", "file": "loja-stroke.svg", "relpath": "traco/compras/loja-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["loja", "stroke"], "tags": [], "aliases": []}, {"id": "moda-stroke", "name": "moda-stroke", "file": "moda-stroke.svg", "relpath": "traco/compras/moda-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["moda", "stroke"], "tags": [], "aliases": []}, {"id": "monitor-carrinho-stroke", "name": "monitor-carrinho-stroke", "file": "monitor-carrinho-stroke.svg", "relpath": "traco/compras/monitor-carrinho-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["carrinho", "monitor", "stroke"], "tags": [], "aliases": []}, {"id": "monitor-cesta-stroke", "name": "monitor-cesta-stroke", "file": "monitor-cesta-stroke.svg", "relpath": "traco/compras/monitor-cesta-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["cesta", "monitor", "stroke"], "tags": [], "aliases": []}, {"id": "sacola-stroke", "name": "sacola-stroke", "file": "sacola-stroke.svg", "relpath": "traco/compras/sacola-stroke.svg", "ext": "svg", "category_key": "compras", "category_name": "compras", "keywords": ["sacola", "stroke"], "tags": [], "aliases": []}]}, {"key": "construcoes", "name": "construções", "count": 11, "icons": [{"id": "agencia-clique-retire-stroke", "name": "agencia-clique-retire-stroke", "file": "agencia-clique-retire-stroke.svg", "relpath": "traco/construções/agencia-clique-retire-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "clique", "retire", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-exclamacao-stroke", "name": "agencia-exclamacao-stroke", "file": "agencia-exclamacao-stroke.svg", "relpath": "traco/construções/agencia-exclamacao-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "exclamacao", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-fechada-stroke", "name": "agencia-fechada-stroke", "file": "agencia-fechada-stroke.svg", "relpath": "traco/construções/agencia-fechada-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "fechada", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-relogio-stroke", "name": "agencia-relogio-stroke", "file": "agencia-relogio-stroke.svg", "relpath": "traco/construções/agencia-relogio-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-roubo-stroke", "name": "agencia-roubo-stroke", "file": "agencia-roubo-stroke.svg", "relpath": "traco/construções/agencia-roubo-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "roubo", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-seta-stroke", "name": "agencia-seta-stroke", "file": "agencia-seta-stroke.svg", "relpath": "traco/construções/agencia-seta-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "seta", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-stroke", "name": "agencia-stroke", "file": "agencia-stroke.svg", "relpath": "traco/construções/agencia-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "stroke"], "tags": [], "aliases": []}, {"id": "agencia-visto-stroke", "name": "agencia-visto-stroke", "file": "agencia-visto-stroke.svg", "relpath": "traco/construções/agencia-visto-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["agencia", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "cdd-caixas-stroke", "name": "cdd-caixas-stroke", "file": "cdd-caixas-stroke.svg", "relpath": "traco/construções/cdd-caixas-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["caixas", "cdd", "stroke"], "tags": [], "aliases": []}, {"id": "cdd-stroke", "name": "cdd-stroke", "file": "cdd-stroke.svg", "relpath": "traco/construções/cdd-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["cdd", "stroke"], "tags": [], "aliases": []}, {"id": "predios-stroke", "name": "predios-stroke", "file": "predios-stroke.svg", "relpath": "traco/construções/predios-stroke.svg", "ext": "svg", "category_key": "construcoes", "category_name": "construções", "keywords": ["predios", "stroke"], "tags": [], "aliases": []}]}, {"key": "contatos", "name": "contatos", "count": 10, "icons": [{"id": "balao-exclamacao-stroke", "name": "balao-exclamacao-stroke", "file": "balao-exclamacao-stroke.svg", "relpath": "traco/contatos/balao-exclamacao-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "exclamacao", "stroke"], "tags": [], "aliases": []}, {"id": "balao-mais-stroke", "name": "balao-mais-stroke", "file": "balao-mais-stroke.svg", "relpath": "traco/contatos/balao-mais-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "mais", "stroke"], "tags": [], "aliases": []}, {"id": "balao-pergunta-stroke", "name": "balao-pergunta-stroke", "file": "balao-pergunta-stroke.svg", "relpath": "traco/contatos/balao-pergunta-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "pergunta", "stroke"], "tags": [], "aliases": []}, {"id": "balao-pontos-stroke", "name": "balao-pontos-stroke", "file": "balao-pontos-stroke.svg", "relpath": "traco/contatos/balao-pontos-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "pontos", "stroke"], "tags": [], "aliases": []}, {"id": "balao-relogio-stroke", "name": "balao-relogio-stroke", "file": "balao-relogio-stroke.svg", "relpath": "traco/contatos/balao-relogio-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "balao-stroke", "name": "balao-stroke", "file": "balao-stroke.svg", "relpath": "traco/contatos/balao-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "stroke"], "tags": [], "aliases": []}, {"id": "balao-visto-stroke", "name": "balao-visto-stroke", "file": "balao-visto-stroke.svg", "relpath": "traco/contatos/balao-visto-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "balao-x-stroke", "name": "balao-x-stroke", "file": "balao-x-stroke.svg", "relpath": "traco/contatos/balao-x-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["balao", "stroke", "x"], "tags": [], "aliases": []}, {"id": "conversa-stroke", "name": "conversa-stroke", "file": "conversa-stroke.svg", "relpath": "traco/contatos/conversa-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["conversa", "stroke"], "tags": [], "aliases": []}, {"id": "megafone-stroke", "name": "megafone-stroke", "file": "megafone-stroke.svg", "relpath": "traco/contatos/megafone-stroke.svg", "ext": "svg", "category_key": "contatos", "category_name": "contatos", "keywords": ["megafone", "stroke"], "tags": [], "aliases": []}]}, {"key": "documentos", "name": "documentos", "count": 17, "icons": [{"id": "declaracao-dividido-stroke", "name": "declaracao-dividido-stroke", "file": "declaracao-dividido-stroke.svg", "relpath": "traco/documentos/declaracao-dividido-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["declaracao", "dividido", "stroke"], "tags": [], "aliases": []}, {"id": "declaracao-inteiro-stroke", "name": "declaracao-inteiro-stroke", "file": "declaracao-inteiro-stroke.svg", "relpath": "traco/documentos/declaracao-inteiro-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["declaracao", "inteiro", "stroke"], "tags": [], "aliases": []}, {"id": "documento-acompanhar-stroke", "name": "documento-acompanhar-stroke", "file": "documento-acompanhar-stroke.svg", "relpath": "traco/documentos/documento-acompanhar-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["acompanhar", "documento", "stroke"], "tags": [], "aliases": []}, {"id": "documento-encaminhar-stroke", "name": "documento-encaminhar-stroke", "file": "documento-encaminhar-stroke.svg", "relpath": "traco/documentos/documento-encaminhar-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "encaminhar", "stroke"], "tags": [], "aliases": []}, {"id": "documento-hor-stroke", "name": "documento-hor-stroke", "file": "documento-hor-stroke.svg", "relpath": "traco/documentos/documento-hor-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "hor", "stroke"], "tags": [], "aliases": []}, {"id": "documento-mais-stroke", "name": "documento-mais-stroke", "file": "documento-mais-stroke.svg", "relpath": "traco/documentos/documento-mais-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "mais", "stroke"], "tags": [], "aliases": []}, {"id": "documento-quadrado-stroke", "name": "documento-quadrado-stroke", "file": "documento-quadrado-stroke.svg", "relpath": "traco/documentos/documento-quadrado-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "quadrado", "stroke"], "tags": [], "aliases": []}, {"id": "documento-stroke", "name": "documento-stroke", "file": "documento-stroke.svg", "relpath": "traco/documentos/documento-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "stroke"], "tags": [], "aliases": []}, {"id": "documento-verificar-stroke", "name": "documento-verificar-stroke", "file": "documento-verificar-stroke.svg", "relpath": "traco/documentos/documento-verificar-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "stroke", "verificar"], "tags": [], "aliases": []}, {"id": "documento-visto-stroke", "name": "documento-visto-stroke", "file": "documento-visto-stroke.svg", "relpath": "traco/documentos/documento-visto-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "documento-voltar-stroke", "name": "documento-voltar-stroke", "file": "documento-voltar-stroke.svg", "relpath": "traco/documentos/documento-voltar-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "stroke", "voltar"], "tags": [], "aliases": []}, {"id": "documento-x-stroke", "name": "documento-x-stroke", "file": "documento-x-stroke.svg", "relpath": "traco/documentos/documento-x-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["documento", "stroke", "x"], "tags": [], "aliases": []}, {"id": "folha-tabela-stroke", "name": "folha-tabela-stroke", "file": "folha-tabela-stroke.svg", "relpath": "traco/documentos/folha-tabela-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["folha", "stroke", "tabela"], "tags": [], "aliases": []}, {"id": "impessao-a4-stroke", "name": "impessao-a4-stroke", "file": "impessao-a4-stroke.svg", "relpath": "traco/documentos/impessao-a4-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["a4", "impessao", "stroke"], "tags": [], "aliases": []}, {"id": "lista-relogio-stroke", "name": "lista-relogio-stroke", "file": "lista-relogio-stroke.svg", "relpath": "traco/documentos/lista-relogio-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["lista", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "lista-stroke", "name": "lista-stroke", "file": "lista-stroke.svg", "relpath": "traco/documentos/lista-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["lista", "stroke"], "tags": [], "aliases": []}, {"id": "prancheta-visto-stroke", "name": "prancheta-visto-stroke", "file": "prancheta-visto-stroke.svg", "relpath": "traco/documentos/prancheta-visto-stroke.svg", "ext": "svg", "category_key": "documentos", "category_name": "documentos", "keywords": ["prancheta", "stroke", "visto"], "tags": [], "aliases": []}]}, {"key": "envios-e-recebimentos", "name": "envios e recebimentos", "count": 55, "icons": [{"id": "aviao-relogio-stroke", "name": "aviao-relogio-stroke", "file": "aviao-relogio-stroke.svg", "relpath": "traco/envios e recebimentos/aviao-relogio-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["aviao", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "aviao-stroke", "name": "aviao-stroke", "file": "aviao-stroke.svg", "relpath": "traco/envios e recebimentos/aviao-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["aviao", "stroke"], "tags": [], "aliases": []}, {"id": "aviao-x-stroke", "name": "aviao-x-stroke", "file": "aviao-x-stroke.svg", "relpath": "traco/envios e recebimentos/aviao-x-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["aviao", "stroke", "x"], "tags": [], "aliases": []}, {"id": "aviaozinho-stroke", "name": "aviaozinho-stroke", "file": "aviaozinho-stroke.svg", "relpath": "traco/envios e recebimentos/aviaozinho-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["aviaozinho", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-aberta-stroke", "name": "caixa-aberta-stroke", "file": "caixa-aberta-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-aberta-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["aberta", "caixa", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-cadeado-aberto-stroke", "name": "caixa-cadeado-aberto-stroke", "file": "caixa-cadeado-aberto-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-cadeado-aberto-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["aberto", "cadeado", "caixa", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-cadeado-stroke", "name": "caixa-cadeado-stroke", "file": "caixa-cadeado-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-cadeado-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["cadeado", "caixa", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-documento-stroke", "name": "caixa-documento-stroke", "file": "caixa-documento-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-documento-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "documento", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-enviar-stroke", "name": "caixa-enviar-stroke", "file": "caixa-enviar-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-enviar-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "enviar", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-exclamacao-stroke", "name": "caixa-exclamacao-stroke", "file": "caixa-exclamacao-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-exclamacao-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "exclamacao", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-lixo-stroke", "name": "caixa-lixo-stroke", "file": "caixa-lixo-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-lixo-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "lixo", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-nao-permitido", "name": "caixa-nao-permitido", "file": "caixa-nao-permitido.svg", "relpath": "traco/envios e recebimentos/caixa-nao-permitido.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "nao", "permitido"], "tags": [], "aliases": []}, {"id": "caixa-pin-stroke", "name": "caixa-pin-stroke", "file": "caixa-pin-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-pin-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "pin", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-proibido", "name": "caixa-proibido", "file": "caixa-proibido.svg", "relpath": "traco/envios e recebimentos/caixa-proibido.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "proibido"], "tags": [], "aliases": []}, {"id": "caixa-recebida-stroke", "name": "caixa-recebida-stroke", "file": "caixa-recebida-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-recebida-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "recebida", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-relogio-stroke", "name": "caixa-relogio-stroke", "file": "caixa-relogio-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-relogio-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-roubo-stroke", "name": "caixa-roubo-stroke", "file": "caixa-roubo-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-roubo-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "roubo", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-sinistro-stroke", "name": "caixa-sinistro-stroke", "file": "caixa-sinistro-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-sinistro-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "sinistro", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-smile-stroke", "name": "caixa-smile-stroke", "file": "caixa-smile-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-smile-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "smile", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-stroke", "name": "caixa-stroke", "file": "caixa-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "stroke"], "tags": [], "aliases": []}, {"id": "caixa-visto-stroke", "name": "caixa-visto-stroke", "file": "caixa-visto-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-visto-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "caixa-voltar-stroke", "name": "caixa-voltar-stroke", "file": "caixa-voltar-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-voltar-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "stroke", "voltar"], "tags": [], "aliases": []}, {"id": "caixa-x-stroke", "name": "caixa-x-stroke", "file": "caixa-x-stroke.svg", "relpath": "traco/envios e recebimentos/caixa-x-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixa", "stroke", "x"], "tags": [], "aliases": []}, {"id": "caixas-incompleto", "name": "caixas-incompleto", "file": "caixas-incompleto.svg", "relpath": "traco/envios e recebimentos/caixas-incompleto.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixas", "incompleto"], "tags": [], "aliases": []}, {"id": "caixas-recebidas-stroke", "name": "caixas-recebidas-stroke", "file": "caixas-recebidas-stroke.svg", "relpath": "traco/envios e recebimentos/caixas-recebidas-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixas", "recebidas", "stroke"], "tags": [], "aliases": []}, {"id": "caixas-stroke", "name": "caixas-stroke", "file": "caixas-stroke.svg", "relpath": "traco/envios e recebimentos/caixas-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caixas", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-atencao-stroke", "name": "caminhao-atencao-stroke", "file": "caminhao-atencao-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-atencao-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["atencao", "caminhao", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-cancelado-stroke", "name": "caminhao-cancelado-stroke", "file": "caminhao-cancelado-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-cancelado-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "cancelado", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-correndo-stroke", "name": "caminhao-correndo-stroke", "file": "caminhao-correndo-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-correndo-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "correndo", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-lupa-stroke", "name": "caminhao-lupa-stroke", "file": "caminhao-lupa-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-lupa-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "lupa", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-lupa-visto-stroke", "name": "caminhao-lupa-visto-stroke", "file": "caminhao-lupa-visto-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-lupa-visto-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "lupa", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "caminhao-relogio-stroke", "name": "caminhao-relogio-stroke", "file": "caminhao-relogio-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-relogio-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-roubo-stroke", "name": "caminhao-roubo-stroke", "file": "caminhao-roubo-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-roubo-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "roubo", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-seta-stroke", "name": "caminhao-seta-stroke", "file": "caminhao-seta-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-seta-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "seta", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-stroke", "name": "caminhao-stroke", "file": "caminhao-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "stroke"], "tags": [], "aliases": []}, {"id": "caminhao-visto-stroke", "name": "caminhao-visto-stroke", "file": "caminhao-visto-stroke.svg", "relpath": "traco/envios e recebimentos/caminhao-visto-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["caminhao", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "carta-stroke", "name": "carta-stroke", "file": "carta-stroke.svg", "relpath": "traco/envios e recebimentos/carta-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["carta", "stroke"], "tags": [], "aliases": []}, {"id": "carta-voando-stroke", "name": "carta-voando-stroke", "file": "carta-voando-stroke.svg", "relpath": "traco/envios e recebimentos/carta-voando-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["carta", "stroke", "voando"], "tags": [], "aliases": []}, {"id": "celular-carta-stroke", "name": "celular-carta-stroke", "file": "celular-carta-stroke.svg", "relpath": "traco/envios e recebimentos/celular-carta-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["carta", "celular", "stroke"], "tags": [], "aliases": []}, {"id": "envelope-mala-direta-stroke", "name": "envelope-mala-direta-stroke", "file": "envelope-mala-direta-stroke.svg", "relpath": "traco/envios e recebimentos/envelope-mala-direta-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["direta", "envelope", "mala", "stroke"], "tags": [], "aliases": []}, {"id": "locker-stroke", "name": "locker-stroke", "file": "locker-stroke.svg", "relpath": "traco/envios e recebimentos/locker-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["locker", "stroke"], "tags": [], "aliases": []}, {"id": "logistica-reversa-stroke", "name": "logistica-reversa-stroke", "file": "logistica-reversa-stroke.svg", "relpath": "traco/envios e recebimentos/logistica-reversa-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["logistica", "reversa", "stroke"], "tags": [], "aliases": []}, {"id": "malote-pre-postado-stroke", "name": "malote-pre-postado-stroke", "file": "malote-pre-postado-stroke.svg", "relpath": "traco/envios e recebimentos/malote-pre-postado-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["malote", "postado", "pre", "stroke"], "tags": [], "aliases": []}, {"id": "malote-seta-stroke", "name": "malote-seta-stroke", "file": "malote-seta-stroke.svg", "relpath": "traco/envios e recebimentos/malote-seta-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["malote", "seta", "stroke"], "tags": [], "aliases": []}, {"id": "malote-stroke", "name": "malote-stroke", "file": "malote-stroke.svg", "relpath": "traco/envios e recebimentos/malote-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["malote", "stroke"], "tags": [], "aliases": []}, {"id": "malote-visto-stroke", "name": "malote-visto-stroke", "file": "malote-visto-stroke.svg", "relpath": "traco/envios e recebimentos/malote-visto-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["malote", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "postagem-stroke", "name": "postagem-stroke", "file": "postagem-stroke.svg", "relpath": "traco/envios e recebimentos/postagem-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["postagem", "stroke"], "tags": [], "aliases": []}, {"id": "postagem-x-stroke", "name": "postagem-x-stroke", "file": "postagem-x-stroke.svg", "relpath": "traco/envios e recebimentos/postagem-x-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["postagem", "stroke", "x"], "tags": [], "aliases": []}, {"id": "rastreamento-stroke", "name": "rastreamento-stroke", "file": "rastreamento-stroke.svg", "relpath": "traco/envios e recebimentos/rastreamento-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["rastreamento", "stroke"], "tags": [], "aliases": []}, {"id": "receber-encomenda-stroke", "name": "receber-encomenda-stroke", "file": "receber-encomenda-stroke.svg", "relpath": "traco/envios e recebimentos/receber-encomenda-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["encomenda", "receber", "stroke"], "tags": [], "aliases": []}, {"id": "rolo-stroke", "name": "rolo-stroke", "file": "rolo-stroke.svg", "relpath": "traco/envios e recebimentos/rolo-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["rolo", "stroke"], "tags": [], "aliases": []}, {"id": "selo-stroke", "name": "selo-stroke", "file": "selo-stroke.svg", "relpath": "traco/envios e recebimentos/selo-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["selo", "stroke"], "tags": [], "aliases": []}, {"id": "telegrama-relogio-stroke", "name": "telegrama-relogio-stroke", "file": "telegrama-relogio-stroke.svg", "relpath": "traco/envios e recebimentos/telegrama-relogio-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["relogio", "stroke", "telegrama"], "tags": [], "aliases": []}, {"id": "telegrama-stroke", "name": "telegrama-stroke", "file": "telegrama-stroke.svg", "relpath": "traco/envios e recebimentos/telegrama-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["stroke", "telegrama"], "tags": [], "aliases": []}, {"id": "telegrama-visto-stroke", "name": "telegrama-visto-stroke", "file": "telegrama-visto-stroke.svg", "relpath": "traco/envios e recebimentos/telegrama-visto-stroke.svg", "ext": "svg", "category_key": "envios-e-recebimentos", "category_name": "envios e recebimentos", "keywords": ["stroke", "telegrama", "visto"], "tags": [], "aliases": []}]}, {"key": "etiquetas", "name": "etiquetas", "count": 9, "icons": [{"id": "codigo-barra-stroke", "name": "codigo-barra-stroke", "file": "codigo-barra-stroke.svg", "relpath": "traco/etiquetas/codigo-barra-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["barra", "codigo", "stroke"], "tags": [], "aliases": []}, {"id": "etiqueta-atencao-stroke", "name": "etiqueta-atencao-stroke", "file": "etiqueta-atencao-stroke.svg", "relpath": "traco/etiquetas/etiqueta-atencao-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["atencao", "etiqueta", "stroke"], "tags": [], "aliases": []}, {"id": "etiqueta-cancelada-stroke", "name": "etiqueta-cancelada-stroke", "file": "etiqueta-cancelada-stroke.svg", "relpath": "traco/etiquetas/etiqueta-cancelada-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["cancelada", "etiqueta", "stroke"], "tags": [], "aliases": []}, {"id": "etiqueta-relogio-stroke", "name": "etiqueta-relogio-stroke", "file": "etiqueta-relogio-stroke.svg", "relpath": "traco/etiquetas/etiqueta-relogio-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["etiqueta", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "etiqueta-visto-stroke", "name": "etiqueta-visto-stroke", "file": "etiqueta-visto-stroke.svg", "relpath": "traco/etiquetas/etiqueta-visto-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["etiqueta", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "impressao-etiqueta-stroke", "name": "impressao-etiqueta-stroke", "file": "impressao-etiqueta-stroke.svg", "relpath": "traco/etiquetas/impressao-etiqueta-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["etiqueta", "impressao", "stroke"], "tags": [], "aliases": []}, {"id": "leitor-codigo-stroke", "name": "leitor-codigo-stroke", "file": "leitor-codigo-stroke.svg", "relpath": "traco/etiquetas/leitor-codigo-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["codigo", "leitor", "stroke"], "tags": [], "aliases": []}, {"id": "qr-code-stroke", "name": "qr-code-stroke", "file": "qr-code-stroke.svg", "relpath": "traco/etiquetas/qr-code-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["code", "qr", "stroke"], "tags": [], "aliases": []}, {"id": "ticket-stroke", "name": "ticket-stroke", "file": "ticket-stroke.svg", "relpath": "traco/etiquetas/ticket-stroke.svg", "ext": "svg", "category_key": "etiquetas", "category_name": "etiquetas", "keywords": ["stroke", "ticket"], "tags": [], "aliases": []}]}, {"key": "graficos", "name": "gráficos", "count": 1, "icons": [{"id": "grafico-stroke", "name": "grafico-stroke", "file": "grafico-stroke.svg", "relpath": "traco/gráficos/grafico-stroke.svg", "ext": "svg", "category_key": "graficos", "category_name": "gráficos", "keywords": ["grafico", "stroke"], "tags": [], "aliases": []}]}, {"key": "listas-categorias-e-marcadores", "name": "listas, categorias e marcadores", "count": 1, "icons": [{"id": "categorias-stroke", "name": "categorias-stroke", "file": "categorias-stroke.svg", "relpath": "traco/listas, categorias e marcadores/categorias-stroke.svg", "ext": "svg", "category_key": "listas-categorias-e-marcadores", "category_name": "listas, categorias e marcadores", "keywords": ["categorias", "stroke"], "tags": [], "aliases": []}]}, {"key": "localizacao", "name": "localização", "count": 9, "icons": [{"id": "bandeira-brasil-stroke", "name": "bandeira-brasil-stroke", "file": "bandeira-brasil-stroke.svg", "relpath": "traco/localização/bandeira-brasil-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["bandeira", "brasil", "stroke"], "tags": [], "aliases": []}, {"id": "mapa-interrogacao-stroke", "name": "mapa-interrogacao-stroke", "file": "mapa-interrogacao-stroke.svg", "relpath": "traco/localização/mapa-interrogacao-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["interrogacao", "mapa", "stroke"], "tags": [], "aliases": []}, {"id": "mapa-pin-stroke", "name": "mapa-pin-stroke", "file": "mapa-pin-stroke.svg", "relpath": "traco/localização/mapa-pin-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["mapa", "pin", "stroke"], "tags": [], "aliases": []}, {"id": "mundo-seta-stroke", "name": "mundo-seta-stroke", "file": "mundo-seta-stroke.svg", "relpath": "traco/localização/mundo-seta-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["mundo", "seta", "stroke"], "tags": [], "aliases": []}, {"id": "mundo-stroke", "name": "mundo-stroke", "file": "mundo-stroke.svg", "relpath": "traco/localização/mundo-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["mundo", "stroke"], "tags": [], "aliases": []}, {"id": "pin-caixa-stroke", "name": "pin-caixa-stroke", "file": "pin-caixa-stroke.svg", "relpath": "traco/localização/pin-caixa-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["caixa", "pin", "stroke"], "tags": [], "aliases": []}, {"id": "pin-casa-stroke", "name": "pin-casa-stroke", "file": "pin-casa-stroke.svg", "relpath": "traco/localização/pin-casa-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["casa", "pin", "stroke"], "tags": [], "aliases": []}, {"id": "pin-correios-stroke", "name": "pin-correios-stroke", "file": "pin-correios-stroke.svg", "relpath": "traco/localização/pin-correios-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["correios", "pin", "stroke"], "tags": [], "aliases": []}, {"id": "pin-lupa-stroke", "name": "pin-lupa-stroke", "file": "pin-lupa-stroke.svg", "relpath": "traco/localização/pin-lupa-stroke.svg", "ext": "svg", "category_key": "localizacao", "category_name": "localização", "keywords": ["lupa", "pin", "stroke"], "tags": [], "aliases": []}]}, {"key": "midias-e-dispositivos", "name": "mídias e dispositivos", "count": 8, "icons": [{"id": "computador-stroke", "name": "computador-stroke", "file": "computador-stroke.svg", "relpath": "traco/mídias e dispositivos/computador-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["computador", "stroke"], "tags": [], "aliases": []}, {"id": "games-stroke", "name": "games-stroke", "file": "games-stroke.svg", "relpath": "traco/mídias e dispositivos/games-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["games", "stroke"], "tags": [], "aliases": []}, {"id": "impressora-stroke", "name": "impressora-stroke", "file": "impressora-stroke.svg", "relpath": "traco/mídias e dispositivos/impressora-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["impressora", "stroke"], "tags": [], "aliases": []}, {"id": "monitor-carta-stroke", "name": "monitor-carta-stroke", "file": "monitor-carta-stroke.svg", "relpath": "traco/mídias e dispositivos/monitor-carta-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["carta", "monitor", "stroke"], "tags": [], "aliases": []}, {"id": "smartphone-chip-stroke", "name": "smartphone-chip-stroke", "file": "smartphone-chip-stroke.svg", "relpath": "traco/mídias e dispositivos/smartphone-chip-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["chip", "smartphone", "stroke"], "tags": [], "aliases": []}, {"id": "smartphone-logo-stroke", "name": "smartphone-logo-stroke", "file": "smartphone-logo-stroke.svg", "relpath": "traco/mídias e dispositivos/smartphone-logo-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["logo", "smartphone", "stroke"], "tags": [], "aliases": []}, {"id": "smartphone-stroke", "name": "smartphone-stroke", "file": "smartphone-stroke.svg", "relpath": "traco/mídias e dispositivos/smartphone-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["smartphone", "stroke"], "tags": [], "aliases": []}, {"id": "tv-stroke", "name": "tv-stroke", "file": "tv-stroke.svg", "relpath": "traco/mídias e dispositivos/tv-stroke.svg", "ext": "svg", "category_key": "midias-e-dispositivos", "category_name": "mídias e dispositivos", "keywords": ["stroke", "tv"], "tags": [], "aliases": []}]}, {"key": "outros", "name": "outros", "count": 3, "icons": [{"id": "alerta-stroke", "name": "alerta-stroke", "file": "alerta-stroke.svg", "relpath": "traco/outros/alerta-stroke.svg", "ext": "svg", "category_key": "outros", "category_name": "outros", "keywords": ["alerta", "stroke"], "tags": [], "aliases": []}, {"id": "bateria-lion-stroke", "name": "bateria-lion-stroke", "file": "bateria-lion-stroke.svg", "relpath": "traco/outros/bateria-lion-stroke.svg", "ext": "svg", "category_key": "outros", "category_name": "outros", "keywords": ["bateria", "lion", "stroke"], "tags": [], "aliases": []}, {"id": "licitacao-stroke", "name": "licitacao-stroke", "file": "licitacao-stroke.svg", "relpath": "traco/outros/licitacao-stroke.svg", "ext": "svg", "category_key": "outros", "category_name": "outros", "keywords": ["licitacao", "stroke"], "tags": [], "aliases": []}]}, {"key": "pagamentos", "name": "pagamentos", "count": 11, "icons": [{"id": "cartao-credito-stroke", "name": "cartao-credito-stroke", "file": "cartao-credito-stroke.svg", "relpath": "traco/pagamentos/cartao-credito-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["cartao", "credito", "stroke"], "tags": [], "aliases": []}, {"id": "cartao-postagem-stroke", "name": "cartao-postagem-stroke", "file": "cartao-postagem-stroke.svg", "relpath": "traco/pagamentos/cartao-postagem-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["cartao", "postagem", "stroke"], "tags": [], "aliases": []}, {"id": "desconto-stroke", "name": "desconto-stroke", "file": "desconto-stroke.svg", "relpath": "traco/pagamentos/desconto-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["desconto", "stroke"], "tags": [], "aliases": []}, {"id": "dinheiro-reduzir-stroke", "name": "dinheiro-reduzir-stroke", "file": "dinheiro-reduzir-stroke.svg", "relpath": "traco/pagamentos/dinheiro-reduzir-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["dinheiro", "reduzir", "stroke"], "tags": [], "aliases": []}, {"id": "dinheiro-stroke", "name": "dinheiro-stroke", "file": "dinheiro-stroke.svg", "relpath": "traco/pagamentos/dinheiro-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["dinheiro", "stroke"], "tags": [], "aliases": []}, {"id": "fatura-calculadora-stroke", "name": "fatura-calculadora-stroke", "file": "fatura-calculadora-stroke.svg", "relpath": "traco/pagamentos/fatura-calculadora-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["calculadora", "fatura", "stroke"], "tags": [], "aliases": []}, {"id": "fatura-relogio-stroke", "name": "fatura-relogio-stroke", "file": "fatura-relogio-stroke.svg", "relpath": "traco/pagamentos/fatura-relogio-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["fatura", "relogio", "stroke"], "tags": [], "aliases": []}, {"id": "fatura-stroke", "name": "fatura-stroke", "file": "fatura-stroke.svg", "relpath": "traco/pagamentos/fatura-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["fatura", "stroke"], "tags": [], "aliases": []}, {"id": "fatura-visto-stroke", "name": "fatura-visto-stroke", "file": "fatura-visto-stroke.svg", "relpath": "traco/pagamentos/fatura-visto-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["fatura", "stroke", "visto"], "tags": [], "aliases": []}, {"id": "fatura-voltar-stroke", "name": "fatura-voltar-stroke", "file": "fatura-voltar-stroke.svg", "relpath": "traco/pagamentos/fatura-voltar-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["fatura", "stroke", "voltar"], "tags": [], "aliases": []}, {"id": "fatura-x-stroke", "name": "fatura-x-stroke", "file": "fatura-x-stroke.svg", "relpath": "traco/pagamentos/fatura-x-stroke.svg", "ext": "svg", "category_key": "pagamentos", "category_name": "pagamentos", "keywords": ["fatura", "stroke", "x"], "tags": [], "aliases": []}]}, {"key": "seguranca", "name": "segurança", "count": 4, "icons": [{"id": "cadeado-aberto-stroke", "name": "cadeado-aberto-stroke", "file": "cadeado-aberto-stroke.svg", "relpath": "traco/segurança/cadeado-aberto-stroke.svg", "ext": "svg", "category_key": "seguranca", "category_name": "segurança", "keywords": ["aberto", "cadeado", "stroke"], "tags": [], "aliases": []}, {"id": "cadeado-stroke", "name": "cadeado-stroke", "file": "cadeado-stroke.svg", "relpath": "traco/segurança/cadeado-stroke.svg", "ext": "svg", "category_key": "seguranca", "category_name": "segurança", "keywords": ["cadeado", "stroke"], "tags": [], "aliases": []}, {"id": "proteger-stroke", "name": "proteger-stroke", "file": "proteger-stroke.svg", "relpath": "traco/segurança/proteger-stroke.svg", "ext": "svg", "category_key": "seguranca", "category_name": "segurança", "keywords": ["proteger", "stroke"], "tags": [], "aliases": []}, {"id": "protegido-stroke", "name": "protegido-stroke", "file": "protegido-stroke.svg", "relpath": "traco/segurança/protegido-stroke.svg", "ext": "svg", "category_key": "seguranca", "category_name": "segurança", "keywords": ["protegido", "stroke"], "tags": [], "aliases": []}]}, {"key": "tempo-e-data", "name": "tempo e data", "count": 4, "icons": [{"id": "agenda-stroke", "name": "agenda-stroke", "file": "agenda-stroke.svg", "relpath": "traco/tempo e data/agenda-stroke.svg", "ext": "svg", "category_key": "tempo-e-data", "category_name": "tempo e data", "keywords": ["agenda", "stroke"], "tags": [], "aliases": []}, {"id": "agendamento-stroke", "name": "agendamento-stroke", "file": "agendamento-stroke.svg", "relpath": "traco/tempo e data/agendamento-stroke.svg", "ext": "svg", "category_key": "tempo-e-data", "category_name": "tempo e data", "keywords": ["agendamento", "stroke"], "tags": [], "aliases": []}, {"id": "excluir-agenda-stroke", "name": "excluir-agenda-stroke", "file": "excluir-agenda-stroke.svg", "relpath": "traco/tempo e data/excluir-agenda-stroke.svg", "ext": "svg", "category_key": "tempo-e-data", "category_name": "tempo e data", "keywords": ["agenda", "excluir", "stroke"], "tags": [], "aliases": []}, {"id": "precos-prazos-stroke", "name": "precos-prazos-stroke", "file": "precos-prazos-stroke.svg", "relpath": "traco/tempo e data/precos-prazos-stroke.svg", "ext": "svg", "category_key": "tempo-e-data", "category_name": "tempo e data", "keywords": ["prazos", "precos", "stroke"], "tags": [], "aliases": []}]}, {"key": "usuarios", "name": "usuários", "count": 16, "icons": [{"id": "achados-perdidos-stroke", "name": "achados-perdidos-stroke", "file": "achados-perdidos-stroke.svg", "relpath": "traco/usuários/achados-perdidos-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["achados", "perdidos", "stroke"], "tags": [], "aliases": []}, {"id": "atendente-stroke", "name": "atendente-stroke", "file": "atendente-stroke.svg", "relpath": "traco/usuários/atendente-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["atendente", "stroke"], "tags": [], "aliases": []}, {"id": "carteiro-roubo-stroke", "name": "carteiro-roubo-stroke", "file": "carteiro-roubo-stroke.svg", "relpath": "traco/usuários/carteiro-roubo-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["carteiro", "roubo", "stroke"], "tags": [], "aliases": []}, {"id": "carteiro-stroke", "name": "carteiro-stroke", "file": "carteiro-stroke.svg", "relpath": "traco/usuários/carteiro-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["carteiro", "stroke"], "tags": [], "aliases": []}, {"id": "comercial-stroke", "name": "comercial-stroke", "file": "comercial-stroke.svg", "relpath": "traco/usuários/comercial-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["comercial", "stroke"], "tags": [], "aliases": []}, {"id": "smile-alegre-stroke", "name": "smile-alegre-stroke", "file": "smile-alegre-stroke.svg", "relpath": "traco/usuários/smile-alegre-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["alegre", "smile", "stroke"], "tags": [], "aliases": []}, {"id": "smile-confuso-stroke", "name": "smile-confuso-stroke", "file": "smile-confuso-stroke.svg", "relpath": "traco/usuários/smile-confuso-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["confuso", "smile", "stroke"], "tags": [], "aliases": []}, {"id": "smile-serio-stroke", "name": "smile-serio-stroke", "file": "smile-serio-stroke.svg", "relpath": "traco/usuários/smile-serio-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["serio", "smile", "stroke"], "tags": [], "aliases": []}, {"id": "smile-stroke", "name": "smile-stroke", "file": "smile-stroke.svg", "relpath": "traco/usuários/smile-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["smile", "stroke"], "tags": [], "aliases": []}, {"id": "smile-triste-stroke", "name": "smile-triste-stroke", "file": "smile-triste-stroke.svg", "relpath": "traco/usuários/smile-triste-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["smile", "stroke", "triste"], "tags": [], "aliases": []}, {"id": "suspender-stroke", "name": "suspender-stroke", "file": "suspender-stroke.svg", "relpath": "traco/usuários/suspender-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["stroke", "suspender"], "tags": [], "aliases": []}, {"id": "usuario-mais-stroke", "name": "usuario-mais-stroke", "file": "usuario-mais-stroke.svg", "relpath": "traco/usuários/usuario-mais-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["mais", "stroke", "usuario"], "tags": [], "aliases": []}, {"id": "usuario-perfil-stroke", "name": "usuario-perfil-stroke", "file": "usuario-perfil-stroke.svg", "relpath": "traco/usuários/usuario-perfil-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["perfil", "stroke", "usuario"], "tags": [], "aliases": []}, {"id": "usuario-stroke", "name": "usuario-stroke", "file": "usuario-stroke.svg", "relpath": "traco/usuários/usuario-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["stroke", "usuario"], "tags": [], "aliases": []}, {"id": "usuario-visto-stroke", "name": "usuario-visto-stroke", "file": "usuario-visto-stroke.svg", "relpath": "traco/usuários/usuario-visto-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["stroke", "usuario", "visto"], "tags": [], "aliases": []}, {"id": "usuario-x-stroke", "name": "usuario-x-stroke", "file": "usuario-x-stroke.svg", "relpath": "traco/usuários/usuario-x-stroke.svg", "ext": "svg", "category_key": "usuarios", "category_name": "usuários", "keywords": ["stroke", "usuario", "x"], "tags": [], "aliases": []}]}], "warnings": ["ID duplicado 'alerta-stroke' em 2 arquivos"]}
+{
+  "schema_version": "1.1.0",
+  "generated_at": "2026-02-09T18:57:23.096577+00:00",
+  "root": "D:\\antonio\\Design System Correios\\THE NEW WAVE ICONES\\traco\\traco",
+  "stats": {
+    "total_icons": 174,
+    "total_categories": 16
+  },
+  "categories": [
+    {
+      "key": "acoes",
+      "name": "ações",
+      "count": 6,
+      "icons": [
+        {
+          "id": "alerta-stroke",
+          "name": "alerta-stroke",
+          "file": "alerta-stroke.svg",
+          "relpath": "ações/alerta-stroke.svg",
+          "ext": "svg",
+          "category_key": "acoes",
+          "category_name": "ações",
+          "keywords": [
+            "alerta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "customizacao-stroke",
+          "name": "customizacao-stroke",
+          "file": "customizacao-stroke.svg",
+          "relpath": "ações/customizacao-stroke.svg",
+          "ext": "svg",
+          "category_key": "acoes",
+          "category_name": "ações",
+          "keywords": [
+            "customizacao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "info-stroke",
+          "name": "info-stroke",
+          "file": "info-stroke.svg",
+          "relpath": "ações/info-stroke.svg",
+          "ext": "svg",
+          "category_key": "acoes",
+          "category_name": "ações",
+          "keywords": [
+            "info",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "lixo-stroke",
+          "name": "lixo-stroke",
+          "file": "lixo-stroke.svg",
+          "relpath": "ações/lixo-stroke.svg",
+          "ext": "svg",
+          "category_key": "acoes",
+          "category_name": "ações",
+          "keywords": [
+            "lixo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "lixo-visto-stroke",
+          "name": "lixo-visto-stroke",
+          "file": "lixo-visto-stroke.svg",
+          "relpath": "ações/lixo-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "acoes",
+          "category_name": "ações",
+          "keywords": [
+            "lixo",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "visto-stroke",
+          "name": "visto-stroke",
+          "file": "visto-stroke.svg",
+          "relpath": "ações/visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "acoes",
+          "category_name": "ações",
+          "keywords": [
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "compras",
+      "name": "compras",
+      "count": 10,
+      "icons": [
+        {
+          "id": "carrinho-stroke",
+          "name": "carrinho-stroke",
+          "file": "carrinho-stroke.svg",
+          "relpath": "compras/carrinho-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "carrinho",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "celular-carrinho-stroke",
+          "name": "celular-carrinho-stroke",
+          "file": "celular-carrinho-stroke.svg",
+          "relpath": "compras/celular-carrinho-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "carrinho",
+            "celular",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "celular-cesta-stroke",
+          "name": "celular-cesta-stroke",
+          "file": "celular-cesta-stroke.svg",
+          "relpath": "compras/celular-cesta-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "celular",
+            "cesta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "cesta-stroke",
+          "name": "cesta-stroke",
+          "file": "cesta-stroke.svg",
+          "relpath": "compras/cesta-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "cesta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "gift-card-stroke",
+          "name": "gift-card-stroke",
+          "file": "gift-card-stroke.svg",
+          "relpath": "compras/gift-card-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "card",
+            "gift",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "loja-stroke",
+          "name": "loja-stroke",
+          "file": "loja-stroke.svg",
+          "relpath": "compras/loja-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "loja",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "moda-stroke",
+          "name": "moda-stroke",
+          "file": "moda-stroke.svg",
+          "relpath": "compras/moda-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "moda",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "monitor-carrinho-stroke",
+          "name": "monitor-carrinho-stroke",
+          "file": "monitor-carrinho-stroke.svg",
+          "relpath": "compras/monitor-carrinho-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "carrinho",
+            "monitor",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "monitor-cesta-stroke",
+          "name": "monitor-cesta-stroke",
+          "file": "monitor-cesta-stroke.svg",
+          "relpath": "compras/monitor-cesta-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "cesta",
+            "monitor",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "sacola-stroke",
+          "name": "sacola-stroke",
+          "file": "sacola-stroke.svg",
+          "relpath": "compras/sacola-stroke.svg",
+          "ext": "svg",
+          "category_key": "compras",
+          "category_name": "compras",
+          "keywords": [
+            "sacola",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "construcoes",
+      "name": "construções",
+      "count": 11,
+      "icons": [
+        {
+          "id": "agencia-clique-retire-stroke",
+          "name": "agencia-clique-retire-stroke",
+          "file": "agencia-clique-retire-stroke.svg",
+          "relpath": "construções/agencia-clique-retire-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "clique",
+            "retire",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-exclamacao-stroke",
+          "name": "agencia-exclamacao-stroke",
+          "file": "agencia-exclamacao-stroke.svg",
+          "relpath": "construções/agencia-exclamacao-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "exclamacao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-fechada-stroke",
+          "name": "agencia-fechada-stroke",
+          "file": "agencia-fechada-stroke.svg",
+          "relpath": "construções/agencia-fechada-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "fechada",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-relogio-stroke",
+          "name": "agencia-relogio-stroke",
+          "file": "agencia-relogio-stroke.svg",
+          "relpath": "construções/agencia-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-roubo-stroke",
+          "name": "agencia-roubo-stroke",
+          "file": "agencia-roubo-stroke.svg",
+          "relpath": "construções/agencia-roubo-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "roubo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-seta-stroke",
+          "name": "agencia-seta-stroke",
+          "file": "agencia-seta-stroke.svg",
+          "relpath": "construções/agencia-seta-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "seta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-stroke",
+          "name": "agencia-stroke",
+          "file": "agencia-stroke.svg",
+          "relpath": "construções/agencia-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agencia-visto-stroke",
+          "name": "agencia-visto-stroke",
+          "file": "agencia-visto-stroke.svg",
+          "relpath": "construções/agencia-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "agencia",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "cdd-caixas-stroke",
+          "name": "cdd-caixas-stroke",
+          "file": "cdd-caixas-stroke.svg",
+          "relpath": "construções/cdd-caixas-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "caixas",
+            "cdd",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "cdd-stroke",
+          "name": "cdd-stroke",
+          "file": "cdd-stroke.svg",
+          "relpath": "construções/cdd-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "cdd",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "predios-stroke",
+          "name": "predios-stroke",
+          "file": "predios-stroke.svg",
+          "relpath": "construções/predios-stroke.svg",
+          "ext": "svg",
+          "category_key": "construcoes",
+          "category_name": "construções",
+          "keywords": [
+            "predios",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "contatos",
+      "name": "contatos",
+      "count": 10,
+      "icons": [
+        {
+          "id": "balao-exclamacao-stroke",
+          "name": "balao-exclamacao-stroke",
+          "file": "balao-exclamacao-stroke.svg",
+          "relpath": "contatos/balao-exclamacao-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "exclamacao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-mais-stroke",
+          "name": "balao-mais-stroke",
+          "file": "balao-mais-stroke.svg",
+          "relpath": "contatos/balao-mais-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "mais",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-pergunta-stroke",
+          "name": "balao-pergunta-stroke",
+          "file": "balao-pergunta-stroke.svg",
+          "relpath": "contatos/balao-pergunta-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "pergunta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-pontos-stroke",
+          "name": "balao-pontos-stroke",
+          "file": "balao-pontos-stroke.svg",
+          "relpath": "contatos/balao-pontos-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "pontos",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-relogio-stroke",
+          "name": "balao-relogio-stroke",
+          "file": "balao-relogio-stroke.svg",
+          "relpath": "contatos/balao-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-stroke",
+          "name": "balao-stroke",
+          "file": "balao-stroke.svg",
+          "relpath": "contatos/balao-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-visto-stroke",
+          "name": "balao-visto-stroke",
+          "file": "balao-visto-stroke.svg",
+          "relpath": "contatos/balao-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "balao-x-stroke",
+          "name": "balao-x-stroke",
+          "file": "balao-x-stroke.svg",
+          "relpath": "contatos/balao-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "balao",
+            "stroke",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "conversa-stroke",
+          "name": "conversa-stroke",
+          "file": "conversa-stroke.svg",
+          "relpath": "contatos/conversa-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "conversa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "megafone-stroke",
+          "name": "megafone-stroke",
+          "file": "megafone-stroke.svg",
+          "relpath": "contatos/megafone-stroke.svg",
+          "ext": "svg",
+          "category_key": "contatos",
+          "category_name": "contatos",
+          "keywords": [
+            "megafone",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "documentos",
+      "name": "documentos",
+      "count": 17,
+      "icons": [
+        {
+          "id": "declaracao-dividido-stroke",
+          "name": "declaracao-dividido-stroke",
+          "file": "declaracao-dividido-stroke.svg",
+          "relpath": "documentos/declaracao-dividido-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "declaracao",
+            "dividido",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "declaracao-inteiro-stroke",
+          "name": "declaracao-inteiro-stroke",
+          "file": "declaracao-inteiro-stroke.svg",
+          "relpath": "documentos/declaracao-inteiro-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "declaracao",
+            "inteiro",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-acompanhar-stroke",
+          "name": "documento-acompanhar-stroke",
+          "file": "documento-acompanhar-stroke.svg",
+          "relpath": "documentos/documento-acompanhar-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "acompanhar",
+            "documento",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-encaminhar-stroke",
+          "name": "documento-encaminhar-stroke",
+          "file": "documento-encaminhar-stroke.svg",
+          "relpath": "documentos/documento-encaminhar-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "encaminhar",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-hor-stroke",
+          "name": "documento-hor-stroke",
+          "file": "documento-hor-stroke.svg",
+          "relpath": "documentos/documento-hor-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "hor",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-mais-stroke",
+          "name": "documento-mais-stroke",
+          "file": "documento-mais-stroke.svg",
+          "relpath": "documentos/documento-mais-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "mais",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-quadrado-stroke",
+          "name": "documento-quadrado-stroke",
+          "file": "documento-quadrado-stroke.svg",
+          "relpath": "documentos/documento-quadrado-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "quadrado",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-stroke",
+          "name": "documento-stroke",
+          "file": "documento-stroke.svg",
+          "relpath": "documentos/documento-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-verificar-stroke",
+          "name": "documento-verificar-stroke",
+          "file": "documento-verificar-stroke.svg",
+          "relpath": "documentos/documento-verificar-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "stroke",
+            "verificar"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-visto-stroke",
+          "name": "documento-visto-stroke",
+          "file": "documento-visto-stroke.svg",
+          "relpath": "documentos/documento-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-voltar-stroke",
+          "name": "documento-voltar-stroke",
+          "file": "documento-voltar-stroke.svg",
+          "relpath": "documentos/documento-voltar-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "stroke",
+            "voltar"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "documento-x-stroke",
+          "name": "documento-x-stroke",
+          "file": "documento-x-stroke.svg",
+          "relpath": "documentos/documento-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "documento",
+            "stroke",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "folha-tabela-stroke",
+          "name": "folha-tabela-stroke",
+          "file": "folha-tabela-stroke.svg",
+          "relpath": "documentos/folha-tabela-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "folha",
+            "stroke",
+            "tabela"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "impessao-a4-stroke",
+          "name": "impessao-a4-stroke",
+          "file": "impessao-a4-stroke.svg",
+          "relpath": "documentos/impessao-a4-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "a4",
+            "impessao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "lista-relogio-stroke",
+          "name": "lista-relogio-stroke",
+          "file": "lista-relogio-stroke.svg",
+          "relpath": "documentos/lista-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "lista",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "lista-stroke",
+          "name": "lista-stroke",
+          "file": "lista-stroke.svg",
+          "relpath": "documentos/lista-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "lista",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "prancheta-visto-stroke",
+          "name": "prancheta-visto-stroke",
+          "file": "prancheta-visto-stroke.svg",
+          "relpath": "documentos/prancheta-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "documentos",
+          "category_name": "documentos",
+          "keywords": [
+            "prancheta",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "envios-e-recebimentos",
+      "name": "envios e recebimentos",
+      "count": 55,
+      "icons": [
+        {
+          "id": "aviao-relogio-stroke",
+          "name": "aviao-relogio-stroke",
+          "file": "aviao-relogio-stroke.svg",
+          "relpath": "envios e recebimentos/aviao-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "aviao",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "aviao-stroke",
+          "name": "aviao-stroke",
+          "file": "aviao-stroke.svg",
+          "relpath": "envios e recebimentos/aviao-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "aviao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "aviao-x-stroke",
+          "name": "aviao-x-stroke",
+          "file": "aviao-x-stroke.svg",
+          "relpath": "envios e recebimentos/aviao-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "aviao",
+            "stroke",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "aviaozinho-stroke",
+          "name": "aviaozinho-stroke",
+          "file": "aviaozinho-stroke.svg",
+          "relpath": "envios e recebimentos/aviaozinho-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "aviaozinho",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-aberta-stroke",
+          "name": "caixa-aberta-stroke",
+          "file": "caixa-aberta-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-aberta-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "aberta",
+            "caixa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-cadeado-aberto-stroke",
+          "name": "caixa-cadeado-aberto-stroke",
+          "file": "caixa-cadeado-aberto-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-cadeado-aberto-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "aberto",
+            "cadeado",
+            "caixa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-cadeado-stroke",
+          "name": "caixa-cadeado-stroke",
+          "file": "caixa-cadeado-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-cadeado-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "cadeado",
+            "caixa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-documento-stroke",
+          "name": "caixa-documento-stroke",
+          "file": "caixa-documento-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-documento-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "documento",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-enviar-stroke",
+          "name": "caixa-enviar-stroke",
+          "file": "caixa-enviar-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-enviar-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "enviar",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-exclamacao-stroke",
+          "name": "caixa-exclamacao-stroke",
+          "file": "caixa-exclamacao-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-exclamacao-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "exclamacao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-lixo-stroke",
+          "name": "caixa-lixo-stroke",
+          "file": "caixa-lixo-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-lixo-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "lixo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-nao-permitido",
+          "name": "caixa-nao-permitido",
+          "file": "caixa-nao-permitido.svg",
+          "relpath": "envios e recebimentos/caixa-nao-permitido.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "nao",
+            "permitido"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-pin-stroke",
+          "name": "caixa-pin-stroke",
+          "file": "caixa-pin-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-pin-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "pin",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-proibido",
+          "name": "caixa-proibido",
+          "file": "caixa-proibido.svg",
+          "relpath": "envios e recebimentos/caixa-proibido.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "proibido"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-recebida-stroke",
+          "name": "caixa-recebida-stroke",
+          "file": "caixa-recebida-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-recebida-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "recebida",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-relogio-stroke",
+          "name": "caixa-relogio-stroke",
+          "file": "caixa-relogio-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-roubo-stroke",
+          "name": "caixa-roubo-stroke",
+          "file": "caixa-roubo-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-roubo-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "roubo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-sinistro-stroke",
+          "name": "caixa-sinistro-stroke",
+          "file": "caixa-sinistro-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-sinistro-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "sinistro",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-smile-stroke",
+          "name": "caixa-smile-stroke",
+          "file": "caixa-smile-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-smile-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "smile",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-stroke",
+          "name": "caixa-stroke",
+          "file": "caixa-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-visto-stroke",
+          "name": "caixa-visto-stroke",
+          "file": "caixa-visto-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-voltar-stroke",
+          "name": "caixa-voltar-stroke",
+          "file": "caixa-voltar-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-voltar-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "stroke",
+            "voltar"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixa-x-stroke",
+          "name": "caixa-x-stroke",
+          "file": "caixa-x-stroke.svg",
+          "relpath": "envios e recebimentos/caixa-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixa",
+            "stroke",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixas-incompleto",
+          "name": "caixas-incompleto",
+          "file": "caixas-incompleto.svg",
+          "relpath": "envios e recebimentos/caixas-incompleto.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixas",
+            "incompleto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixas-recebidas-stroke",
+          "name": "caixas-recebidas-stroke",
+          "file": "caixas-recebidas-stroke.svg",
+          "relpath": "envios e recebimentos/caixas-recebidas-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixas",
+            "recebidas",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caixas-stroke",
+          "name": "caixas-stroke",
+          "file": "caixas-stroke.svg",
+          "relpath": "envios e recebimentos/caixas-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caixas",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-atencao-stroke",
+          "name": "caminhao-atencao-stroke",
+          "file": "caminhao-atencao-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-atencao-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "atencao",
+            "caminhao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-cancelado-stroke",
+          "name": "caminhao-cancelado-stroke",
+          "file": "caminhao-cancelado-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-cancelado-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "cancelado",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-correndo-stroke",
+          "name": "caminhao-correndo-stroke",
+          "file": "caminhao-correndo-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-correndo-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "correndo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-lupa-stroke",
+          "name": "caminhao-lupa-stroke",
+          "file": "caminhao-lupa-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-lupa-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "lupa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-lupa-visto-stroke",
+          "name": "caminhao-lupa-visto-stroke",
+          "file": "caminhao-lupa-visto-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-lupa-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "lupa",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-relogio-stroke",
+          "name": "caminhao-relogio-stroke",
+          "file": "caminhao-relogio-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-roubo-stroke",
+          "name": "caminhao-roubo-stroke",
+          "file": "caminhao-roubo-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-roubo-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "roubo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-seta-stroke",
+          "name": "caminhao-seta-stroke",
+          "file": "caminhao-seta-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-seta-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "seta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-stroke",
+          "name": "caminhao-stroke",
+          "file": "caminhao-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "caminhao-visto-stroke",
+          "name": "caminhao-visto-stroke",
+          "file": "caminhao-visto-stroke.svg",
+          "relpath": "envios e recebimentos/caminhao-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "caminhao",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "carta-stroke",
+          "name": "carta-stroke",
+          "file": "carta-stroke.svg",
+          "relpath": "envios e recebimentos/carta-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "carta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "carta-voando-stroke",
+          "name": "carta-voando-stroke",
+          "file": "carta-voando-stroke.svg",
+          "relpath": "envios e recebimentos/carta-voando-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "carta",
+            "stroke",
+            "voando"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "celular-carta-stroke",
+          "name": "celular-carta-stroke",
+          "file": "celular-carta-stroke.svg",
+          "relpath": "envios e recebimentos/celular-carta-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "carta",
+            "celular",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "envelope-mala-direta-stroke",
+          "name": "envelope-mala-direta-stroke",
+          "file": "envelope-mala-direta-stroke.svg",
+          "relpath": "envios e recebimentos/envelope-mala-direta-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "direta",
+            "envelope",
+            "mala",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "locker-stroke",
+          "name": "locker-stroke",
+          "file": "locker-stroke.svg",
+          "relpath": "envios e recebimentos/locker-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "locker",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "logistica-reversa-stroke",
+          "name": "logistica-reversa-stroke",
+          "file": "logistica-reversa-stroke.svg",
+          "relpath": "envios e recebimentos/logistica-reversa-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "logistica",
+            "reversa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "malote-pre-postado-stroke",
+          "name": "malote-pre-postado-stroke",
+          "file": "malote-pre-postado-stroke.svg",
+          "relpath": "envios e recebimentos/malote-pre-postado-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "malote",
+            "postado",
+            "pre",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "malote-seta-stroke",
+          "name": "malote-seta-stroke",
+          "file": "malote-seta-stroke.svg",
+          "relpath": "envios e recebimentos/malote-seta-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "malote",
+            "seta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "malote-stroke",
+          "name": "malote-stroke",
+          "file": "malote-stroke.svg",
+          "relpath": "envios e recebimentos/malote-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "malote",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "malote-visto-stroke",
+          "name": "malote-visto-stroke",
+          "file": "malote-visto-stroke.svg",
+          "relpath": "envios e recebimentos/malote-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "malote",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "postagem-stroke",
+          "name": "postagem-stroke",
+          "file": "postagem-stroke.svg",
+          "relpath": "envios e recebimentos/postagem-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "postagem",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "postagem-x-stroke",
+          "name": "postagem-x-stroke",
+          "file": "postagem-x-stroke.svg",
+          "relpath": "envios e recebimentos/postagem-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "postagem",
+            "stroke",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "rastreamento-stroke",
+          "name": "rastreamento-stroke",
+          "file": "rastreamento-stroke.svg",
+          "relpath": "envios e recebimentos/rastreamento-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "rastreamento",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "receber-encomenda-stroke",
+          "name": "receber-encomenda-stroke",
+          "file": "receber-encomenda-stroke.svg",
+          "relpath": "envios e recebimentos/receber-encomenda-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "encomenda",
+            "receber",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "rolo-stroke",
+          "name": "rolo-stroke",
+          "file": "rolo-stroke.svg",
+          "relpath": "envios e recebimentos/rolo-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "rolo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "selo-stroke",
+          "name": "selo-stroke",
+          "file": "selo-stroke.svg",
+          "relpath": "envios e recebimentos/selo-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "selo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "telegrama-relogio-stroke",
+          "name": "telegrama-relogio-stroke",
+          "file": "telegrama-relogio-stroke.svg",
+          "relpath": "envios e recebimentos/telegrama-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "relogio",
+            "stroke",
+            "telegrama"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "telegrama-stroke",
+          "name": "telegrama-stroke",
+          "file": "telegrama-stroke.svg",
+          "relpath": "envios e recebimentos/telegrama-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "stroke",
+            "telegrama"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "telegrama-visto-stroke",
+          "name": "telegrama-visto-stroke",
+          "file": "telegrama-visto-stroke.svg",
+          "relpath": "envios e recebimentos/telegrama-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "envios-e-recebimentos",
+          "category_name": "envios e recebimentos",
+          "keywords": [
+            "stroke",
+            "telegrama",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "etiquetas",
+      "name": "etiquetas",
+      "count": 9,
+      "icons": [
+        {
+          "id": "codigo-barra-stroke",
+          "name": "codigo-barra-stroke",
+          "file": "codigo-barra-stroke.svg",
+          "relpath": "etiquetas/codigo-barra-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "barra",
+            "codigo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "etiqueta-atencao-stroke",
+          "name": "etiqueta-atencao-stroke",
+          "file": "etiqueta-atencao-stroke.svg",
+          "relpath": "etiquetas/etiqueta-atencao-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "atencao",
+            "etiqueta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "etiqueta-cancelada-stroke",
+          "name": "etiqueta-cancelada-stroke",
+          "file": "etiqueta-cancelada-stroke.svg",
+          "relpath": "etiquetas/etiqueta-cancelada-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "cancelada",
+            "etiqueta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "etiqueta-relogio-stroke",
+          "name": "etiqueta-relogio-stroke",
+          "file": "etiqueta-relogio-stroke.svg",
+          "relpath": "etiquetas/etiqueta-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "etiqueta",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "etiqueta-visto-stroke",
+          "name": "etiqueta-visto-stroke",
+          "file": "etiqueta-visto-stroke.svg",
+          "relpath": "etiquetas/etiqueta-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "etiqueta",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "impressao-etiqueta-stroke",
+          "name": "impressao-etiqueta-stroke",
+          "file": "impressao-etiqueta-stroke.svg",
+          "relpath": "etiquetas/impressao-etiqueta-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "etiqueta",
+            "impressao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "leitor-codigo-stroke",
+          "name": "leitor-codigo-stroke",
+          "file": "leitor-codigo-stroke.svg",
+          "relpath": "etiquetas/leitor-codigo-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "codigo",
+            "leitor",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "qr-code-stroke",
+          "name": "qr-code-stroke",
+          "file": "qr-code-stroke.svg",
+          "relpath": "etiquetas/qr-code-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "code",
+            "qr",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "ticket-stroke",
+          "name": "ticket-stroke",
+          "file": "ticket-stroke.svg",
+          "relpath": "etiquetas/ticket-stroke.svg",
+          "ext": "svg",
+          "category_key": "etiquetas",
+          "category_name": "etiquetas",
+          "keywords": [
+            "stroke",
+            "ticket"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "graficos",
+      "name": "gráficos",
+      "count": 1,
+      "icons": [
+        {
+          "id": "grafico-stroke",
+          "name": "grafico-stroke",
+          "file": "grafico-stroke.svg",
+          "relpath": "gráficos/grafico-stroke.svg",
+          "ext": "svg",
+          "category_key": "graficos",
+          "category_name": "gráficos",
+          "keywords": [
+            "grafico",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "listas-categorias-e-marcadores",
+      "name": "listas, categorias e marcadores",
+      "count": 1,
+      "icons": [
+        {
+          "id": "categorias-stroke",
+          "name": "categorias-stroke",
+          "file": "categorias-stroke.svg",
+          "relpath": "listas, categorias e marcadores/categorias-stroke.svg",
+          "ext": "svg",
+          "category_key": "listas-categorias-e-marcadores",
+          "category_name": "listas, categorias e marcadores",
+          "keywords": [
+            "categorias",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "localizacao",
+      "name": "localização",
+      "count": 9,
+      "icons": [
+        {
+          "id": "bandeira-brasil-stroke",
+          "name": "bandeira-brasil-stroke",
+          "file": "bandeira-brasil-stroke.svg",
+          "relpath": "localização/bandeira-brasil-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "bandeira",
+            "brasil",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "mapa-interrogacao-stroke",
+          "name": "mapa-interrogacao-stroke",
+          "file": "mapa-interrogacao-stroke.svg",
+          "relpath": "localização/mapa-interrogacao-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "interrogacao",
+            "mapa",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "mapa-pin-stroke",
+          "name": "mapa-pin-stroke",
+          "file": "mapa-pin-stroke.svg",
+          "relpath": "localização/mapa-pin-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "mapa",
+            "pin",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "mundo-seta-stroke",
+          "name": "mundo-seta-stroke",
+          "file": "mundo-seta-stroke.svg",
+          "relpath": "localização/mundo-seta-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "mundo",
+            "seta",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "mundo-stroke",
+          "name": "mundo-stroke",
+          "file": "mundo-stroke.svg",
+          "relpath": "localização/mundo-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "mundo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "pin-caixa-stroke",
+          "name": "pin-caixa-stroke",
+          "file": "pin-caixa-stroke.svg",
+          "relpath": "localização/pin-caixa-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "caixa",
+            "pin",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "pin-casa-stroke",
+          "name": "pin-casa-stroke",
+          "file": "pin-casa-stroke.svg",
+          "relpath": "localização/pin-casa-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "casa",
+            "pin",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "pin-correios-stroke",
+          "name": "pin-correios-stroke",
+          "file": "pin-correios-stroke.svg",
+          "relpath": "localização/pin-correios-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "correios",
+            "pin",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "pin-lupa-stroke",
+          "name": "pin-lupa-stroke",
+          "file": "pin-lupa-stroke.svg",
+          "relpath": "localização/pin-lupa-stroke.svg",
+          "ext": "svg",
+          "category_key": "localizacao",
+          "category_name": "localização",
+          "keywords": [
+            "lupa",
+            "pin",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "midias-e-dispositivos",
+      "name": "mídias e dispositivos",
+      "count": 8,
+      "icons": [
+        {
+          "id": "computador-stroke",
+          "name": "computador-stroke",
+          "file": "computador-stroke.svg",
+          "relpath": "mídias e dispositivos/computador-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "computador",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "games-stroke",
+          "name": "games-stroke",
+          "file": "games-stroke.svg",
+          "relpath": "mídias e dispositivos/games-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "games",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "impressora-stroke",
+          "name": "impressora-stroke",
+          "file": "impressora-stroke.svg",
+          "relpath": "mídias e dispositivos/impressora-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "impressora",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "monitor-carta-stroke",
+          "name": "monitor-carta-stroke",
+          "file": "monitor-carta-stroke.svg",
+          "relpath": "mídias e dispositivos/monitor-carta-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "carta",
+            "monitor",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smartphone-chip-stroke",
+          "name": "smartphone-chip-stroke",
+          "file": "smartphone-chip-stroke.svg",
+          "relpath": "mídias e dispositivos/smartphone-chip-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "chip",
+            "smartphone",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smartphone-logo-stroke",
+          "name": "smartphone-logo-stroke",
+          "file": "smartphone-logo-stroke.svg",
+          "relpath": "mídias e dispositivos/smartphone-logo-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "logo",
+            "smartphone",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smartphone-stroke",
+          "name": "smartphone-stroke",
+          "file": "smartphone-stroke.svg",
+          "relpath": "mídias e dispositivos/smartphone-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "smartphone",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "tv-stroke",
+          "name": "tv-stroke",
+          "file": "tv-stroke.svg",
+          "relpath": "mídias e dispositivos/tv-stroke.svg",
+          "ext": "svg",
+          "category_key": "midias-e-dispositivos",
+          "category_name": "mídias e dispositivos",
+          "keywords": [
+            "stroke",
+            "tv"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "outros",
+      "name": "outros",
+      "count": 2,
+      "icons": [
+        {
+          "id": "bateria-lion-stroke",
+          "name": "bateria-lion-stroke",
+          "file": "bateria-lion-stroke.svg",
+          "relpath": "outros/bateria-lion-stroke.svg",
+          "ext": "svg",
+          "category_key": "outros",
+          "category_name": "outros",
+          "keywords": [
+            "bateria",
+            "lion",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "licitacao-stroke",
+          "name": "licitacao-stroke",
+          "file": "licitacao-stroke.svg",
+          "relpath": "outros/licitacao-stroke.svg",
+          "ext": "svg",
+          "category_key": "outros",
+          "category_name": "outros",
+          "keywords": [
+            "licitacao",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "pagamentos",
+      "name": "pagamentos",
+      "count": 11,
+      "icons": [
+        {
+          "id": "cartao-credito-stroke",
+          "name": "cartao-credito-stroke",
+          "file": "cartao-credito-stroke.svg",
+          "relpath": "pagamentos/cartao-credito-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "cartao",
+            "credito",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "cartao-postagem-stroke",
+          "name": "cartao-postagem-stroke",
+          "file": "cartao-postagem-stroke.svg",
+          "relpath": "pagamentos/cartao-postagem-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "cartao",
+            "postagem",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "desconto-stroke",
+          "name": "desconto-stroke",
+          "file": "desconto-stroke.svg",
+          "relpath": "pagamentos/desconto-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "desconto",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "dinheiro-reduzir-stroke",
+          "name": "dinheiro-reduzir-stroke",
+          "file": "dinheiro-reduzir-stroke.svg",
+          "relpath": "pagamentos/dinheiro-reduzir-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "dinheiro",
+            "reduzir",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "dinheiro-stroke",
+          "name": "dinheiro-stroke",
+          "file": "dinheiro-stroke.svg",
+          "relpath": "pagamentos/dinheiro-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "dinheiro",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "fatura-calculadora-stroke",
+          "name": "fatura-calculadora-stroke",
+          "file": "fatura-calculadora-stroke.svg",
+          "relpath": "pagamentos/fatura-calculadora-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "calculadora",
+            "fatura",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "fatura-relogio-stroke",
+          "name": "fatura-relogio-stroke",
+          "file": "fatura-relogio-stroke.svg",
+          "relpath": "pagamentos/fatura-relogio-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "fatura",
+            "relogio",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "fatura-stroke",
+          "name": "fatura-stroke",
+          "file": "fatura-stroke.svg",
+          "relpath": "pagamentos/fatura-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "fatura",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "fatura-visto-stroke",
+          "name": "fatura-visto-stroke",
+          "file": "fatura-visto-stroke.svg",
+          "relpath": "pagamentos/fatura-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "fatura",
+            "stroke",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "fatura-voltar-stroke",
+          "name": "fatura-voltar-stroke",
+          "file": "fatura-voltar-stroke.svg",
+          "relpath": "pagamentos/fatura-voltar-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "fatura",
+            "stroke",
+            "voltar"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "fatura-x-stroke",
+          "name": "fatura-x-stroke",
+          "file": "fatura-x-stroke.svg",
+          "relpath": "pagamentos/fatura-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "pagamentos",
+          "category_name": "pagamentos",
+          "keywords": [
+            "fatura",
+            "stroke",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "seguranca",
+      "name": "segurança",
+      "count": 4,
+      "icons": [
+        {
+          "id": "cadeado-aberto-stroke",
+          "name": "cadeado-aberto-stroke",
+          "file": "cadeado-aberto-stroke.svg",
+          "relpath": "segurança/cadeado-aberto-stroke.svg",
+          "ext": "svg",
+          "category_key": "seguranca",
+          "category_name": "segurança",
+          "keywords": [
+            "aberto",
+            "cadeado",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "cadeado-stroke",
+          "name": "cadeado-stroke",
+          "file": "cadeado-stroke.svg",
+          "relpath": "segurança/cadeado-stroke.svg",
+          "ext": "svg",
+          "category_key": "seguranca",
+          "category_name": "segurança",
+          "keywords": [
+            "cadeado",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "proteger-stroke",
+          "name": "proteger-stroke",
+          "file": "proteger-stroke.svg",
+          "relpath": "segurança/proteger-stroke.svg",
+          "ext": "svg",
+          "category_key": "seguranca",
+          "category_name": "segurança",
+          "keywords": [
+            "proteger",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "protegido-stroke",
+          "name": "protegido-stroke",
+          "file": "protegido-stroke.svg",
+          "relpath": "segurança/protegido-stroke.svg",
+          "ext": "svg",
+          "category_key": "seguranca",
+          "category_name": "segurança",
+          "keywords": [
+            "protegido",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "tempo-e-data",
+      "name": "tempo e data",
+      "count": 4,
+      "icons": [
+        {
+          "id": "agenda-stroke",
+          "name": "agenda-stroke",
+          "file": "agenda-stroke.svg",
+          "relpath": "tempo e data/agenda-stroke.svg",
+          "ext": "svg",
+          "category_key": "tempo-e-data",
+          "category_name": "tempo e data",
+          "keywords": [
+            "agenda",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "agendamento-stroke",
+          "name": "agendamento-stroke",
+          "file": "agendamento-stroke.svg",
+          "relpath": "tempo e data/agendamento-stroke.svg",
+          "ext": "svg",
+          "category_key": "tempo-e-data",
+          "category_name": "tempo e data",
+          "keywords": [
+            "agendamento",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "excluir-agenda-stroke",
+          "name": "excluir-agenda-stroke",
+          "file": "excluir-agenda-stroke.svg",
+          "relpath": "tempo e data/excluir-agenda-stroke.svg",
+          "ext": "svg",
+          "category_key": "tempo-e-data",
+          "category_name": "tempo e data",
+          "keywords": [
+            "agenda",
+            "excluir",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "precos-prazos-stroke",
+          "name": "precos-prazos-stroke",
+          "file": "precos-prazos-stroke.svg",
+          "relpath": "tempo e data/precos-prazos-stroke.svg",
+          "ext": "svg",
+          "category_key": "tempo-e-data",
+          "category_name": "tempo e data",
+          "keywords": [
+            "prazos",
+            "precos",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "key": "usuarios",
+      "name": "usuários",
+      "count": 16,
+      "icons": [
+        {
+          "id": "achados-perdidos-stroke",
+          "name": "achados-perdidos-stroke",
+          "file": "achados-perdidos-stroke.svg",
+          "relpath": "usuários/achados-perdidos-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "achados",
+            "perdidos",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "atendente-stroke",
+          "name": "atendente-stroke",
+          "file": "atendente-stroke.svg",
+          "relpath": "usuários/atendente-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "atendente",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "carteiro-roubo-stroke",
+          "name": "carteiro-roubo-stroke",
+          "file": "carteiro-roubo-stroke.svg",
+          "relpath": "usuários/carteiro-roubo-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "carteiro",
+            "roubo",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "carteiro-stroke",
+          "name": "carteiro-stroke",
+          "file": "carteiro-stroke.svg",
+          "relpath": "usuários/carteiro-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "carteiro",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "comercial-stroke",
+          "name": "comercial-stroke",
+          "file": "comercial-stroke.svg",
+          "relpath": "usuários/comercial-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "comercial",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smile-alegre-stroke",
+          "name": "smile-alegre-stroke",
+          "file": "smile-alegre-stroke.svg",
+          "relpath": "usuários/smile-alegre-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "alegre",
+            "smile",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smile-confuso-stroke",
+          "name": "smile-confuso-stroke",
+          "file": "smile-confuso-stroke.svg",
+          "relpath": "usuários/smile-confuso-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "confuso",
+            "smile",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smile-serio-stroke",
+          "name": "smile-serio-stroke",
+          "file": "smile-serio-stroke.svg",
+          "relpath": "usuários/smile-serio-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "serio",
+            "smile",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smile-stroke",
+          "name": "smile-stroke",
+          "file": "smile-stroke.svg",
+          "relpath": "usuários/smile-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "smile",
+            "stroke"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "smile-triste-stroke",
+          "name": "smile-triste-stroke",
+          "file": "smile-triste-stroke.svg",
+          "relpath": "usuários/smile-triste-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "smile",
+            "stroke",
+            "triste"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "suspender-stroke",
+          "name": "suspender-stroke",
+          "file": "suspender-stroke.svg",
+          "relpath": "usuários/suspender-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "stroke",
+            "suspender"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "usuario-mais-stroke",
+          "name": "usuario-mais-stroke",
+          "file": "usuario-mais-stroke.svg",
+          "relpath": "usuários/usuario-mais-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "mais",
+            "stroke",
+            "usuario"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "usuario-perfil-stroke",
+          "name": "usuario-perfil-stroke",
+          "file": "usuario-perfil-stroke.svg",
+          "relpath": "usuários/usuario-perfil-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "perfil",
+            "stroke",
+            "usuario"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "usuario-stroke",
+          "name": "usuario-stroke",
+          "file": "usuario-stroke.svg",
+          "relpath": "usuários/usuario-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "stroke",
+            "usuario"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "usuario-visto-stroke",
+          "name": "usuario-visto-stroke",
+          "file": "usuario-visto-stroke.svg",
+          "relpath": "usuários/usuario-visto-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "stroke",
+            "usuario",
+            "visto"
+          ],
+          "tags": [],
+          "aliases": []
+        },
+        {
+          "id": "usuario-x-stroke",
+          "name": "usuario-x-stroke",
+          "file": "usuario-x-stroke.svg",
+          "relpath": "usuários/usuario-x-stroke.svg",
+          "ext": "svg",
+          "category_key": "usuarios",
+          "category_name": "usuários",
+          "keywords": [
+            "stroke",
+            "usuario",
+            "x"
+          ],
+          "tags": [],
+          "aliases": []
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
