@@ -1,3 +1,17 @@
+:root {
+  --cor-link-visited: var(--secundaria800);
+  --cor-link-active: var(--cor-primaria-alpha);
+}
+
+body.tema-escuro {
+  --cor-link-visited: var(--secundaria50);
+  --cor-link-active: var(--cor-primaria-alpha);
+}
+
+body.alto-contraste {
+  --cor-link-visited: var(--cor-ac-amarelo);
+}
+
 a {
   color: var(--cor-primaria);
   text-decoration: underline;
@@ -6,13 +20,11 @@ a {
 
 a:hover,
 a:active {
-  background-color: rgba(0, 99, 153, 0.08);
-  box-shadow: 0 0 0 3px rgba(0, 99, 153, 0.08);
+  background-color: var(--cor-link-active);
 }
 
 a:focus-visible {
-  background-color: rgba(0, 99, 153, 0.08);
-  outline: 2px solid var(--primario20);
+  outline: 2px solid var(--cor-focus);
   outline-offset: 3px;
 }
 
@@ -21,7 +33,7 @@ a:focus {
 }
 
 a:visited {
-  color: var(--secundario20);
+  color: var(--cor-link-visited);
 }
 
 a > i[class^='ic-'] {
@@ -34,133 +46,17 @@ a > img.ic-traco {
   width: 1.5rem;
 }
 
-/* ↳ Link - Tema Escuro */
-body.tema-escuro a:hover,
-body.tema-escuro a:active {
-  background-image: linear-gradient(
-    rgba(102, 201, 255, 0.08),
-    rgba(102, 201, 255, 0.08)
-  );
-  box-shadow: 0 0 0 3px rgba(102, 201, 255, 0.08);
-}
-
-body.tema-escuro a:focus-visible {
-  outline: 2px solid var(--primario95);
-}
-
-body.tema-escuro a:visited {
-  color: var(--secundario80);
-}
-
 /* ↳ Link em background azul correios */
-.bg-azul-correios a.link-sobre-azul {
-  color: var(--primario70);
-}
-
-.bg-azul-correios a.link-sobre-azul img.ic-traco {
-  filter: invert(71%) sepia(5%) saturate(6818%) hue-rotate(177deg)
-    brightness(106%) contrast(102%);
-}
-
-.bg-azul-correios a.link-sobre-azul:hover,
-.bg-azul-correios a.link-sobre-azul:active {
-  background-image: linear-gradient(
-    rgba(102, 201, 255, 0.08),
-    rgba(102, 201, 255, 0.08)
-  );
-  box-shadow: 0 0 0 3px rgba(102, 201, 255, 0.08);
-}
-
-.bg-azul-correios a.link-sobre-azul:focus-visible {
-  outline: 2px solid var(--primario95);
-}
-
-.bg-azul-correios a.link-sobre-azul:visited {
-  color: var(--secundario80);
-}
 
 /* ↳ Link em background secundário (amarelo correios) */
-.bg-secundaria a.link-sobre-amarelo:visited {
-  color: var(--secundario10);
-}
 
 /* ↳ Link em background secundário (amarelo correios) - Tema escuro */
-body.tema-escuro .bg-secundaria a.link-sobre-amarelo {
-  color: var(--primario30);
-}
-
-body.tema-escuro .bg-secundaria a.link-sobre-amarelo:visited {
-  color: var(--secundario10);
-}
-
-body.tema-escuro .bg-secundaria a.link-sobre-amarelo:hover,
-body.tema-escuro .bg-secundaria a.link-sobre-amarelo:active {
-  background-image: linear-gradient(
-    rgba(0, 99, 153, 0.08),
-    rgba(0, 99, 153, 0.08)
-  );
-  box-shadow: 0 0 0 3px rgba(0, 99, 153, 0.08);
-}
-
-body.tema-escuro .bg-secundaria a.link-sobre-amarelo:focus-visible {
-  background-image: linear-gradient(
-    rgba(0, 99, 153, 0.08),
-    rgba(0, 99, 153, 0.08)
-  );
-  outline: 2px solid var(--primario20);
-}
-
-/* ↳ Link - Alto contraste*/
-body.alto-contraste .bg-azul-correios a.link-sobre-azul {
-  color: var(--cor-ac-amarelo);
-}
-
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo {
-  color: var(--cor-ac-preto);
-}
-
-body.alto-contraste a:hover,
-body.alto-contraste .bg-azul-correios a.link-sobre-azul:hover,
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo:hover,
-body.alto-contraste a:active,
-body.alto-contraste .bg-azul-correios a.link-sobre-azul:active,
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo:active {
-  background-color: unset;
-  background-image: unset;
-  box-shadow: unset;
-  outline: 2px solid var(--cor-ac-preto);
-}
-
-body.alto-contraste a:active,
-body.alto-contraste a:hover {
-  outline: 1px solid var(--cor-ac-amarelo);
-}
-
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo:hover,
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo:active,
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo:focus-visible {
-  outline: 2px solid var(--cor-ac-preto);
-}
-
-body.alto-contraste a:focus-visible {
-  outline: 2px solid var(--cor-ac-branco);
-  box-shadow: none;
-}
-
-body.alto-contraste a:focus {
-  box-shadow: none;
-}
-
-body.alto-contraste a:visited,
-body.alto-contraste .bg-azul-correios a.link-sobre-azul:visited {
-  color: var(--cor-ac-amarelo);
-}
-
-body.alto-contraste .bg-secundaria a.link-sobre-amarelo:visited {
-  color: var(--cor-ac-preto);
-}
 
 body.alto-contraste a img.ic-traco {
   filter: invert(72%) sepia(93%) saturate(560%) hue-rotate(358deg)
     brightness(101%) contrast(105%);
+}
+
+body.alto-contraste a:hover {
+  outline: 1px solid var(--cor-ac-amarelo);
 }

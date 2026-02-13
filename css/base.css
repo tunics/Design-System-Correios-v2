@@ -1,9 +1,9 @@
 @import url(icones-correios-outline.css);
 @import url(cores.css);
 @import url(elementos-marca.css);
+@import url(links.css);
 @import url(botoes.css);
 @import url(inputs.css);
-@import url(links.css);
 @import url(cards.css);
 @import url(chips.css);
 @import url(dialog.css);
@@ -320,12 +320,12 @@ body.alto-contraste .bg-superficie-var {
 }
 
 .bg-azul-correios {
-  background-color: var(--primario20);
+  background-color: var(--primaria700);
   color: var(--cor-sobre-primaria);
 }
 
 body.tema-escuro .bg-azul-correios {
-  color: var(--primario100);
+  color: var(--branco);
 }
 
 body.alto-contraste .bg-azul-correios {

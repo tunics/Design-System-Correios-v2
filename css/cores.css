@@ -77,15 +77,16 @@
   --cor-primaria: var(--primaria600);
   --cor-sobre-primaria: var(--primaria10);
   --cor-fonte-azul-correios: var(--primaria700);
-  --cor-primaria-hover: color-mix(in oklch, var(--cor-primaria), transparent 94%);
+  --cor-primaria-alpha: color-mix(in oklch, var(--cor-primaria), transparent 90%);
   --cor-focus: var(--primaria700);
 
   --cor-secundaria: var(--secundaria400);
   --cor-sobre-secundaria: var(--primaria700);
-  --cor-secundaria-hover: color-mix(in oklch, var(--cor-secundaria), transparent 93%);
+  --cor-secundaria-alpha: color-mix(in oklch, var(--cor-secundaria), transparent 93%);
 
   --cor-erro: var(--erro500);
   --cor-sobre-erro: var(--branco);
+  --cor-erro-alpha: color-mix(in oklch, var(--cor-erro), transparent 93%);
 
   --cor-fundo: var(--branco);
   --cor-sobre-fundo: var(--neutra800);
@@ -111,6 +112,7 @@ body.tema-escuro {
   --cor-primaria: var(--primaria200);
   --cor-sobre-primaria: var(--primaria700);
   --cor-fonte-azul-correios: var(--primaria100);
+  --cor-primaria-alpha: color-mix(in oklch, var(--cor-primaria), transparent 85%);
   --cor-focus: var(--primaria100);
 
   --cor-secundaria: var(--secundaria400);
@@ -138,14 +140,16 @@ body.alto-contraste {
   --cor-primaria: var(--cor-ac-amarelo);
   --cor-sobre-primaria: var(--cor-ac-preto);
   --cor-fonte-azul-correios: var(--cor-ac-branco);
-  --cor-primaria-hover: transparent;
-  --cor-focus: var(--cor-ac-amarelo);
+  --cor-primaria-alpha: transparent;
+  --cor-focus: var(--cor-ac-branco);
 
   --cor-secundaria: var(--cor-ac-amarelo);
   --cor-sobre-secundaria: var(--cor-ac-preto);
+  --cor-secundaria-alpha: transparent;
 
   --cor-erro: var(--cor-ac-amarelo);
   --cor-sobre-erro: var(--cor-ac-preto);
+  --cor-erro-alpha: transparent;
 
   --cor-fundo: var(--cor-ac-preto);
   --cor-sobre-fundo: var(--cor-ac-branco);
